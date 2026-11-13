@@ -1,12 +1,12 @@
 const GROWTH = {
-  upright: "直立", climbing: "攀援", shrub: "灌木", tree: "乔木", rosette: "莲座",
-  epiphytic: "附生", trailing: "垂吊", spreading: "蔓延", groundcover: "地被", other: "其他",
+  upright: "Upright", climbing: "Climbing", shrub: "Shrub", tree: "Tree", rosette: "Rosette",
+  epiphytic: "Epiphytic", trailing: "Trailing", spreading: "Spreading", groundcover: "Groundcover", other: "Other",
 };
-const CARE = { very_easy: "极易", easy: "容易", moderate: "中等", hard: "较难", expert: "专家级" };
+const CARE = { very_easy: "Very easy", easy: "Easy", moderate: "Moderate", hard: "Hard", expert: "Expert" };
 const CARE_ORDER = Object.keys(CARE);
 const IUCN = {
-  LC: "无危 LC", NT: "近危 NT", VU: "易危 VU", EN: "濒危 EN", CR: "极危 CR",
-  EW: "野外灭绝 EW", EX: "灭绝 EX", DD: "数据缺乏 DD",
+  LC: "Least Concern (LC)", NT: "Near Threatened (NT)", VU: "Vulnerable (VU)", EN: "Endangered (EN)",
+  CR: "Critically Endangered (CR)", EW: "Extinct in the Wild (EW)", EX: "Extinct (EX)", DD: "Data Deficient (DD)",
 };
 
 const $ = (id) => document.getElementById(id);
@@ -104,7 +104,7 @@ function openDetail(id) {
     ["生长类型", GROWTH[s.growth_type] || s.growth_type], ["株高", s.height_range],
     ["养护难度", CARE[s.care_difficulty] || s.care_difficulty],
     ["IUCN", s.iucnCategory && (IUCN[s.iucnCategory] || s.iucnCategory)],
-    ["常用名", (s.commonNames || []).join("、")],
+    ["常用名", (s.commonNames || []).join(", ")],
   ].filter(([, v]) => v);
   const links = [];
   if (s.gbifId) links.push(`<a href="https://www.gbif.org/species/${encodeURIComponent(s.gbifId)}" target="_blank" rel="noopener">GBIF</a>`);
