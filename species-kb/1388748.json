@@ -1,0 +1,28 @@
+{
+  "id": "1388748",
+  "scientificName": "Pachira aquatica Aubl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1388748",
+      "commonNames": [
+        "Money Plant",
+        "Provision tree",
+        "Guiana chestnut",
+        "Malabar chestnut",
+        "Water chestnut"
+      ],
+      "genus": "Pachira",
+      "family": "Malvaceae",
+      "scientificNameWithoutAuthor": "Pachira aquatica",
+      "scientificNameAuthorship": "Aubl.",
+      "gbifId": 3152235,
+      "powoId": "179762-2",
+      "iucnCategory": "LC",
+      "origin": "Southern Mexico to northern South America",
+      "growth_type": "tree",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "easy",
+      "description": "A tropical wetland tree with glossy hand-shaped compound leaves and, outdoors, large brush-like flowers followed by woody seed capsules."
+    }
+  }
+}

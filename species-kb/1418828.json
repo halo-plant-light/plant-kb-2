@@ -1,0 +1,28 @@
+{
+  "id": "1418828",
+  "scientificName": "Euphorbia obesa Hook.f.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1418828",
+      "commonNames": [
+        "Baseball Plant",
+        "Baseball Cactus",
+        "Living baseball",
+        "Fat Milkball",
+        "Gingham golf ball"
+      ],
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "scientificNameWithoutAuthor": "Euphorbia obesa",
+      "scientificNameAuthorship": "Hook.f.",
+      "gbifId": 4930719,
+      "powoId": "347540-1",
+      "iucnCategory": null,
+      "origin": "Eastern Cape, South Africa",
+      "growth_type": "upright",
+      "height_range": "0.08–0.2 m",
+      "care_difficulty": "moderate",
+      "description": "Baseball plant is a nearly spherical, spineless succulent with ribbed gray-green stems that become more cylindrical with age."
+    }
+  }
+}

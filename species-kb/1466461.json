@@ -1,0 +1,25 @@
+{
+  "id": "1466461",
+  "scientificName": "Rhaphidophora decursiva (Roxb.) Schott",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466461",
+      "commonNames": [
+        "Dragon tail",
+        "Schott plant"
+      ],
+      "genus": "Rhaphidophora",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Rhaphidophora decursiva",
+      "scientificNameAuthorship": "(Roxb.) Schott",
+      "gbifId": 5329707,
+      "powoId": "88471-1",
+      "iucnCategory": null,
+      "origin": "Indian subcontinent to southern China and Indochina",
+      "growth_type": "climbing",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "easy",
+      "description": "A vigorous tropical climber whose entire juvenile leaves mature into large, deeply divided green blades."
+    }
+  }
+}

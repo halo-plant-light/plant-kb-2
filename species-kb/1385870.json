@@ -1,0 +1,28 @@
+{
+  "id": "1385870",
+  "scientificName": "Caryota mitis Lour.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1385870",
+      "commonNames": [
+        "Burmese fishtail palm",
+        "Fishtail palm",
+        "Clustered fishtail palm",
+        "Tufted fishtail palm",
+        "Clustering fishtail palm"
+      ],
+      "genus": "Caryota",
+      "family": "Arecaceae",
+      "scientificNameWithoutAuthor": "Caryota mitis",
+      "scientificNameAuthorship": "Lour.",
+      "gbifId": 2738902,
+      "powoId": "665616-1",
+      "iucnCategory": "LC",
+      "origin": "South and Southeast Asia",
+      "growth_type": "tree",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "moderate",
+      "description": "A clustering palm with bipinnate fronds and wedge-shaped leaflets whose ragged tips resemble fishtails."
+    }
+  }
+}

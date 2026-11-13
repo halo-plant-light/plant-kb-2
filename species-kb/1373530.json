@@ -1,0 +1,28 @@
+{
+  "id": "1373530",
+  "scientificName": "Gynura aurantiaca (Blume) DC.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1373530",
+      "commonNames": [
+        "Velvetplant",
+        "Purple passionvine",
+        "Velvet Plant",
+        "Purple velvet plant",
+        "Purple velvetplant"
+      ],
+      "genus": "Gynura",
+      "family": "Asteraceae",
+      "scientificNameWithoutAuthor": "Gynura aurantiaca",
+      "scientificNameAuthorship": "(Blume) DC.",
+      "gbifId": 3115470,
+      "powoId": "211219-1",
+      "iucnCategory": null,
+      "origin": "Sumatra, Java and Sulawesi, Indonesia",
+      "growth_type": "spreading",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "moderate",
+      "description": "A soft-stemmed perennial whose toothed green leaves glow purple under a dense covering of violet hairs."
+    }
+  }
+}

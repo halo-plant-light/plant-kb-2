@@ -1,0 +1,28 @@
+{
+  "id": "1379722",
+  "scientificName": "Ananas comosus (L.) Merr.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1379722",
+      "commonNames": [
+        "Pineapple",
+        "Ananas",
+        "Pine Apple",
+        "Hala kahiki",
+        "Hala 'ai"
+      ],
+      "genus": "Ananas",
+      "family": "Bromeliaceae",
+      "scientificNameWithoutAuthor": "Ananas comosus",
+      "scientificNameAuthorship": "(L.) Merr.",
+      "gbifId": 5288819,
+      "powoId": "12322-2",
+      "iucnCategory": null,
+      "origin": "Tropical South America; exact origin uncertain",
+      "growth_type": "rosette",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "moderate",
+      "description": "A terrestrial bromeliad with a stiff spiral rosette of strap-like leaves and a central fused fruit topped by a leafy crown."
+    }
+  }
+}

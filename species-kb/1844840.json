@@ -1,0 +1,28 @@
+{
+  "id": "1844840",
+  "scientificName": "Sedum × rubrotinctum R.T.Clausen",
+  "projects": {
+    "k-world-flora": {
+      "id": "1844840",
+      "commonNames": [
+        "Jelly beans",
+        "Christmas cheer",
+        "Pork and-beans",
+        "Hybrid Sedum",
+        "Hybrid Stonecrop"
+      ],
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Sedum × rubrotinctum",
+      "scientificNameAuthorship": "R.T.Clausen",
+      "gbifId": 5688562,
+      "powoId": "275989-1",
+      "iucnCategory": null,
+      "origin": "Cultivated hybrid of Mexican ancestry",
+      "growth_type": "spreading",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "easy",
+      "description": "A branching succulent with glossy jelly-bean-shaped leaves that turn red at their tips in bright light."
+    }
+  }
+}

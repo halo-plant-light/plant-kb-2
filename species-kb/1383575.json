@@ -1,0 +1,28 @@
+{
+  "id": "1383575",
+  "scientificName": "Medinilla magnifica Lindl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1383575",
+      "commonNames": [
+        "Showy medinilla",
+        "Pink medinilla",
+        "Rose Grape",
+        "Malaysian orchid tree",
+        "Pink lantern"
+      ],
+      "genus": "Medinilla",
+      "family": "Melastomataceae",
+      "scientificNameWithoutAuthor": "Medinilla magnifica",
+      "scientificNameAuthorship": "Lindl.",
+      "gbifId": 3188507,
+      "powoId": "570289-1",
+      "iucnCategory": null,
+      "origin": "The Philippines",
+      "growth_type": "epiphytic",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "hard",
+      "description": "A tropical epiphytic shrub with large prominently veined leaves and spectacular pendant pink flower panicles framed by broad rosy bracts."
+    }
+  }
+}

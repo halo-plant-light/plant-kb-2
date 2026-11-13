@@ -1,0 +1,28 @@
+{
+  "id": "1361975",
+  "scientificName": "Ocimum basilicum L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1361975",
+      "commonNames": [
+        "Sweet basil",
+        "Basil",
+        "Thai basil",
+        "Common basil",
+        "ريحان"
+      ],
+      "genus": "Ocimum",
+      "family": "Lamiaceae",
+      "scientificNameWithoutAuthor": "Ocimum basilicum",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 2927096,
+      "powoId": "452874-1",
+      "iucnCategory": null,
+      "origin": "Tropical Africa and Asia; exact origin uncertain",
+      "growth_type": "upright",
+      "height_range": "0.2–0.8 m",
+      "care_difficulty": "easy",
+      "description": "A tender aromatic herb with soft opposite leaves and spikes of small flowers, grown in sweet, anise-scented and purple-leaved forms."
+    }
+  }
+}

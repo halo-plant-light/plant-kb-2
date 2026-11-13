@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>植物知识库</title>
+<meta name="description" content="260 种植物的学名、常用名、原产地、生长类型与养护难度,可搜索和筛选。">
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<header class="top">
+  <div class="wrap">
+    <h1>植物知识库</h1>
+    <p class="sub"><span id="total">260</span> 个物种 · 学名、常用名、原产地、养护难度</p>
+    <div class="search">
+      <input id="q" type="search" placeholder="搜索学名、常用名、科、属、原产地…" autocomplete="off" aria-label="搜索">
+    </div>
+    <div class="filters">
+      <select id="f-growth" aria-label="生长类型"></select>
+      <select id="f-care" aria-label="养护难度"></select>
+      <select id="f-family" aria-label="科"></select>
+      <select id="f-iucn" aria-label="IUCN 等级"></select>
+      <select id="sort" aria-label="排序">
+        <option value="name">按学名排序</option>
+        <option value="family">按科排序</option>
+        <option value="care">按养护难度(易→难)</option>
+      </select>
+      <button id="reset" type="button">重置</button>
+    </div>
+  </div>
+</header>
+
+<main class="wrap">
+  <p id="count" class="count" aria-live="polite"></p>
+  <div id="grid" class="grid"></div>
+  <p id="empty" class="empty" hidden>没有符合条件的物种。</p>
+</main>
+
+<dialog id="dlg">
+  <form method="dialog"><button class="close" aria-label="关闭">×</button></form>
+  <div id="detail"></div>
+</dialog>
+
+<footer class="wrap foot">数据来源:k-world-flora · 外部链接指向 GBIF 与 POWO</footer>
+<script src="assets/app.js"></script>
+</body>
+</html>

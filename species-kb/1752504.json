@@ -1,0 +1,27 @@
+{
+  "id": "1752504",
+  "scientificName": "Streptocarpus ionanthus (H.Wendl.) Christenh.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1752504",
+      "commonNames": [
+        "African Violet",
+        "Blue African violet",
+        "Usambara violet",
+        "Purple Violet"
+      ],
+      "genus": "Streptocarpus",
+      "family": "Gesneriaceae",
+      "scientificNameWithoutAuthor": "Streptocarpus ionanthus",
+      "scientificNameAuthorship": "(H.Wendl.) Christenh.",
+      "gbifId": 6710927,
+      "powoId": "77117375-1",
+      "iucnCategory": null,
+      "origin": "Tanzania and Kenya",
+      "growth_type": "rosette",
+      "height_range": "0.1–0.2 m",
+      "care_difficulty": "moderate",
+      "description": "A compact African violet with softly hairy leaves and clusters of violet-blue flowers above a low rosette."
+    }
+  }
+}

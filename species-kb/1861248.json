@@ -1,0 +1,25 @@
+{
+  "id": "1861248",
+  "scientificName": "Lutheria splendens (Brongn. ex Neumann) Barfuss & W.Till",
+  "projects": {
+    "k-world-flora": {
+      "id": "1861248",
+      "commonNames": [
+        "Flaming Sword",
+        "Flaming Sword Bromeliad"
+      ],
+      "genus": "Lutheria",
+      "family": "Bromeliaceae",
+      "scientificNameWithoutAuthor": "Lutheria splendens",
+      "scientificNameAuthorship": "(Brongn. ex Neumann) Barfuss & W.Till",
+      "gbifId": 9523461,
+      "powoId": "77158988-1",
+      "iucnCategory": null,
+      "origin": "Eastern Colombia, Venezuela, Guianas and Trinidad and Tobago",
+      "growth_type": "rosette",
+      "height_range": "0.3–0.5 m",
+      "care_difficulty": "moderate",
+      "description": "A tank-forming bromeliad with dark-banded strap leaves and a flattened, bright red sword-like flower spike."
+    }
+  }
+}

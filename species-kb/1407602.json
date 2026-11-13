@@ -1,0 +1,28 @@
+{
+  "id": "1407602",
+  "scientificName": "Guzmania lingulata (L.) Mez",
+  "projects": {
+    "k-world-flora": {
+      "id": "1407602",
+      "commonNames": [
+        "Scarlet star airplant",
+        "Droophead tufted airplant",
+        "Scarlet star",
+        "Bromelia",
+        "Bromeliad"
+      ],
+      "genus": "Guzmania",
+      "family": "Bromeliaceae",
+      "scientificNameWithoutAuthor": "Guzmania lingulata",
+      "scientificNameAuthorship": "(L.) Mez",
+      "gbifId": 2699095,
+      "powoId": "115161-2",
+      "iucnCategory": null,
+      "origin": "Southeastern Mexico, Caribbean and tropical South America",
+      "growth_type": "rosette",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "easy",
+      "description": "A tank-forming bromeliad with a green leaf rosette and a long-lasting star of brightly colored floral bracts."
+    }
+  }
+}

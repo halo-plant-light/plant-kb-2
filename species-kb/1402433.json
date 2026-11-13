@@ -1,0 +1,24 @@
+{
+  "id": "1402433",
+  "scientificName": "Anthurium jenmanii Engl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1402433",
+      "commonNames": [
+        "Atta mokka"
+      ],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium jenmanii",
+      "scientificNameAuthorship": "Engl.",
+      "gbifId": 2872699,
+      "powoId": "15369-2",
+      "iucnCategory": null,
+      "origin": "Trinidad and Tobago to northern South America",
+      "growth_type": "rosette",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "moderate",
+      "description": "A bird's-nest anthurium with broad, leathery green leaves forming an upright rosette with gently wavy margins."
+    }
+  }
+}

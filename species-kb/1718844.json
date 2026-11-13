@@ -1,0 +1,28 @@
+{
+  "id": "1718844",
+  "scientificName": "Dracaena trifasciata (Prain) Mabb.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1718844",
+      "commonNames": [
+        "Snake plant",
+        "Mother in laws tongue",
+        "Mother in-law's tongue",
+        "Viper's bowstring hemp",
+        "Mother in-law's nose"
+      ],
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Dracaena trifasciata",
+      "scientificNameAuthorship": "(Prain) Mabb.",
+      "gbifId": 11041822,
+      "powoId": "77164235-1",
+      "iucnCategory": null,
+      "origin": "West and West-Central tropical Africa",
+      "growth_type": "upright",
+      "height_range": "0.3–1.2 m",
+      "care_difficulty": "very_easy",
+      "description": "An exceptionally resilient rhizomatous plant with rigid, sword-shaped leaves patterned in transverse green bands."
+    }
+  }
+}

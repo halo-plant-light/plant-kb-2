@@ -1,0 +1,28 @@
+{
+  "id": "1720844",
+  "scientificName": "Alocasia odora (G.Lodd.) Spach",
+  "projects": {
+    "k-world-flora": {
+      "id": "1720844",
+      "commonNames": [
+        "Asian Taro",
+        "Elephant ear",
+        "Giant Elephant's Ear",
+        "Giant upright elephant's ear",
+        "Night scented lily"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia odora",
+      "scientificNameAuthorship": "(G.Lodd.) Spach",
+      "gbifId": 9506227,
+      "powoId": "60469948-2",
+      "iucnCategory": "LC",
+      "origin": "Eastern India to southern Japan and Borneo",
+      "growth_type": "upright",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "A robust elephant ear with large, upright, glossy green leaves and fragrant arum-like flower structures."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1363610",
+  "scientificName": "Kalanchoe delagoensis Eckl. & Zeyh.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363610",
+      "commonNames": [
+        "Chandelier plant",
+        "Mother of-millions",
+        "Mother of millions",
+        "Mother of Thousands",
+        "Leaf Everlasting"
+      ],
+      "genus": "Kalanchoe",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Kalanchoe delagoensis",
+      "scientificNameAuthorship": "Eckl. & Zeyh.",
+      "gbifId": 2985940,
+      "powoId": "274320-1",
+      "iucnCategory": null,
+      "origin": "Madagascar",
+      "growth_type": "upright",
+      "height_range": "0.3–1 m",
+      "care_difficulty": "very_easy",
+      "description": "A succulent with narrow mottled tubular leaves that carry tiny plantlets at their tips and terminal clusters of orange-red bells."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1528427",
+  "scientificName": "Cotyledon tomentosa Harv.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1528427",
+      "commonNames": [
+        "Bear paw",
+        "Bear paws",
+        "Fuzzy Pigsears",
+        "Bear's paw",
+        "Crassula congesta"
+      ],
+      "genus": "Cotyledon",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Cotyledon tomentosa",
+      "scientificNameAuthorship": "Harv.",
+      "gbifId": 7334615,
+      "powoId": "272893-1",
+      "iucnCategory": null,
+      "origin": "The Cape Provinces, South Africa",
+      "growth_type": "shrub",
+      "height_range": "0.2–0.6 m",
+      "care_difficulty": "easy",
+      "description": "A softly hairy succulent shrub with plump, claw-tipped leaves resembling miniature bear paws."
+    }
+  }
+}

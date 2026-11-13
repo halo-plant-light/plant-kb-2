@@ -1,0 +1,24 @@
+{
+  "id": "1843636",
+  "scientificName": "Alocasia × mortfontanensis André",
+  "projects": {
+    "k-world-flora": {
+      "id": "1843636",
+      "commonNames": [
+        "African Mask Plant"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia × mortfontanensis",
+      "scientificNameAuthorship": "André",
+      "gbifId": 5532250,
+      "powoId": "84211-1",
+      "iucnCategory": null,
+      "origin": "Cultivated hybrid of Southeast Asian ancestry",
+      "growth_type": "upright",
+      "height_range": "0.4–0.9 m",
+      "care_difficulty": "hard",
+      "description": "A cultivated elephant-ear hybrid with dark arrow-shaped leaves emphasized by bold pale veins and deeply shaped margins."
+    }
+  }
+}

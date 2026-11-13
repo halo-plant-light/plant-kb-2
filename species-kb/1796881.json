@@ -1,0 +1,22 @@
+{
+  "id": "1796881",
+  "scientificName": "Hoya kentiana C.M.Burton",
+  "projects": {
+    "k-world-flora": {
+      "id": "1796881",
+      "commonNames": [],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya kentiana",
+      "scientificNameAuthorship": "C.M.Burton",
+      "gbifId": 3573967,
+      "powoId": "958694-1",
+      "iucnCategory": null,
+      "origin": "Luzon, Philippines",
+      "growth_type": "climbing",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "A slender-leaved hoya with narrow, dark-edged foliage and small clusters of deep reddish waxy flowers."
+    }
+  }
+}

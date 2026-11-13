@@ -1,0 +1,25 @@
+{
+  "id": "1789116",
+  "scientificName": "Microsorum musifolium (Blume) Copel.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1789116",
+      "commonNames": [
+        "Crocodile fern",
+        "Crocodyllus aka Crocodile Fern"
+      ],
+      "genus": "Microsorum",
+      "family": "Polypodiaceae",
+      "scientificNameWithoutAuthor": "Microsorum musifolium",
+      "scientificNameAuthorship": "(Blume) Copel.",
+      "gbifId": 4025019,
+      "powoId": "17341220-1",
+      "iucnCategory": null,
+      "origin": "Southern Myanmar through parts of Malesia to New Guinea",
+      "growth_type": "epiphytic",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "moderate",
+      "description": "A tropical fern with broad, strap-shaped fronds patterned by a conspicuous crocodile-skin network of veins."
+    }
+  }
+}

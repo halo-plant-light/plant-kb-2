@@ -1,0 +1,28 @@
+{
+  "id": "1409692",
+  "scientificName": "Hoya carnosa (L.f.) R.Br.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409692",
+      "commonNames": [
+        "Honeyplant",
+        "Waxplant",
+        "Hindu Rope",
+        "Porcelainflower",
+        "Porcelain flower"
+      ],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya carnosa",
+      "scientificNameAuthorship": "(L.f.) R.Br.",
+      "gbifId": 8658195,
+      "powoId": "107308-3",
+      "iucnCategory": null,
+      "origin": "Southern China to Laos; southern Japan and Taiwan",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "easy",
+      "description": "Wax plant is a twining vine with thick glossy leaves and rounded clusters of fragrant, porcelain-like star-shaped flowers."
+    }
+  }
+}

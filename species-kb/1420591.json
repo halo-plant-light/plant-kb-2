@@ -1,0 +1,28 @@
+{
+  "id": "1420591",
+  "scientificName": "Phoradendron leucarpum (Raf.) Reveal & M.C.Johnst.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1420591",
+      "commonNames": [
+        "Oak mistletoe",
+        "American mistletoe",
+        "American Christmas mistletoe",
+        "Christmas Mistletoe",
+        "Eastern mistletoe"
+      ],
+      "genus": "Phoradendron",
+      "family": "Santalaceae",
+      "scientificNameWithoutAuthor": "Phoradendron leucarpum",
+      "scientificNameAuthorship": "(Raf.) Reveal & M.C.Johnst.",
+      "gbifId": 2889887,
+      "powoId": "1085915-2",
+      "iucnCategory": null,
+      "origin": "Central and eastern United States south into Mexico",
+      "growth_type": "other",
+      "height_range": "0.3–0.9 m",
+      "care_difficulty": "expert",
+      "description": "American mistletoe is an evergreen woody hemiparasite that forms leafy clumps and white berries on the branches of living trees."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1465163",
+  "scientificName": "Anthurium vittariifolium Engl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1465163",
+      "commonNames": [],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium vittariifolium",
+      "scientificNameAuthorship": "Engl.",
+      "gbifId": 2873406,
+      "powoId": "15820-2",
+      "iucnCategory": null,
+      "origin": "Southeastern Colombia, Peru and Amazonas in northern Brazil",
+      "growth_type": "epiphytic",
+      "height_range": "0.2–0.5 m",
+      "care_difficulty": "hard",
+      "description": "A strap-leaved epiphyte forming a cascading curtain of narrow, leathery green leaves."
+    }
+  }
+}

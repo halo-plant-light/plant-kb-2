@@ -1,0 +1,28 @@
+{
+  "id": "1856623",
+  "scientificName": "Alocasia zebrina G.W.Johnson & R.Hogg",
+  "projects": {
+    "k-world-flora": {
+      "id": "1856623",
+      "commonNames": [
+        "Zebra alocasia",
+        "Zebra Plant",
+        "Tiger Alocasia",
+        "Tiger Taro",
+        "Zebra Taro"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia zebrina",
+      "scientificNameAuthorship": "G.W.Johnson & R.Hogg",
+      "gbifId": 12293197,
+      "powoId": "77177187-1",
+      "iucnCategory": null,
+      "origin": "Philippines",
+      "growth_type": "upright",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "hard",
+      "description": "An elegant alocasia with plain green arrow-shaped leaves held on strikingly striped, zebra-patterned petioles."
+    }
+  }
+}

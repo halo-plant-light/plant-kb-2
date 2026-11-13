@@ -1,0 +1,28 @@
+{
+  "id": "1383050",
+  "scientificName": "Portulacaria afra Jacq.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1383050",
+      "commonNames": [
+        "Elephant bush",
+        "Spekboom",
+        "Jade plant",
+        "Money Tree",
+        "Elephant's Food"
+      ],
+      "genus": "Portulacaria",
+      "family": "Didiereaceae",
+      "scientificNameWithoutAuthor": "Portulacaria afra",
+      "scientificNameAuthorship": "Jacq.",
+      "gbifId": 3084777,
+      "powoId": "699417-1",
+      "iucnCategory": "LC",
+      "origin": "Northwestern Kenya and southeastern Africa",
+      "growth_type": "shrub",
+      "height_range": "0.5–1.5 m",
+      "care_difficulty": "very_easy",
+      "description": "A small-leaved succulent shrub with reddish stems and pairs of rounded fleshy leaves, widely trained as an informal bonsai."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1361819",
+  "scientificName": "Hydrangea macrophylla (Thunb.) Ser.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1361819",
+      "commonNames": [
+        "Hydrangea",
+        "Bigleaf Hydrangea",
+        "French hydrangea",
+        "Lace Cap Hydrangea",
+        "Hortensia"
+      ],
+      "genus": "Hydrangea",
+      "family": "Hydrangeaceae",
+      "scientificNameWithoutAuthor": "Hydrangea macrophylla",
+      "scientificNameAuthorship": "(Thunb.) Ser.",
+      "gbifId": 2985994,
+      "powoId": "791637-1",
+      "iucnCategory": null,
+      "origin": "Japan",
+      "growth_type": "shrub",
+      "height_range": "0.6–1.5 m",
+      "care_difficulty": "moderate",
+      "description": "A deciduous shrub with broad toothed leaves and showy mophead or lacecap flower clusters whose pink or blue tones often respond to aluminum availability."
+    }
+  }
+}

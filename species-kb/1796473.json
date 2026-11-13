@@ -1,0 +1,26 @@
+{
+  "id": "1796473",
+  "scientificName": "Nephrolepis obliterata (R.Br.) J.Sm.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1796473",
+      "commonNames": [
+        "Kimberley Queen fern",
+        "Australian sword fern",
+        "Kimberly Queen fern"
+      ],
+      "genus": "Nephrolepis",
+      "family": "Polypodiaceae",
+      "scientificNameWithoutAuthor": "Nephrolepis obliterata",
+      "scientificNameAuthorship": "(R.Br.) J.Sm.",
+      "gbifId": 4196793,
+      "powoId": "17161050-1",
+      "iucnCategory": null,
+      "origin": "Papuasia to northern Australia",
+      "growth_type": "upright",
+      "height_range": "0.6–1 m",
+      "care_difficulty": "moderate",
+      "description": "A clumping sword fern with stiffly upright, finely divided green fronds that arch gracefully as they mature."
+    }
+  }
+}

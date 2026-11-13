@@ -1,0 +1,25 @@
+{
+  "id": "1409132",
+  "scientificName": "Aloysia citrodora Paláu",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409132",
+      "commonNames": [
+        "Lemon verbena",
+        "Lemon beebrush"
+      ],
+      "genus": "Aloysia",
+      "family": "Verbenaceae",
+      "scientificNameWithoutAuthor": "Aloysia citrodora",
+      "scientificNameAuthorship": "Paláu",
+      "gbifId": 5667503,
+      "powoId": "1015994-1",
+      "iucnCategory": null,
+      "origin": "Bolivia, Paraguay and northwestern Argentina",
+      "growth_type": "shrub",
+      "height_range": "0.6–1.5 m",
+      "care_difficulty": "moderate",
+      "description": "An aromatic woody shrub whose narrow leaves release a strong, clean lemon scent when brushed or crushed."
+    }
+  }
+}

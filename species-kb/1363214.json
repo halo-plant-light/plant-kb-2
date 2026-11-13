@@ -1,0 +1,28 @@
+{
+  "id": "1363214",
+  "scientificName": "Petroselinum crispum (Mill.) Fuss",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363214",
+      "commonNames": [
+        "Garden parsley",
+        "Parsley",
+        "Curled Parsley",
+        "Common garden parsley",
+        "Common Parsley"
+      ],
+      "genus": "Petroselinum",
+      "family": "Apiaceae",
+      "scientificNameWithoutAuthor": "Petroselinum crispum",
+      "scientificNameAuthorship": "(Mill.) Fuss",
+      "gbifId": 7828157,
+      "powoId": "60442790-2",
+      "iucnCategory": null,
+      "origin": "Mediterranean region; exact origin uncertain",
+      "growth_type": "upright",
+      "height_range": "0.2–0.4 m",
+      "care_difficulty": "easy",
+      "description": "A biennial culinary herb with finely divided flat or tightly curled leaves and greenish-yellow umbels in its second season."
+    }
+  }
+}

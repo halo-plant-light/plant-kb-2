@@ -1,0 +1,28 @@
+{
+  "id": "1421030",
+  "scientificName": "Philodendron bipinnatifidum Schott ex Endl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1421030",
+      "commonNames": [
+        "Philodendron",
+        "Split Leaf Philodendron",
+        "Selloum",
+        "برگ انجیری",
+        "Lacy Tree Philodendron"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron bipinnatifidum",
+      "scientificNameAuthorship": "Schott ex Endl.",
+      "gbifId": 2870781,
+      "powoId": "77306988-1",
+      "iucnCategory": null,
+      "origin": "Bolivia, southern Brazil, Paraguay and northeastern Argentina",
+      "growth_type": "shrub",
+      "height_range": "1–2 m",
+      "care_difficulty": "easy",
+      "description": "This large self-heading aroid develops a stout trunk and a broad crown of deeply divided, arching green leaves."
+    }
+  }
+}

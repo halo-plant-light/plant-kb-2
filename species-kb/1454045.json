@@ -1,0 +1,25 @@
+{
+  "id": "1454045",
+  "scientificName": "Anacampseros rufescens (Haw.) Sweet",
+  "projects": {
+    "k-world-flora": {
+      "id": "1454045",
+      "commonNames": [
+        "Sunrise succulent",
+        "Sand rose"
+      ],
+      "genus": "Anacampseros",
+      "family": "Anacampserotaceae",
+      "scientificNameWithoutAuthor": "Anacampseros rufescens",
+      "scientificNameAuthorship": "(Haw.) Sweet",
+      "gbifId": 6111598,
+      "powoId": "698289-1",
+      "iucnCategory": null,
+      "origin": "South Africa, from the Cape Provinces to the Free State",
+      "growth_type": "rosette",
+      "height_range": "0.05–0.15 m",
+      "care_difficulty": "easy",
+      "description": "This small succulent forms clustered rosettes of fleshy pointed leaves that can blush reddish purple in strong light."
+    }
+  }
+}

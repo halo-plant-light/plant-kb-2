@@ -1,0 +1,28 @@
+{
+  "id": "1360828",
+  "scientificName": "Soleirolia soleirolii (Req.) Dandy",
+  "projects": {
+    "k-world-flora": {
+      "id": "1360828",
+      "commonNames": [
+        "Mind your-own-business",
+        "Baby's tears",
+        "Mother of thousands",
+        "Mother of-thousands",
+        "Helxine"
+      ],
+      "genus": "Soleirolia",
+      "family": "Urticaceae",
+      "scientificNameWithoutAuthor": "Soleirolia soleirolii",
+      "scientificNameAuthorship": "(Req.) Dandy",
+      "gbifId": 2984366,
+      "powoId": "856545-1",
+      "iucnCategory": null,
+      "origin": "Western Mediterranean islands",
+      "growth_type": "groundcover",
+      "height_range": "0.03–0.1 m",
+      "care_difficulty": "moderate",
+      "description": "A delicate mat-forming perennial with threadlike stems densely clothed in tiny round bright-green leaves."
+    }
+  }
+}

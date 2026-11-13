@@ -1,0 +1,28 @@
+{
+  "id": "1821976",
+  "scientificName": "Kroenleinia grusonii (Hildm.) Lodé",
+  "projects": {
+    "k-world-flora": {
+      "id": "1821976",
+      "commonNames": [
+        "Golden barrel cactus",
+        "Barrel cactus",
+        "Gold ball cactus",
+        "Gold barrell cactus",
+        "Mother in-law's-seat"
+      ],
+      "genus": "Kroenleinia",
+      "family": "Cactaceae",
+      "scientificNameWithoutAuthor": "Kroenleinia grusonii",
+      "scientificNameAuthorship": "(Hildm.) Lodé",
+      "gbifId": 10911827,
+      "powoId": "77164085-1",
+      "iucnCategory": null,
+      "origin": "Northeastern Mexico, from Zacatecas to San Luis Potosí",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "easy",
+      "description": "A slow-growing barrel cactus with strongly ribbed green stems densely armed with golden-yellow spines."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1855764",
+  "scientificName": "Alocasia cuprea (K.Koch & C.D.Bouché) K.Koch",
+  "projects": {
+    "k-world-flora": {
+      "id": "1855764",
+      "commonNames": [
+        "Giant caladium",
+        "Jewel alocasia"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia cuprea",
+      "scientificNameAuthorship": "(K.Koch & C.D.Bouché) K.Koch",
+      "gbifId": 5329958,
+      "powoId": "84153-1",
+      "iucnCategory": null,
+      "origin": "Sabah, Borneo",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "hard",
+      "description": "A compact alocasia with thick, deeply sculpted leaves displaying a metallic coppery to dark green sheen."
+    }
+  }
+}

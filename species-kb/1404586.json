@@ -1,0 +1,28 @@
+{
+  "id": "1404586",
+  "scientificName": "Philodendron hederaceum (Jacq.) Schott",
+  "projects": {
+    "k-world-flora": {
+      "id": "1404586",
+      "commonNames": [
+        "Heart leaf philodendron",
+        "How to grow",
+        "Vilevine",
+        "Philodendron brazil",
+        "Philodendron Micans"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron hederaceum",
+      "scientificNameAuthorship": "(Jacq.) Schott",
+      "gbifId": 2871003,
+      "powoId": "87797-1",
+      "iucnCategory": null,
+      "origin": "Mexico, Caribbean and tropical Central and South America",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "very_easy",
+      "description": "A forgiving tropical vine with glossy heart-shaped leaves on stems that can climb or cascade from a hanging pot."
+    }
+  }
+}

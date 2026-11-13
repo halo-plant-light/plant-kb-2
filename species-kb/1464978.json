@@ -1,0 +1,22 @@
+{
+  "id": "1464978",
+  "scientificName": "Anthurium regale Linden",
+  "projects": {
+    "k-world-flora": {
+      "id": "1464978",
+      "commonNames": [],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium regale",
+      "scientificNameAuthorship": "Linden",
+      "gbifId": 2873074,
+      "powoId": "85270-1",
+      "iucnCategory": null,
+      "origin": "Northeastern Peru",
+      "growth_type": "upright",
+      "height_range": "1–1.5 m",
+      "care_difficulty": "hard",
+      "description": "Anthurium regale produces exceptionally large, velvety heart-shaped leaves with bold pale veins on long upright petioles."
+    }
+  }
+}

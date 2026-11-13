@@ -1,0 +1,27 @@
+{
+  "id": "1385969",
+  "scientificName": "Aglaonema pictum (Roxb.) Kunth",
+  "projects": {
+    "k-world-flora": {
+      "id": "1385969",
+      "commonNames": [
+        "Aglaonema aroid",
+        "Cara de caballo",
+        "Chinese evergreen",
+        "Indonesian evergreen"
+      ],
+      "genus": "Aglaonema",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Aglaonema pictum",
+      "scientificNameAuthorship": "(Roxb.) Kunth",
+      "gbifId": 2866460,
+      "powoId": "84094-1",
+      "iucnCategory": null,
+      "origin": "Sumatra, Indonesia",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "moderate",
+      "description": "A compact forest-floor aroid with dark elliptic leaves irregularly blotched in lighter greens, especially striking in tricolor selections."
+    }
+  }
+}

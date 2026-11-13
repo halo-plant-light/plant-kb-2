@@ -1,0 +1,28 @@
+{
+  "id": "1355985",
+  "scientificName": "Euphorbia pulcherrima Willd. ex Klotzsch",
+  "projects": {
+    "k-world-flora": {
+      "id": "1355985",
+      "commonNames": [
+        "Poinsettia",
+        "Christmas flower",
+        "Christmas star",
+        "Lobsterplant",
+        "Mexican flameleaf"
+      ],
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "scientificNameWithoutAuthor": "Euphorbia pulcherrima",
+      "scientificNameAuthorship": "Willd. ex Klotzsch",
+      "gbifId": 3066465,
+      "powoId": "30176564-2",
+      "iucnCategory": "LC",
+      "origin": "Mexico to Guatemala",
+      "growth_type": "shrub",
+      "height_range": "0.3–1 m",
+      "care_difficulty": "moderate",
+      "description": "A deciduous tropical shrub whose brilliant winter bracts surround clusters of tiny yellow-green flowers."
+    }
+  }
+}

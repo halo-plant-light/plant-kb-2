@@ -1,0 +1,27 @@
+{
+  "id": "1383126",
+  "scientificName": "Jasminum polyanthum Franch.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1383126",
+      "commonNames": [
+        "Pink jasmine",
+        "Jasmine",
+        "Duo hua su xin",
+        "Winter jasmine"
+      ],
+      "genus": "Jasminum",
+      "family": "Oleaceae",
+      "scientificNameWithoutAuthor": "Jasminum polyanthum",
+      "scientificNameAuthorship": "Franch.",
+      "gbifId": 3682631,
+      "powoId": "609699-1",
+      "iucnCategory": null,
+      "origin": "Southwestern China",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "moderate",
+      "description": "A vigorous twining jasmine with pinnate leaves and masses of pink buds opening into intensely fragrant white star-shaped flowers."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1402925",
+  "scientificName": "Peperomia rotundifolia (L.) Kunth",
+  "projects": {
+    "k-world-flora": {
+      "id": "1402925",
+      "commonNames": [
+        "Yerba linda",
+        "Jade Necklace",
+        "Trailing Jade",
+        "Camphor vine",
+        "Cocoa mint"
+      ],
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "scientificNameWithoutAuthor": "Peperomia rotundifolia",
+      "scientificNameAuthorship": "(L.) Kunth",
+      "gbifId": 3086378,
+      "powoId": "189588-2",
+      "iucnCategory": null,
+      "origin": "Mexico and Caribbean to subtropical South America",
+      "growth_type": "trailing",
+      "height_range": "0.05–0.1 m",
+      "care_difficulty": "moderate",
+      "description": "A delicate trailing peperomia with small, round green leaves strung closely along slender stems."
+    }
+  }
+}

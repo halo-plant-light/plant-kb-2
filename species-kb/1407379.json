@@ -1,0 +1,26 @@
+{
+  "id": "1407379",
+  "scientificName": "Anthurium crystallinum Linden & André",
+  "projects": {
+    "k-world-flora": {
+      "id": "1407379",
+      "commonNames": [
+        "Crystal Anthurium",
+        "Scalloped laceleaf",
+        "Crystalline Anthurium"
+      ],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium crystallinum",
+      "scientificNameAuthorship": "Linden & André",
+      "gbifId": 2872232,
+      "powoId": "84713-1",
+      "iucnCategory": null,
+      "origin": "Panama and Colombia",
+      "growth_type": "upright",
+      "height_range": "0.4–0.9 m",
+      "care_difficulty": "hard",
+      "description": "A foliage anthurium with velvety heart-shaped leaves traced by prominent pale silver veins."
+    }
+  }
+}

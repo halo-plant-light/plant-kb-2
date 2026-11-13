@@ -1,0 +1,24 @@
+{
+  "id": "1796920",
+  "scientificName": "Hoya pubicalyx Merr.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1796920",
+      "commonNames": [
+        "Wax Plant"
+      ],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya pubicalyx",
+      "scientificNameAuthorship": "Merr.",
+      "gbifId": 3572445,
+      "powoId": "98653-1",
+      "iucnCategory": null,
+      "origin": "Luzon, Philippines",
+      "growth_type": "climbing",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "easy",
+      "description": "A vigorous climbing hoya with elongated, often silver-flecked leaves and rounded clusters of fuzzy star-shaped flowers."
+    }
+  }
+}

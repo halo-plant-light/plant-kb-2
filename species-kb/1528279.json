@@ -1,0 +1,28 @@
+{
+  "id": "1528279",
+  "scientificName": "Adromischus cristatus (Haw.) Lem.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1528279",
+      "commonNames": [
+        "Crinkle leaf plant",
+        "Key lime pie",
+        "Crinkle Leaf",
+        "Crinkle Leaf Adromischus",
+        "Ravioli Plant"
+      ],
+      "genus": "Adromischus",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Adromischus cristatus",
+      "scientificNameAuthorship": "(Haw.) Lem.",
+      "gbifId": 7334238,
+      "powoId": "272125-1",
+      "iucnCategory": null,
+      "origin": "The Cape Provinces and KwaZulu-Natal, South Africa",
+      "growth_type": "upright",
+      "height_range": "0.1–0.3 m",
+      "care_difficulty": "easy",
+      "description": "A small succulent with plump, triangular leaves whose crimped upper edges give the plant its crinkle-leaf appearance."
+    }
+  }
+}

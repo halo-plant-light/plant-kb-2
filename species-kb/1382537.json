@@ -1,0 +1,28 @@
+{
+  "id": "1382537",
+  "scientificName": "Dracaena reflexa Lam.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1382537",
+      "commonNames": [
+        "Song of-India",
+        "It IS NOT a Song of India. This is a Tri Colored Dracaena",
+        "Tri colored Dracaena",
+        "Song of India",
+        "Dracenea marginata"
+      ],
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Dracaena reflexa",
+      "scientificNameAuthorship": "Lam.",
+      "gbifId": 5304436,
+      "powoId": "534338-1",
+      "iucnCategory": "LC",
+      "origin": "Madagascar and Mascarene Islands",
+      "growth_type": "shrub",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "easy",
+      "description": "A branching evergreen shrub with dense spirals of narrow leathery leaves, commonly grown in yellow- or cream-edged forms."
+    }
+  }
+}

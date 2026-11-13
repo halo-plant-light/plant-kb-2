@@ -1,0 +1,28 @@
+{
+  "id": "1385867",
+  "scientificName": "Phoenix roebelenii O'Brien",
+  "projects": {
+    "k-world-flora": {
+      "id": "1385867",
+      "commonNames": [
+        "Pygmy date palm",
+        "Miniature date palm",
+        "Dwarf Date Palm",
+        "Roebelin palm",
+        "Roebelen date palm"
+      ],
+      "genus": "Phoenix",
+      "family": "Arecaceae",
+      "scientificNameWithoutAuthor": "Phoenix roebelenii",
+      "scientificNameAuthorship": "O'Brien",
+      "gbifId": 5293153,
+      "powoId": "668945-1",
+      "iucnCategory": null,
+      "origin": "Southern China, Laos and Vietnam, particularly riverine habitats",
+      "growth_type": "tree",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "A small date palm with a slender trunk and gracefully arching feather leaves whose basal leaflets form sharp spines."
+    }
+  }
+}

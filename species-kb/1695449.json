@@ -1,0 +1,25 @@
+{
+  "id": "1695449",
+  "scientificName": "Pilea involucrata (Sims) C.H.Wright & Dewar",
+  "projects": {
+    "k-world-flora": {
+      "id": "1695449",
+      "commonNames": [
+        "Friendship Plant",
+        "Silver Friendship Plant"
+      ],
+      "genus": "Pilea",
+      "family": "Urticaceae",
+      "scientificNameWithoutAuthor": "Pilea involucrata",
+      "scientificNameAuthorship": "(Sims) C.H.Wright & Dewar",
+      "gbifId": 7698424,
+      "powoId": "77091436-1",
+      "iucnCategory": null,
+      "origin": "Central America to Peru, Venezuela and the Windward Islands",
+      "growth_type": "spreading",
+      "height_range": "0.1–0.3 m",
+      "care_difficulty": "moderate",
+      "description": "A low, branching tropical plant with deeply quilted leaves often patterned in contrasting green and bronze."
+    }
+  }
+}

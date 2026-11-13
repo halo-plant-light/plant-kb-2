@@ -1,0 +1,24 @@
+{
+  "id": "1860792",
+  "scientificName": "Rhipsalidopsis gaertneri (Regel) Linding.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1860792",
+      "commonNames": [
+        "Easter cactus"
+      ],
+      "genus": "Rhipsalidopsis",
+      "family": "Cactaceae",
+      "scientificNameWithoutAuthor": "Rhipsalidopsis gaertneri",
+      "scientificNameAuthorship": "(Regel) Linding.",
+      "gbifId": 7861931,
+      "powoId": "219239-2",
+      "iucnCategory": null,
+      "origin": "Southern Brazil",
+      "growth_type": "epiphytic",
+      "height_range": "0.2–0.3 m",
+      "care_difficulty": "moderate",
+      "description": "A spring-flowering forest cactus with flattened rounded segments and vivid scarlet, star-shaped flowers."
+    }
+  }
+}

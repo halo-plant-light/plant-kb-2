@@ -1,0 +1,28 @@
+{
+  "id": "1363224",
+  "scientificName": "Coriandrum sativum L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363224",
+      "commonNames": [
+        "Coriander",
+        "Chinese parsley",
+        "Cilantro",
+        "Indian parsley",
+        "Common coriander"
+      ],
+      "genus": "Coriandrum",
+      "family": "Apiaceae",
+      "scientificNameWithoutAuthor": "Coriandrum sativum",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 3034871,
+      "powoId": "840760-1",
+      "iucnCategory": null,
+      "origin": "Mediterranean to western Asia; origin uncertain",
+      "growth_type": "upright",
+      "height_range": "0.3–0.7 m",
+      "care_difficulty": "moderate",
+      "description": "A quick-growing annual with pungent broad lower leaves, finely divided upper foliage and white umbels that mature into aromatic coriander fruits."
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1835897",
+  "scientificName": "Peperomia albovittata C.DC.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1835897",
+      "commonNames": [
+        "Peperomia Frost"
+      ],
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "scientificNameWithoutAuthor": "Peperomia albovittata",
+      "scientificNameAuthorship": "C.DC.",
+      "gbifId": 4190750,
+      "powoId": "188242-2",
+      "iucnCategory": "CR",
+      "origin": "Ecuador",
+      "growth_type": "upright",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "easy",
+      "description": "A compact peperomia with rounded, textured leaves and conspicuous contrasting veins."
+    }
+  }
+}

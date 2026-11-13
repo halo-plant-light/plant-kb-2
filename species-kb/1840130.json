@@ -1,0 +1,22 @@
+{
+  "id": "1840130",
+  "scientificName": "Hatiora salicornoides (Haw.) Britton & Rose",
+  "projects": {
+    "k-world-flora": {
+      "id": "1840130",
+      "commonNames": [],
+      "genus": "Hatiora",
+      "family": "Cactaceae",
+      "scientificNameWithoutAuthor": "Hatiora salicornoides",
+      "scientificNameAuthorship": "(Haw.) Britton & Rose",
+      "gbifId": 12218755,
+      "powoId": "118071-2",
+      "iucnCategory": null,
+      "origin": "Eastern and southeastern Brazil",
+      "growth_type": "epiphytic",
+      "height_range": "0.2–0.5 m",
+      "care_difficulty": "easy",
+      "description": "A branching forest cactus with tiny bottle-shaped stem segments and yellow-orange flowers at their tips."
+    }
+  }
+}

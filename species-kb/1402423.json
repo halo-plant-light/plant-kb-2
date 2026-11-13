@@ -1,0 +1,26 @@
+{
+  "id": "1402423",
+  "scientificName": "Anthurium hookeri Kunth",
+  "projects": {
+    "k-world-flora": {
+      "id": "1402423",
+      "commonNames": [
+        "Wave of Love",
+        "Anturium Gelombang Cinta",
+        "Bird’s nest anthurium"
+      ],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium hookeri",
+      "scientificNameAuthorship": "Kunth",
+      "gbifId": 2872293,
+      "powoId": "84893-1",
+      "iucnCategory": null,
+      "origin": "Southern Caribbean; wider native range disputed",
+      "growth_type": "rosette",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "moderate",
+      "description": "A bird's-nest anthurium with a broad rosette of glossy green leaves with gently rippled margins."
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1466476",
+  "scientificName": "Rhaphidophora hayi P.C.Boyce & Bogner",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466476",
+      "commonNames": [
+        "Shingle plant"
+      ],
+      "genus": "Rhaphidophora",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Rhaphidophora hayi",
+      "scientificNameAuthorship": "P.C.Boyce & Bogner",
+      "gbifId": 5329786,
+      "powoId": "1016895-1",
+      "iucnCategory": null,
+      "origin": "Papuasia to northern Queensland",
+      "growth_type": "climbing",
+      "height_range": "0.6–2 m",
+      "care_difficulty": "moderate",
+      "description": "A shingling aroid whose rounded juvenile leaves press flat against the surface it climbs."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1398178",
+  "scientificName": "Tradescantia zebrina Bosse",
+  "projects": {
+    "k-world-flora": {
+      "id": "1398178",
+      "commonNames": [
+        "Inchplant",
+        "Wandering jew",
+        "Wandering dude",
+        "Wandering Sailor",
+        "Inch plant"
+      ],
+      "genus": "Tradescantia",
+      "family": "Commelinaceae",
+      "scientificNameWithoutAuthor": "Tradescantia zebrina",
+      "scientificNameAuthorship": "Bosse",
+      "gbifId": 2765359,
+      "powoId": "30049896-2",
+      "iucnCategory": null,
+      "origin": "Mexico and Central America",
+      "growth_type": "trailing",
+      "height_range": "0.1–0.2 m",
+      "care_difficulty": "very_easy",
+      "description": "A fast-growing trailing plant with shimmering silver-striped leaves and rich purple undersides."
+    }
+  }
+}

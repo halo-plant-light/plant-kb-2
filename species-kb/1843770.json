@@ -1,0 +1,26 @@
+{
+  "id": "1843770",
+  "scientificName": "Begonia × tuberhybrida Voss",
+  "projects": {
+    "k-world-flora": {
+      "id": "1843770",
+      "commonNames": [
+        "Tuberous Begonia",
+        "Begonia tuberosa hybrids",
+        "Hybrid tuberous begonia"
+      ],
+      "genus": "Begonia",
+      "family": "Begoniaceae",
+      "scientificNameWithoutAuthor": "Begonia × tuberhybrida",
+      "scientificNameAuthorship": "Voss",
+      "gbifId": 8374675,
+      "powoId": "77236977-1",
+      "iucnCategory": null,
+      "origin": "Cultivated hybrid of South American Andean ancestry",
+      "growth_type": "upright",
+      "height_range": "0.2–0.5 m",
+      "care_difficulty": "moderate",
+      "description": "A tuberous begonia hybrid grown for large, richly colored flowers above soft, asymmetrical leaves."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1698702",
+  "scientificName": "Aloe juvenna Brandham & S.Carter",
+  "projects": {
+    "k-world-flora": {
+      "id": "1698702",
+      "commonNames": [
+        "Tiger tooth aloe",
+        "آلوئه دندان ببری",
+        "Crocodile Aloe"
+      ],
+      "genus": "Aloe",
+      "family": "Asphodelaceae",
+      "scientificNameWithoutAuthor": "Aloe juvenna",
+      "scientificNameAuthorship": "Brandham & S.Carter",
+      "gbifId": 2777599,
+      "powoId": "529555-1",
+      "iucnCategory": null,
+      "origin": "Southwestern Kenya and northern Tanzania",
+      "growth_type": "spreading",
+      "height_range": "0.2–0.4 m",
+      "care_difficulty": "easy",
+      "description": "A small clustering aloe with stacked, white-spotted triangular leaves edged in soft-looking teeth."
+    }
+  }
+}

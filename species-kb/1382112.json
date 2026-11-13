@@ -1,0 +1,28 @@
+{
+  "id": "1382112",
+  "scientificName": "Ficus benjamina L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1382112",
+      "commonNames": [
+        "Weeping fig",
+        "Benjamin fig",
+        "Benjamin tree",
+        "Java fig",
+        "Malayan banyan"
+      ],
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "scientificNameWithoutAuthor": "Ficus benjamina",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 5361932,
+      "powoId": "852486-1",
+      "iucnCategory": "LC",
+      "origin": "Tropical Asia to northern Australia and western Pacific",
+      "growth_type": "tree",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "moderate",
+      "description": "A graceful evergreen fig with slender drooping branchlets and glossy pointed leaves, often trained as an indoor standard."
+    }
+  }
+}

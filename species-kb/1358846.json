@@ -1,0 +1,28 @@
+{
+  "id": "1358846",
+  "scientificName": "Origanum vulgare L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1358846",
+      "commonNames": [
+        "Oregano",
+        "Wild marjoram",
+        "Common marjoram",
+        "Perennial Marjoram",
+        "Greek Oregano"
+      ],
+      "genus": "Origanum",
+      "family": "Lamiaceae",
+      "scientificNameWithoutAuthor": "Origanum vulgare",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 2926612,
+      "powoId": "453395-1",
+      "iucnCategory": null,
+      "origin": "Europe, Mediterranean and temperate Asia",
+      "growth_type": "spreading",
+      "height_range": "0.3–0.8 m",
+      "care_difficulty": "easy",
+      "description": "A spreading perennial herb with aromatic oval leaves and branching clusters of small pink or purple flowers that attract pollinators."
+    }
+  }
+}

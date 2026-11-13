@@ -1,0 +1,28 @@
+{
+  "id": "1420830",
+  "scientificName": "Cissus alata Jacq.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1420830",
+      "commonNames": [
+        "Grape ivy",
+        "Venezuela treebine",
+        "Kafir ropewood",
+        "Tab kan",
+        "Treebind"
+      ],
+      "genus": "Cissus",
+      "family": "Vitaceae",
+      "scientificNameWithoutAuthor": "Cissus alata",
+      "scientificNameAuthorship": "Jacq.",
+      "gbifId": 7760485,
+      "powoId": "311226-2",
+      "iucnCategory": null,
+      "origin": "Tropical America, from Mexico to Bolivia, including Trinidad",
+      "growth_type": "climbing",
+      "height_range": "1.2–3 m",
+      "care_difficulty": "easy",
+      "description": "Grape ivy is a tendril-climbing vine with glossy, toothed leaves divided into three leaflets."
+    }
+  }
+}

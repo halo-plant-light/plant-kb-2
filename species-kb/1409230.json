@@ -1,0 +1,27 @@
+{
+  "id": "1409230",
+  "scientificName": "Pilea cadierei Gagnep. & Guillaumin",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409230",
+      "commonNames": [
+        "Aluminium Plant",
+        "Aluminum Plant",
+        "Watermelon pilea",
+        "گل پیله آ هلندی"
+      ],
+      "genus": "Pilea",
+      "family": "Urticaceae",
+      "scientificNameWithoutAuthor": "Pilea cadierei",
+      "scientificNameAuthorship": "Gagnep. & Guillaumin",
+      "gbifId": 5671157,
+      "powoId": "855275-1",
+      "iucnCategory": null,
+      "origin": "Southwestern China, specifically Guizhou and Yunnan, to Vietnam",
+      "growth_type": "upright",
+      "height_range": "0.2–0.4 m",
+      "care_difficulty": "easy",
+      "description": "Aluminum plant has upright branching stems and quilted green leaves splashed with silvery markings between the veins."
+    }
+  }
+}

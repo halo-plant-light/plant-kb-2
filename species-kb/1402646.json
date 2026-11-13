@@ -1,0 +1,26 @@
+{
+  "id": "1402646",
+  "scientificName": "Monstera obliqua Miq.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1402646",
+      "commonNames": [
+        "Swiss cheese plant",
+        "Window Leaf Monstera",
+        "Window leaved Monstera"
+      ],
+      "genus": "Monstera",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Monstera obliqua",
+      "scientificNameAuthorship": "Miq.",
+      "gbifId": 2868185,
+      "powoId": "87525-1",
+      "iucnCategory": null,
+      "origin": "Costa Rica to tropical South America; Trinidad and Tobago",
+      "growth_type": "climbing",
+      "height_range": "0.5–1.5 m",
+      "care_difficulty": "expert",
+      "description": "A slender tropical climber with unusually delicate foliage that can be dramatically perforated in some forms."
+    }
+  }
+}

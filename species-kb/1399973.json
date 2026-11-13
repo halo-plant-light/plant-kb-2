@@ -1,0 +1,28 @@
+{
+  "id": "1399973",
+  "scientificName": "Kalanchoe daigremontiana Raym.-Hamet & H.Perrier",
+  "projects": {
+    "k-world-flora": {
+      "id": "1399973",
+      "commonNames": [
+        "Mother of-Millions",
+        "Devil's Backbone",
+        "Mother of Thousands",
+        "Alligator Plant",
+        "Maternity plant"
+      ],
+      "genus": "Kalanchoe",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Kalanchoe daigremontiana",
+      "scientificNameAuthorship": "Raym.-Hamet & H.Perrier",
+      "gbifId": 2985936,
+      "powoId": "274315-1",
+      "iucnCategory": "EN",
+      "origin": "Southwestern Madagascar",
+      "growth_type": "upright",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "very_easy",
+      "description": "An upright succulent whose long triangular leaves carry rows of tiny plantlets along their toothed margins."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1418146",
+  "scientificName": "Fittonia albivenis (Lindl. ex Veitch) Brummitt",
+  "projects": {
+    "k-world-flora": {
+      "id": "1418146",
+      "commonNames": [
+        "Nerveplant",
+        "Mosaic plant",
+        "Silver threads",
+        "Angel Plant",
+        "Silver nerve"
+      ],
+      "genus": "Fittonia",
+      "family": "Acanthaceae",
+      "scientificNameWithoutAuthor": "Fittonia albivenis",
+      "scientificNameAuthorship": "(Lindl. ex Veitch) Brummitt",
+      "gbifId": 5574508,
+      "powoId": "105033-2",
+      "iucnCategory": null,
+      "origin": "Tropical South America",
+      "growth_type": "groundcover",
+      "height_range": "0.05–0.2 m",
+      "care_difficulty": "moderate",
+      "description": "Nerve plant makes a low carpet of soft oval leaves traced with a striking network of white, pink or red veins."
+    }
+  }
+}

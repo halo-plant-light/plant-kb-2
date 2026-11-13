@@ -1,0 +1,22 @@
+{
+  "id": "1792349",
+  "scientificName": "Hoya macrophylla Blume",
+  "projects": {
+    "k-world-flora": {
+      "id": "1792349",
+      "commonNames": [],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya macrophylla",
+      "scientificNameAuthorship": "Blume",
+      "gbifId": 3573497,
+      "powoId": "98551-1",
+      "iucnCategory": null,
+      "origin": "Vietnam through western Malesia to the Lesser Sunda Islands",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "moderate",
+      "description": "A tropical climbing hoya with broad, prominently veined leaves and clusters of small waxy flowers."
+    }
+  }
+}

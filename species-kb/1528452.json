@@ -1,0 +1,28 @@
+{
+  "id": "1528452",
+  "scientificName": "Crassula capitella Thunb.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1528452",
+      "commonNames": [
+        "Campfire plant",
+        "Red Pagoda",
+        "Redspot Stonecrop",
+        "Red Flames",
+        "کراسولا آتشین"
+      ],
+      "genus": "Crassula",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Crassula capitella",
+      "scientificNameAuthorship": "Thunb.",
+      "gbifId": 7961590,
+      "powoId": "273027-1",
+      "iucnCategory": null,
+      "origin": "Namibia, South Africa and Lesotho",
+      "growth_type": "spreading",
+      "height_range": "0.15–0.4 m",
+      "care_difficulty": "easy",
+      "description": "A variable, branching succulent whose closely stacked leaves can turn vivid red under strong light."
+    }
+  }
+}

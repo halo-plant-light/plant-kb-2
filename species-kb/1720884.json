@@ -1,0 +1,28 @@
+{
+  "id": "1720884",
+  "scientificName": "Rhapis excelsa (Thunb.) A.Henry",
+  "projects": {
+    "k-world-flora": {
+      "id": "1720884",
+      "commonNames": [
+        "Bamboo palm",
+        "Fern rhapis",
+        "Miniature fan palm",
+        "Slender lady palm",
+        "Broadleaf Lady Palm"
+      ],
+      "genus": "Rhapis",
+      "family": "Arecaceae",
+      "scientificNameWithoutAuthor": "Rhapis excelsa",
+      "scientificNameAuthorship": "(Thunb.) A.Henry",
+      "gbifId": 2736747,
+      "powoId": "669577-1",
+      "iucnCategory": "LC",
+      "origin": "Guangdong, China, to northern Vietnam",
+      "growth_type": "tree",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "easy",
+      "description": "A clumping fan palm with slender, fiber-covered canes and deeply divided, blunt-tipped leaf segments."
+    }
+  }
+}

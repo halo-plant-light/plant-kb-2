@@ -1,0 +1,25 @@
+{
+  "id": "1750916",
+  "scientificName": "Dracaena masoniana (Chahin.) Byng & Christenh.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1750916",
+      "commonNames": [
+        "Whale Fin Plant",
+        "Sansevieria Masoniana"
+      ],
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Dracaena masoniana",
+      "scientificNameAuthorship": "(Chahin.) Byng & Christenh.",
+      "gbifId": 10956312,
+      "powoId": "77183391-1",
+      "iucnCategory": null,
+      "origin": "Democratic Republic of the Congo",
+      "growth_type": "upright",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "very_easy",
+      "description": "A slow-growing snake plant distinguished by exceptionally broad, paddle-shaped leaves with mottled green markings."
+    }
+  }
+}

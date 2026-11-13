@@ -1,0 +1,28 @@
+{
+  "id": "1382522",
+  "scientificName": "Dracaena fragrans (L.) Ker Gawl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1382522",
+      "commonNames": [
+        "Corn plant",
+        "Fragrant Dracaena",
+        "Dracaena",
+        "Dracaena 'Janet Craig Compact'",
+        "Cornstalk dracaena"
+      ],
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Dracaena fragrans",
+      "scientificNameAuthorship": "(L.) Ker Gawl.",
+      "gbifId": 5304583,
+      "powoId": "534207-1",
+      "iucnCategory": "LC",
+      "origin": "Tropical Africa",
+      "growth_type": "tree",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "easy",
+      "description": "A cane-forming evergreen with broad arching leaves and, on mature plants, intensely fragrant clusters of small creamy flowers."
+    }
+  }
+}

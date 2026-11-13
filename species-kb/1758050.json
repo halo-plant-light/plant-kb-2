@@ -1,0 +1,28 @@
+{
+  "id": "1758050",
+  "scientificName": "Curio rowleyanus (H.Jacobsen) P.V.Heath",
+  "projects": {
+    "k-world-flora": {
+      "id": "1758050",
+      "commonNames": [
+        "String of-beads",
+        "String of Pearls",
+        "Green necklace",
+        "String Of-Beads Senecio",
+        "String of-Pearls"
+      ],
+      "genus": "Curio",
+      "family": "Asteraceae",
+      "scientificNameWithoutAuthor": "Curio rowleyanus",
+      "scientificNameAuthorship": "(H.Jacobsen) P.V.Heath",
+      "gbifId": 3149649,
+      "powoId": "1011412-1",
+      "iucnCategory": null,
+      "origin": "Namibia and South Africa",
+      "growth_type": "trailing",
+      "height_range": "0.05–0.15 m",
+      "care_difficulty": "moderate",
+      "description": "A trailing succulent with bead-like green leaves strung along slender stems."
+    }
+  }
+}

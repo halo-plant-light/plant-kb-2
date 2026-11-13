@@ -1,0 +1,27 @@
+{
+  "id": "1409457",
+  "scientificName": "Chamaedorea elegans Mart.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409457",
+      "commonNames": [
+        "Parlor palm",
+        "Parlour Palm",
+        "Good luck palm",
+        "Neanthe bella palm"
+      ],
+      "genus": "Chamaedorea",
+      "family": "Arecaceae",
+      "scientificNameWithoutAuthor": "Chamaedorea elegans",
+      "scientificNameAuthorship": "Mart.",
+      "gbifId": 2734661,
+      "powoId": "54865-2",
+      "iucnCategory": null,
+      "origin": "Southern Mexico to Honduras",
+      "growth_type": "tree",
+      "height_range": "0.6–1.8 m",
+      "care_difficulty": "easy",
+      "description": "Parlor palm is a slow-growing understory palm with slender stems and soft, arching pinnate fronds."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1408045",
+  "scientificName": "Alocasia macrorrhizos (L.) G.Don",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408045",
+      "commonNames": [
+        "Giant taro",
+        "Giant alocasia",
+        "Cunjevoi",
+        "Pai",
+        "Elephant ear"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia macrorrhizos",
+      "scientificNameAuthorship": "(L.) G.Don",
+      "gbifId": 5329904,
+      "powoId": "60444565-2",
+      "iucnCategory": null,
+      "origin": "Malesia to northeastern Australia; exact origin uncertain",
+      "growth_type": "upright",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "moderate",
+      "description": "A massive tropical aroid with thick upright stems and enormous, prominently veined elephant-ear leaves."
+    }
+  }
+}

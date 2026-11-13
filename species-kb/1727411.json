@@ -1,0 +1,28 @@
+{
+  "id": "1727411",
+  "scientificName": "Curio radicans (L.f.) P.V.Heath",
+  "projects": {
+    "k-world-flora": {
+      "id": "1727411",
+      "commonNames": [
+        "Creeping Berry",
+        "String of Bananas",
+        "Baboon Toes",
+        "Banana Vine",
+        "Fishhook senecio"
+      ],
+      "genus": "Curio",
+      "family": "Asteraceae",
+      "scientificNameWithoutAuthor": "Curio radicans",
+      "scientificNameAuthorship": "(L.f.) P.V.Heath",
+      "gbifId": 3107396,
+      "powoId": "1011411-1",
+      "iucnCategory": null,
+      "origin": "Southern Africa, including Namibia, South Africa and Lesotho",
+      "growth_type": "trailing",
+      "height_range": "0.05–0.15 m",
+      "care_difficulty": "easy",
+      "description": "A trailing succulent with curved, banana-shaped green leaves spaced along slender cascading stems."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1400417",
+  "scientificName": "Davallia solida (G.Forst.) Sw.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1400417",
+      "commonNames": [
+        "Giant hare's foot fern",
+        "Monkey tail fern"
+      ],
+      "genus": "Davallia",
+      "family": "Polypodiaceae",
+      "scientificNameWithoutAuthor": "Davallia solida",
+      "scientificNameAuthorship": "(G.Forst.) Sw.",
+      "gbifId": 7148557,
+      "powoId": "17080730-1",
+      "iucnCategory": null,
+      "origin": "Tropical Asia to northeastern Australia and Pacific islands",
+      "growth_type": "epiphytic",
+      "height_range": "0.3–0.7 m",
+      "care_difficulty": "moderate",
+      "description": "An epiphytic fern with finely divided green fronds and conspicuous furry rhizomes that creep over its growing surface."
+    }
+  }
+}

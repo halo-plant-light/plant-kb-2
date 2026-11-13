@@ -1,0 +1,25 @@
+{
+  "id": "1841848",
+  "scientificName": "Gymnocalycium mihanovichii (Frič & Gürke) Britton & Rose",
+  "projects": {
+    "k-world-flora": {
+      "id": "1841848",
+      "commonNames": [
+        "Moon cactus",
+        "Red cap"
+      ],
+      "genus": "Gymnocalycium",
+      "family": "Cactaceae",
+      "scientificNameWithoutAuthor": "Gymnocalycium mihanovichii",
+      "scientificNameAuthorship": "(Frič & Gürke) Britton & Rose",
+      "gbifId": 7282762,
+      "powoId": "115434-2",
+      "iucnCategory": "LC",
+      "origin": "Paraguay and northeastern Argentina",
+      "growth_type": "upright",
+      "height_range": "0.05–0.12 m",
+      "care_difficulty": "moderate",
+      "description": "A small ribbed cactus whose chlorophyll-deficient cultivated forms are sold as brightly colored grafted moon cacti."
+    }
+  }
+}

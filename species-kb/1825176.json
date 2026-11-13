@@ -1,0 +1,25 @@
+{
+  "id": "1825176",
+  "scientificName": "Goeppertia warszewiczii (Lem.) Borchs. & S.Suárez",
+  "projects": {
+    "k-world-flora": {
+      "id": "1825176",
+      "commonNames": [
+        "Prayer plant",
+        "Calathea"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia warszewiczii",
+      "scientificNameAuthorship": "(Lem.) Borchs. & S.Suárez",
+      "gbifId": 9467672,
+      "powoId": "77130098-1",
+      "iucnCategory": null,
+      "origin": "Central America, from Honduras to Panama",
+      "growth_type": "upright",
+      "height_range": "0.6–1 m",
+      "care_difficulty": "hard",
+      "description": "A lush tropical foliage plant with velvety dark green leaves, pale feathered markings and burgundy undersides."
+    }
+  }
+}

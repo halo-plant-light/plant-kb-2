@@ -1,0 +1,25 @@
+{
+  "id": "1402632",
+  "scientificName": "Monstera dubia (Kunth) Engl. & K.Krause",
+  "projects": {
+    "k-world-flora": {
+      "id": "1402632",
+      "commonNames": [
+        "Shingles plant",
+        "Wall painting creeper"
+      ],
+      "genus": "Monstera",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Monstera dubia",
+      "scientificNameAuthorship": "(Kunth) Engl. & K.Krause",
+      "gbifId": 2868179,
+      "powoId": "163921-2",
+      "iucnCategory": null,
+      "origin": "Southern Mexico to tropical South America",
+      "growth_type": "climbing",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "moderate",
+      "description": "A shingling climber whose silvery juvenile leaves lie flat against a trunk or board before developing larger mature foliage."
+    }
+  }
+}

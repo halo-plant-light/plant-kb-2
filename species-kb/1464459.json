@@ -1,0 +1,25 @@
+{
+  "id": "1464459",
+  "scientificName": "Anthurium clarinervium Matuda",
+  "projects": {
+    "k-world-flora": {
+      "id": "1464459",
+      "commonNames": [
+        "Velvet cardboard anthurium",
+        "Kuping Gajah"
+      ],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium clarinervium",
+      "scientificNameAuthorship": "Matuda",
+      "gbifId": 2872501,
+      "powoId": "15185-2",
+      "iucnCategory": null,
+      "origin": "Chiapas, Mexico",
+      "growth_type": "upright",
+      "height_range": "0.25–0.5 m",
+      "care_difficulty": "moderate",
+      "description": "Velvet cardboard anthurium has thick, heart-shaped dark leaves patterned with a crisp network of pale contrasting veins."
+    }
+  }
+}

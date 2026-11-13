@@ -1,0 +1,27 @@
+{
+  "id": "1408181",
+  "scientificName": "Homalomena rubescens (Roxb.) Kunth",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408181",
+      "commonNames": [
+        "Maggie",
+        "Emerald Gem",
+        "King of-hearts",
+        "Shield plant"
+      ],
+      "genus": "Homalomena",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Homalomena rubescens",
+      "scientificNameAuthorship": "(Roxb.) Kunth",
+      "gbifId": 2868726,
+      "powoId": "87292-1",
+      "iucnCategory": null,
+      "origin": "The eastern Himalaya, Assam, Bangladesh and Myanmar",
+      "growth_type": "upright",
+      "height_range": "0.45–0.9 m",
+      "care_difficulty": "moderate",
+      "description": "A clumping tropical aroid with broad heart-shaped green leaves and reddish petioles in typical forms."
+    }
+  }
+}

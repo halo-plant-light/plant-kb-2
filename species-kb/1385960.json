@@ -1,0 +1,28 @@
+{
+  "id": "1385960",
+  "scientificName": "Dieffenbachia seguine (Jacq.) Schott",
+  "projects": {
+    "k-world-flora": {
+      "id": "1385960",
+      "commonNames": [
+        "Dumb cane",
+        "Dumbcane",
+        "Mother in-law-plant",
+        "Dumbplant",
+        "The Plant My-Wife-Brought-Home"
+      ],
+      "genus": "Dieffenbachia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Dieffenbachia seguine",
+      "scientificNameAuthorship": "(Jacq.) Schott",
+      "gbifId": 2869345,
+      "powoId": "86911-1",
+      "iucnCategory": null,
+      "origin": "Tropical Americas and Caribbean",
+      "growth_type": "upright",
+      "height_range": "0.6–1.8 m",
+      "care_difficulty": "easy",
+      "description": "A cane-stemmed tropical herb with large broad leaves marked in cream, pale green and darker green patterns."
+    }
+  }
+}

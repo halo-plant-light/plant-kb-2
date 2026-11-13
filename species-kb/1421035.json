@@ -1,0 +1,24 @@
+{
+  "id": "1421035",
+  "scientificName": "Philodendron mamei André",
+  "projects": {
+    "k-world-flora": {
+      "id": "1421035",
+      "commonNames": [
+        "Philodendron Mamei"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron mamei",
+      "scientificNameAuthorship": "André",
+      "gbifId": 2870711,
+      "powoId": "87872-1",
+      "iucnCategory": null,
+      "origin": "Ecuador; possibly adjacent Peru",
+      "growth_type": "spreading",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "moderate",
+      "description": "Philodendron mamei produces broad, pleated heart-shaped leaves mottled with silvery patches above a creeping stem."
+    }
+  }
+}

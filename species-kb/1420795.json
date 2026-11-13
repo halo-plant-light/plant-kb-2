@@ -1,0 +1,28 @@
+{
+  "id": "1420795",
+  "scientificName": "Alocasia sanderiana W.Bull",
+  "projects": {
+    "k-world-flora": {
+      "id": "1420795",
+      "commonNames": [
+        "Sander's Alocasia",
+        "Elephant ear",
+        "Kris plant",
+        "Kris' plant",
+        "Polly"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia sanderiana",
+      "scientificNameAuthorship": "W.Bull",
+      "gbifId": 5329946,
+      "powoId": "84242-1",
+      "iucnCategory": "CR",
+      "origin": "Mindanao, Philippines",
+      "growth_type": "upright",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "hard",
+      "description": "Kris plant has narrow, deeply lobed dark leaves with striking pale veins and sharply scalloped margins."
+    }
+  }
+}

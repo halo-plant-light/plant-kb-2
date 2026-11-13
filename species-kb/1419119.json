@@ -1,0 +1,26 @@
+{
+  "id": "1419119",
+  "scientificName": "Aeschynanthus radicans Jack",
+  "projects": {
+    "k-world-flora": {
+      "id": "1419119",
+      "commonNames": [
+        "Lipstickplant",
+        "Lipstick plant",
+        "Rastalpant"
+      ],
+      "genus": "Aeschynanthus",
+      "family": "Gesneriaceae",
+      "scientificNameWithoutAuthor": "Aeschynanthus radicans",
+      "scientificNameAuthorship": "Jack",
+      "gbifId": 3824774,
+      "powoId": "377844-1",
+      "iucnCategory": null,
+      "origin": "Thailand, the Malay Peninsula, Sumatra and Borneo",
+      "growth_type": "trailing",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "moderate",
+      "description": "Lipstick plant drapes glossy evergreen foliage and red tubular flowers emerging from dark, lipstick-like calyces."
+    }
+  }
+}

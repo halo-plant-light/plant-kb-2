@@ -1,0 +1,28 @@
+{
+  "id": "1402921",
+  "scientificName": "Peperomia obtusifolia (L.) A.Dietr.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1402921",
+      "commonNames": [
+        "American rubberplant",
+        "Baby Rubberplant",
+        "Pepper face",
+        "برگ قاشقی",
+        "Oval leaf peperomia"
+      ],
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "scientificNameWithoutAuthor": "Peperomia obtusifolia",
+      "scientificNameAuthorship": "(L.) A.Dietr.",
+      "gbifId": 3086423,
+      "powoId": "679269-1",
+      "iucnCategory": null,
+      "origin": "Southern Florida, Caribbean and tropical Americas",
+      "growth_type": "upright",
+      "height_range": "0.2–0.5 m",
+      "care_difficulty": "very_easy",
+      "description": "A compact, bushy peperomia with thick, glossy, rounded leaves and slender cream-colored flower spikes."
+    }
+  }
+}

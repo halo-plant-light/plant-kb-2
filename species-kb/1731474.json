@@ -1,0 +1,24 @@
+{
+  "id": "1731474",
+  "scientificName": "Goeppertia orbifolia (Linden) Borchs. & S.Suárez",
+  "projects": {
+    "k-world-flora": {
+      "id": "1731474",
+      "commonNames": [
+        "Calathea orbifolia"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia orbifolia",
+      "scientificNameAuthorship": "(Linden) Borchs. & S.Suárez",
+      "gbifId": 7476815,
+      "powoId": "60461168-2",
+      "iucnCategory": null,
+      "origin": "Eastern Brazil",
+      "growth_type": "upright",
+      "height_range": "0.6–1 m",
+      "care_difficulty": "hard",
+      "description": "A bold prayer plant with large, rounded, silvery-green leaves striped by broad darker green bands."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1428059",
+  "scientificName": "Dischidia nummularia R.Br.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1428059",
+      "commonNames": [
+        "String of Nickels",
+        "Button orchid"
+      ],
+      "genus": "Dischidia",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Dischidia nummularia",
+      "scientificNameAuthorship": "R.Br.",
+      "gbifId": 7439694,
+      "powoId": "96997-1",
+      "iucnCategory": null,
+      "origin": "Southern China and tropical Asia to northern Australia",
+      "growth_type": "epiphytic",
+      "height_range": "0.05–0.15 m",
+      "care_difficulty": "moderate",
+      "description": "String of nickels is an epiphytic vine with slender pendent stems lined by small, rounded, succulent leaves."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1356075",
+  "scientificName": "Tradescantia fluminensis Vell.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1356075",
+      "commonNames": [
+        "Wandering Jew",
+        "Small leaf spiderwort",
+        "Spiderwort",
+        "Inch plant",
+        "Wandering sailor"
+      ],
+      "genus": "Tradescantia",
+      "family": "Commelinaceae",
+      "scientificNameWithoutAuthor": "Tradescantia fluminensis",
+      "scientificNameAuthorship": "Vell.",
+      "gbifId": 2765156,
+      "powoId": "30090792-2",
+      "iucnCategory": null,
+      "origin": "Southeastern South America",
+      "growth_type": "trailing",
+      "height_range": "0.1–0.3 m",
+      "care_difficulty": "very_easy",
+      "description": "A fast-rooting creeper with glossy oval leaves and small three-petaled white flowers, often grown in variegated forms."
+    }
+  }
+}

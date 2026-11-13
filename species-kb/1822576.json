@@ -1,0 +1,28 @@
+{
+  "id": "1822576",
+  "scientificName": "Sedum adolphi Raym.-Hamet",
+  "projects": {
+    "k-world-flora": {
+      "id": "1822576",
+      "commonNames": [
+        "Coppertone Stonecrop (Sedum Nussbaumerianum)",
+        "Golden sedum",
+        "Adolph's Sedum",
+        "Coppertone Stonecrop",
+        "Stonecrop"
+      ],
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Sedum adolphi",
+      "scientificNameAuthorship": "Raym.-Hamet",
+      "gbifId": 5688173,
+      "powoId": "231637-2",
+      "iucnCategory": null,
+      "origin": "Central Veracruz, Mexico",
+      "growth_type": "spreading",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "easy",
+      "description": "A low branching succulent whose fleshy, pointed leaves become golden-orange to coppery red in strong light."
+    }
+  }
+}

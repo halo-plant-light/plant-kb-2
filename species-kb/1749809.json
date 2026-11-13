@@ -1,0 +1,28 @@
+{
+  "id": "1749809",
+  "scientificName": "Dracaena angolensis (Welw. ex Carrière) Byng & Christenh.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1749809",
+      "commonNames": [
+        "Cylindrical snake plant",
+        "African spear",
+        "Spear sansevieria",
+        "St George's lance",
+        "Snake Plant"
+      ],
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Dracaena angolensis",
+      "scientificNameAuthorship": "(Welw. ex Carrière) Byng & Christenh.",
+      "gbifId": 10961470,
+      "powoId": "77182375-1",
+      "iucnCategory": null,
+      "origin": "Angola, Zambia and Zimbabwe in southern tropical Africa",
+      "growth_type": "upright",
+      "height_range": "0.6–1.5 m",
+      "care_difficulty": "very_easy",
+      "description": "A drought-tolerant snake plant with stiff, cylindrical leaves that rise like green spears from underground rhizomes."
+    }
+  }
+}

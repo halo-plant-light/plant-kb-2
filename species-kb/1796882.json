@@ -1,0 +1,24 @@
+{
+  "id": "1796882",
+  "scientificName": "Hoya krohniana Kloppenb. & Siar",
+  "projects": {
+    "k-world-flora": {
+      "id": "1796882",
+      "commonNames": [
+        "Krohniana ‘Super SIlver’"
+      ],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya krohniana",
+      "scientificNameAuthorship": "Kloppenb. & Siar",
+      "gbifId": 7356720,
+      "powoId": "77105117-1",
+      "iucnCategory": null,
+      "origin": "Philippines",
+      "growth_type": "climbing",
+      "height_range": "0.5–1.5 m",
+      "care_difficulty": "moderate",
+      "description": "A small-leaved hoya with often heart-shaped foliage and clusters of tiny, pale, fuzzy-looking flowers."
+    }
+  }
+}

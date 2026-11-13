@@ -1,0 +1,28 @@
+{
+  "id": "1418547",
+  "scientificName": "Sedum morganianum E.Walther",
+  "projects": {
+    "k-world-flora": {
+      "id": "1418547",
+      "commonNames": [
+        "Donkey's tail",
+        "Burro's tail",
+        "Donkey tail",
+        "Donkeytail",
+        "Sheep's tail"
+      ],
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Sedum morganianum",
+      "scientificNameAuthorship": "E.Walther",
+      "gbifId": 5690408,
+      "powoId": "231789-2",
+      "iucnCategory": null,
+      "origin": "Mexico, including Veracruz, Puebla and Chiapas",
+      "growth_type": "trailing",
+      "height_range": "0.1–0.2 m",
+      "care_difficulty": "easy",
+      "description": "Burro's tail forms long pendent ropes of tightly packed, fleshy blue-green leaves that detach readily when handled."
+    }
+  }
+}

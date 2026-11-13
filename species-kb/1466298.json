@@ -1,0 +1,22 @@
+{
+  "id": "1466298",
+  "scientificName": "Philodendron tortum M.L.Soares & Mayo",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466298",
+      "commonNames": [],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron tortum",
+      "scientificNameAuthorship": "M.L.Soares & Mayo",
+      "gbifId": 2870881,
+      "powoId": "321430-2",
+      "iucnCategory": null,
+      "origin": "Northern Brazil and Bolivia",
+      "growth_type": "climbing",
+      "height_range": "0.6–1.5 m",
+      "care_difficulty": "moderate",
+      "description": "A delicate-looking philodendron with deeply divided leaves whose narrow, twisting lobes create a skeletal silhouette."
+    }
+  }
+}

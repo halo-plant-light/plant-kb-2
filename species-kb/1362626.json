@@ -1,0 +1,28 @@
+{
+  "id": "1362626",
+  "scientificName": "Colocasia esculenta (L.) Schott",
+  "projects": {
+    "k-world-flora": {
+      "id": "1362626",
+      "commonNames": [
+        "Elephant's ear",
+        "Coco yam",
+        "Taro",
+        "Wild taro",
+        "Cocoyam"
+      ],
+      "genus": "Colocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Colocasia esculenta",
+      "scientificNameAuthorship": "(L.) Schott",
+      "gbifId": 5330776,
+      "powoId": "1170772-2",
+      "iucnCategory": "LC",
+      "origin": "Tropical Asia; exact origin uncertain",
+      "growth_type": "upright",
+      "height_range": "0.6–1.8 m",
+      "care_difficulty": "moderate",
+      "description": "A corm-forming tropical perennial with large peltate, heart-shaped leaves that usually point downward from long fleshy stalks."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1748897",
+  "scientificName": "Coleus scutellarioides (L.) Benth.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1748897",
+      "commonNames": [
+        "Coleus",
+        "Painted nettle",
+        "Common coleus",
+        "Flybush",
+        "Flame nettle"
+      ],
+      "genus": "Coleus",
+      "family": "Lamiaceae",
+      "scientificNameWithoutAuthor": "Coleus scutellarioides",
+      "scientificNameAuthorship": "(L.) Benth.",
+      "gbifId": 5341492,
+      "powoId": "446165-1",
+      "iucnCategory": null,
+      "origin": "Tropical Asia to northern Australia and western Pacific",
+      "growth_type": "upright",
+      "height_range": "0.3–0.9 m",
+      "care_difficulty": "easy",
+      "description": "A soft-stemmed tropical perennial grown for richly patterned leaves in combinations of green, pink, red and purple."
+    }
+  }
+}

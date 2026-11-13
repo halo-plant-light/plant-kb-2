@@ -1,0 +1,24 @@
+{
+  "id": "1835887",
+  "scientificName": "Peperomia prostrata B.S.Williams ex Mast. & T.Moore",
+  "projects": {
+    "k-world-flora": {
+      "id": "1835887",
+      "commonNames": [
+        "String of turtles"
+      ],
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "scientificNameWithoutAuthor": "Peperomia prostrata",
+      "scientificNameAuthorship": "B.S.Williams ex Mast. & T.Moore",
+      "gbifId": 10776468,
+      "powoId": "679508-1",
+      "iucnCategory": null,
+      "origin": "Brazil",
+      "growth_type": "trailing",
+      "height_range": "0.05–0.1 m",
+      "care_difficulty": "moderate",
+      "description": "A miniature trailing peperomia with rounded leaves patterned like tiny turtle shells."
+    }
+  }
+}

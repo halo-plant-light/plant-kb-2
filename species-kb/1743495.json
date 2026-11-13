@@ -1,0 +1,28 @@
+{
+  "id": "1743495",
+  "scientificName": "Aristaloe aristata (Haw.) Boatwr. & J.C.Manning",
+  "projects": {
+    "k-world-flora": {
+      "id": "1743495",
+      "commonNames": [
+        "Guinea fowl Aloe",
+        "Lace aloe",
+        "Long Awned Aloe",
+        "Partridge Breasted Aloe",
+        "Torch plant"
+      ],
+      "genus": "Aristaloe",
+      "family": "Asphodelaceae",
+      "scientificNameWithoutAuthor": "Aristaloe aristata",
+      "scientificNameAuthorship": "(Haw.) Boatwr. & J.C.Manning",
+      "gbifId": 9505138,
+      "powoId": "77142512-1",
+      "iucnCategory": null,
+      "origin": "South Africa and Lesotho",
+      "growth_type": "rosette",
+      "height_range": "0.15–0.25 m",
+      "care_difficulty": "easy",
+      "description": "A compact rosette succulent with white-speckled, softly toothed leaves ending in fine bristles."
+    }
+  }
+}

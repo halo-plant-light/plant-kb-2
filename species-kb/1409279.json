@@ -1,0 +1,28 @@
+{
+  "id": "1409279",
+  "scientificName": "Chamaedorea seifrizii Burret",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409279",
+      "commonNames": [
+        "Bamboo palm",
+        "Seifriz's chamaedorea",
+        "Reed palm",
+        "Parlor palm",
+        "Large bamboo palm"
+      ],
+      "genus": "Chamaedorea",
+      "family": "Arecaceae",
+      "scientificNameWithoutAuthor": "Chamaedorea seifrizii",
+      "scientificNameAuthorship": "Burret",
+      "gbifId": 2734708,
+      "powoId": "54954-2",
+      "iucnCategory": "LC",
+      "origin": "Southeastern Mexico, Belize, Guatemala and Honduras",
+      "growth_type": "tree",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "easy",
+      "description": "Bamboo palm forms clusters of slender ringed canes topped with graceful, finely divided green fronds."
+    }
+  }
+}

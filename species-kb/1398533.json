@@ -1,0 +1,28 @@
+{
+  "id": "1398533",
+  "scientificName": "Pilea peperomioides Diels",
+  "projects": {
+    "k-world-flora": {
+      "id": "1398533",
+      "commonNames": [
+        "Chinese Money Plant",
+        "Pancake Plant",
+        "Chinese Missionary Plant",
+        "Friendship Plant",
+        "UFO Plant"
+      ],
+      "genus": "Pilea",
+      "family": "Urticaceae",
+      "scientificNameWithoutAuthor": "Pilea peperomioides",
+      "scientificNameAuthorship": "Diels",
+      "gbifId": 5669632,
+      "powoId": "855664-1",
+      "iucnCategory": null,
+      "origin": "South-central China, especially Yunnan and Sichuan",
+      "growth_type": "upright",
+      "height_range": "0.2–0.4 m",
+      "care_difficulty": "easy",
+      "description": "A compact houseplant with round, coin-like leaves held on long stalks and frequent offsets around its base."
+    }
+  }
+}

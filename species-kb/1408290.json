@@ -1,0 +1,28 @@
+{
+  "id": "1408290",
+  "scientificName": "Lilium longiflorum Thunb.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408290",
+      "commonNames": [
+        "Easter lily",
+        "White trumpet lily",
+        "Trumpet lily",
+        "Rose",
+        "Asiatic Lily"
+      ],
+      "genus": "Lilium",
+      "family": "Liliaceae",
+      "scientificNameWithoutAuthor": "Lilium longiflorum",
+      "scientificNameAuthorship": "Thunb.",
+      "gbifId": 2753336,
+      "powoId": "537642-1",
+      "iucnCategory": null,
+      "origin": "Southern Japan, Taiwan and northern Philippines",
+      "growth_type": "upright",
+      "height_range": "0.3–0.9 m",
+      "care_difficulty": "moderate",
+      "description": "A bulbous lily with leafy upright stems topped by large, fragrant, white trumpet-shaped flowers."
+    }
+  }
+}

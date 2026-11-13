@@ -1,0 +1,25 @@
+{
+  "id": "1466709",
+  "scientificName": "Scindapsus treubii Engl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466709",
+      "commonNames": [
+        "Trebuii moonlight",
+        "Moonlight pothos"
+      ],
+      "genus": "Scindapsus",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Scindapsus treubii",
+      "scientificNameAuthorship": "Engl.",
+      "gbifId": 2873707,
+      "powoId": "88927-1",
+      "iucnCategory": null,
+      "origin": "Peninsular Malaysia, northwestern Borneo and Java",
+      "growth_type": "climbing",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "A slow-growing tropical climber with thick, elongated leaves that may show a silvery sheen in cultivated forms."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1731487",
+  "scientificName": "Goeppertia makoyana (É.Morren) Borchs. & S.Suárez",
+  "projects": {
+    "k-world-flora": {
+      "id": "1731487",
+      "commonNames": [
+        "Peacockplant",
+        "Brainplant",
+        "Peacock plant",
+        "Calathea",
+        "Cathedral windows"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia makoyana",
+      "scientificNameAuthorship": "(É.Morren) Borchs. & S.Suárez",
+      "gbifId": 7708211,
+      "powoId": "60461041-2",
+      "iucnCategory": null,
+      "origin": "Espírito Santo, southeastern Brazil",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "hard",
+      "description": "The peacock plant bears thin, pale-green leaves patterned with dark oval markings and translucent burgundy-backed designs."
+    }
+  }
+}

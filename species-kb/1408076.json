@@ -1,0 +1,28 @@
+{
+  "id": "1408076",
+  "scientificName": "Ficus benghalensis L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408076",
+      "commonNames": [
+        "Indian banyan",
+        "Banyan",
+        "Banyan fig",
+        "Horn fig",
+        "Banyantree"
+      ],
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "scientificNameWithoutAuthor": "Ficus benghalensis",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 5361919,
+      "powoId": "852482-1",
+      "iucnCategory": null,
+      "origin": "Indian subcontinent and nearby Indian Ocean islands",
+      "growth_type": "tree",
+      "height_range": "1–3 m",
+      "care_difficulty": "moderate",
+      "description": "A banyan fig with broad leathery leaves that can develop descending aerial roots and an immense spreading crown outdoors."
+    }
+  }
+}

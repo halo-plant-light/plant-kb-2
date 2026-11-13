@@ -1,0 +1,26 @@
+{
+  "id": "1783528",
+  "scientificName": "Hoya bella Hook.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1783528",
+      "commonNames": [
+        "Miniature wax plant",
+        "Wax flower",
+        "Wax plant"
+      ],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya bella",
+      "scientificNameAuthorship": "Hook.",
+      "gbifId": 3575282,
+      "powoId": "98387-1",
+      "iucnCategory": null,
+      "origin": "Assam, India, to Myanmar",
+      "growth_type": "trailing",
+      "height_range": "0.2–0.4 m",
+      "care_difficulty": "moderate",
+      "description": "A delicate, pendent hoya with small pointed leaves and clusters of white starry flowers with pink-purple centers."
+    }
+  }
+}

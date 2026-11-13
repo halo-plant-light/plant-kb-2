@@ -1,0 +1,28 @@
+{
+  "id": "1847983",
+  "scientificName": "Hibiscus × rosa-sinensis L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1847983",
+      "commonNames": [
+        "Chinese Hibiscus",
+        "Hibiscus",
+        "Hawaiian hibiscus",
+        "Rose of-China",
+        "Shoe black plant"
+      ],
+      "genus": "Hibiscus",
+      "family": "Malvaceae",
+      "scientificNameWithoutAuthor": "Hibiscus × rosa-sinensis",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 3152559,
+      "powoId": "560756-1",
+      "iucnCategory": null,
+      "origin": "Cultivated hybrid of South Pacific ancestry",
+      "growth_type": "shrub",
+      "height_range": "0.6–2 m",
+      "care_difficulty": "moderate",
+      "description": "A tropical evergreen shrub grown for large, colorful flowers with a prominent projecting staminal column."
+    }
+  }
+}

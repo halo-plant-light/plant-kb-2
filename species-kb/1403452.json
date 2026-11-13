@@ -1,0 +1,28 @@
+{
+  "id": "1403452",
+  "scientificName": "Livistona chinensis (Jacq.) R.Br. ex Mart.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1403452",
+      "commonNames": [
+        "Chinese Fan Palm",
+        "Fountain palm",
+        "Chinese fountain palm",
+        "Fan palm",
+        "Anahaw"
+      ],
+      "genus": "Livistona",
+      "family": "Arecaceae",
+      "scientificNameWithoutAuthor": "Livistona chinensis",
+      "scientificNameAuthorship": "(Jacq.) R.Br. ex Mart.",
+      "gbifId": 2733469,
+      "powoId": "668021-1",
+      "iucnCategory": "LC",
+      "origin": "Southeastern China, Taiwan and southern Japan",
+      "growth_type": "tree",
+      "height_range": "1–3 m",
+      "care_difficulty": "moderate",
+      "description": "A fan palm with broad divided leaves whose drooping segment tips create a graceful fountain-like outline."
+    }
+  }
+}

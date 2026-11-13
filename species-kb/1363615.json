@@ -1,0 +1,28 @@
+{
+  "id": "1363615",
+  "scientificName": "Crassula ovata (Mill.) Druce",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363615",
+      "commonNames": [
+        "Jade plant",
+        "Money Tree",
+        "Ogre ears",
+        "گیاه یشم (کراسولا)",
+        "Japanese rubberplant"
+      ],
+      "genus": "Crassula",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Crassula ovata",
+      "scientificNameAuthorship": "(Mill.) Druce",
+      "gbifId": 5362063,
+      "powoId": "273350-1",
+      "iucnCategory": null,
+      "origin": "Eastern South Africa and southern Mozambique",
+      "growth_type": "shrub",
+      "height_range": "0.5–1.5 m",
+      "care_difficulty": "very_easy",
+      "description": "A long-lived succulent shrub with thick woody stems, glossy oval leaves and occasional clusters of small starry pink-white flowers."
+    }
+  }
+}

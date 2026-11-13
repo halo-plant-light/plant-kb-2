@@ -1,0 +1,28 @@
+{
+  "id": "1356108",
+  "scientificName": "Thymus vulgaris L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1356108",
+      "commonNames": [
+        "Garden thyme",
+        "Common thyme",
+        "Culinary Thyme",
+        "French Thyme",
+        "Winter Thyme"
+      ],
+      "genus": "Thymus",
+      "family": "Lamiaceae",
+      "scientificNameWithoutAuthor": "Thymus vulgaris",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 5341442,
+      "powoId": "461765-1",
+      "iucnCategory": "LC",
+      "origin": "Western Mediterranean",
+      "growth_type": "shrub",
+      "height_range": "0.15–0.4 m",
+      "care_difficulty": "easy",
+      "description": "A compact woody culinary herb with tiny aromatic gray-green leaves and clusters of pale pink to lilac flowers."
+    }
+  }
+}

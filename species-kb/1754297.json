@@ -1,0 +1,28 @@
+{
+  "id": "1754297",
+  "scientificName": "Clivia miniata (Lindl.) Verschaff.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1754297",
+      "commonNames": [
+        "Bush lily",
+        "Fire lily",
+        "Natal Bushlily",
+        "Natal Lily",
+        "Scarlet kaffir lily"
+      ],
+      "genus": "Clivia",
+      "family": "Amaryllidaceae",
+      "scientificNameWithoutAuthor": "Clivia miniata",
+      "scientificNameAuthorship": "(Lindl.) Verschaff.",
+      "gbifId": 9482657,
+      "powoId": "994513-1",
+      "iucnCategory": null,
+      "origin": "Eastern South Africa and Eswatini",
+      "growth_type": "upright",
+      "height_range": "0.45–0.6 m",
+      "care_difficulty": "easy",
+      "description": "An evergreen clump-forming perennial with arching strap-shaped leaves and bold clusters of orange trumpet flowers."
+    }
+  }
+}

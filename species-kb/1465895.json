@@ -1,0 +1,26 @@
+{
+  "id": "1465895",
+  "scientificName": "Monstera siltepecana Matuda",
+  "projects": {
+    "k-world-flora": {
+      "id": "1465895",
+      "commonNames": [
+        "Monstera peru",
+        "Silver monstera",
+        "برگ چرمی"
+      ],
+      "genus": "Monstera",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Monstera siltepecana",
+      "scientificNameAuthorship": "Matuda",
+      "gbifId": 2868229,
+      "powoId": "163959-2",
+      "iucnCategory": null,
+      "origin": "Southern Mexico to Nicaragua",
+      "growth_type": "climbing",
+      "height_range": "1.5–2.5 m",
+      "care_difficulty": "easy",
+      "description": "A climbing monstera whose silver-green juvenile leaves develop larger, greener and sometimes perforated adult foliage."
+    }
+  }
+}

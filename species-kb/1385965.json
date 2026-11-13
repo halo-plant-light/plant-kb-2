@@ -1,0 +1,28 @@
+{
+  "id": "1385965",
+  "scientificName": "Monstera deliciosa Liebm.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1385965",
+      "commonNames": [
+        "Monstera",
+        "Tarovine",
+        "Swiss Cheese Plant",
+        "Swiss cheese-plant",
+        "Mexican breadfruit"
+      ],
+      "genus": "Monstera",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Monstera deliciosa",
+      "scientificNameAuthorship": "Liebm.",
+      "gbifId": 2868241,
+      "powoId": "87478-1",
+      "iucnCategory": null,
+      "origin": "Southern Mexico through Central America to Panama",
+      "growth_type": "climbing",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "easy",
+      "description": "A robust root-climbing aroid whose glossy heart-shaped leaves develop deep splits and enclosed holes as the plant matures."
+    }
+  }
+}

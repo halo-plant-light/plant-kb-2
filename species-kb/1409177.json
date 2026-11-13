@@ -1,0 +1,28 @@
+{
+  "id": "1409177",
+  "scientificName": "Araucaria heterophylla (Salisb.) Franco",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409177",
+      "commonNames": [
+        "Norfolk Island pine",
+        "Star Pine",
+        "Living Christmas Tree",
+        "Norfolk Island araucaria",
+        "Norfolk Pine"
+      ],
+      "genus": "Araucaria",
+      "family": "Araucariaceae",
+      "scientificNameWithoutAuthor": "Araucaria heterophylla",
+      "scientificNameAuthorship": "(Salisb.) Franco",
+      "gbifId": 2684969,
+      "powoId": "676669-1",
+      "iucnCategory": "VU",
+      "origin": "Norfolk Island in the southwestern Pacific",
+      "growth_type": "tree",
+      "height_range": "1–2.7 m",
+      "care_difficulty": "moderate",
+      "description": "A symmetrical evergreen conifer with a straight central trunk and tiers of softly needled horizontal branches."
+    }
+  }
+}

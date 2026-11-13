@@ -1,0 +1,26 @@
+{
+  "id": "1748141",
+  "scientificName": "Curio repens (L.) P.V.Heath",
+  "projects": {
+    "k-world-flora": {
+      "id": "1748141",
+      "commonNames": [
+        "Blue chalk sticks",
+        "Blue Chalksticks",
+        "Snake Ragwort"
+      ],
+      "genus": "Curio",
+      "family": "Asteraceae",
+      "scientificNameWithoutAuthor": "Curio repens",
+      "scientificNameAuthorship": "(L.) P.V.Heath",
+      "gbifId": 3149628,
+      "powoId": "997629-1",
+      "iucnCategory": null,
+      "origin": "South Africa, principally the Cape region",
+      "growth_type": "groundcover",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "easy",
+      "description": "A low spreading succulent with powdery blue, finger-shaped leaves that form a dense carpet."
+    }
+  }
+}

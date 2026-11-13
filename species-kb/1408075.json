@@ -1,0 +1,28 @@
+{
+  "id": "1408075",
+  "scientificName": "Ficus altissima Blume",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408075",
+      "commonNames": [
+        "Council tree",
+        "False banyan",
+        "Lofty fig",
+        "Counciltree",
+        "Gao shan rong"
+      ],
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "scientificNameWithoutAuthor": "Ficus altissima",
+      "scientificNameAuthorship": "Blume",
+      "gbifId": 5361907,
+      "powoId": "852369-1",
+      "iucnCategory": "LC",
+      "origin": "Indian subcontinent to southern China and Malesia",
+      "growth_type": "tree",
+      "height_range": "1–3 m",
+      "care_difficulty": "easy",
+      "description": "A large evergreen fig with broad, leathery leaves and pale veins, often grown indoors in yellow-variegated selections."
+    }
+  }
+}

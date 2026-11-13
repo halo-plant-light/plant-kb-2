@@ -1,0 +1,25 @@
+{
+  "id": "1718413",
+  "scientificName": "Ludisia discolor (Ker Gawl.) Blume",
+  "projects": {
+    "k-world-flora": {
+      "id": "1718413",
+      "commonNames": [
+        "Jewel orchid",
+        "Twisty flowered Orchid"
+      ],
+      "genus": "Ludisia",
+      "family": "Orchidaceae",
+      "scientificNameWithoutAuthor": "Ludisia discolor",
+      "scientificNameAuthorship": "(Ker Gawl.) Blume",
+      "gbifId": 8002439,
+      "powoId": "641773-1",
+      "iucnCategory": null,
+      "origin": "Southern China to Southeast Asia and western Malesia",
+      "growth_type": "spreading",
+      "height_range": "0.1–0.2 m",
+      "care_difficulty": "moderate",
+      "description": "A terrestrial jewel orchid prized for velvety dark leaves traced with fine contrasting veins and sprays of small white flowers."
+    }
+  }
+}

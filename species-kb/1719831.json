@@ -1,0 +1,28 @@
+{
+  "id": "1719831",
+  "scientificName": "Cissus discolor Blume",
+  "projects": {
+    "k-world-flora": {
+      "id": "1719831",
+      "commonNames": [
+        "Climbing begonia",
+        "Rex begonia-vine",
+        "Trailing begonia",
+        "Rex Begonia Vine",
+        "Begonia Vine"
+      ],
+      "genus": "Cissus",
+      "family": "Vitaceae",
+      "scientificNameWithoutAuthor": "Cissus discolor",
+      "scientificNameAuthorship": "Blume",
+      "gbifId": 4054691,
+      "powoId": "869840-1",
+      "iucnCategory": null,
+      "origin": "South-central China through tropical Asia",
+      "growth_type": "climbing",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "hard",
+      "description": "A tendril-climbing vine with silver-patterned, dark green leaves and rich burgundy undersides."
+    }
+  }
+}

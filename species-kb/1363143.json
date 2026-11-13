@@ -1,0 +1,28 @@
+{
+  "id": "1363143",
+  "scientificName": "Ficus pumila L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363143",
+      "commonNames": [
+        "Climbingfig",
+        "Creeping fig",
+        "Climbing fig",
+        "Figvine",
+        "Creeping rubberplant"
+      ],
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "scientificNameWithoutAuthor": "Ficus pumila",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 5361930,
+      "powoId": "853513-1",
+      "iucnCategory": null,
+      "origin": "East and Southeast Asia",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "moderate",
+      "description": "A self-clinging evergreen fig with tiny heart-shaped juvenile leaves that become much larger and leathery on mature flowering shoots."
+    }
+  }
+}

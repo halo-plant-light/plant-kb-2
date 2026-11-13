@@ -1,0 +1,27 @@
+{
+  "id": "1464054",
+  "scientificName": "Alocasia lauterbachiana (Engl.) A.Hay",
+  "projects": {
+    "k-world-flora": {
+      "id": "1464054",
+      "commonNames": [
+        "Purple sword alocasia",
+        "Angels Wings",
+        "Spear Leaf",
+        "Elephant ear"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia lauterbachiana",
+      "scientificNameAuthorship": "(Engl.) A.Hay",
+      "gbifId": 5329877,
+      "powoId": "962407-1",
+      "iucnCategory": null,
+      "origin": "Northern New Guinea and the Bismarck Archipelago",
+      "growth_type": "upright",
+      "height_range": "1–1.5 m",
+      "care_difficulty": "moderate",
+      "description": "Purple sword alocasia carries long, narrow, deeply scalloped leaves with dark green upper surfaces and purple-toned undersides."
+    }
+  }
+}

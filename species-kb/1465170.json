@@ -1,0 +1,24 @@
+{
+  "id": "1465170",
+  "scientificName": "Anthurium warocqueanum T.Moore",
+  "projects": {
+    "k-world-flora": {
+      "id": "1465170",
+      "commonNames": [
+        "Queen Anthurium"
+      ],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium warocqueanum",
+      "scientificNameAuthorship": "T.Moore",
+      "gbifId": 2873559,
+      "powoId": "85496-1",
+      "iucnCategory": null,
+      "origin": "Colombia",
+      "growth_type": "epiphytic",
+      "height_range": "0.5–1.5 m",
+      "care_difficulty": "expert",
+      "description": "The queen anthurium bears elongated, velvety dark-green leaves traced with striking pale veins."
+    }
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "id": "1732450",
+  "scientificName": "Goeppertia lietzei (É.Morren) Saka",
+  "projects": {
+    "k-world-flora": {
+      "id": "1732450",
+      "commonNames": [
+        "Calathea White Fusion",
+        "White Calathea"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia lietzei",
+      "scientificNameAuthorship": "(É.Morren) Saka",
+      "gbifId": 9578489,
+      "powoId": "77174968-1",
+      "iucnCategory": null,
+      "origin": "Eastern Brazil, including northeastern and southeastern Brazil",
+      "growth_type": "upright",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "hard",
+      "description": "A clumping prayer plant with elongated, patterned green leaves and contrasting purplish lower surfaces."
+    }
+  }
+}

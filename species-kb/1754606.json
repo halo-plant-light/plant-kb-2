@@ -1,0 +1,26 @@
+{
+  "id": "1754606",
+  "scientificName": "Haworthiopsis attenuata (Haw.) G.D.Rowley",
+  "projects": {
+    "k-world-flora": {
+      "id": "1754606",
+      "commonNames": [
+        "Zebra plant",
+        "Zebra haworthia",
+        "Hanky dwarf aloe"
+      ],
+      "genus": "Haworthiopsis",
+      "family": "Asphodelaceae",
+      "scientificNameWithoutAuthor": "Haworthiopsis attenuata",
+      "scientificNameAuthorship": "(Haw.) G.D.Rowley",
+      "gbifId": 9388529,
+      "powoId": "77138002-1",
+      "iucnCategory": null,
+      "origin": "Eastern Cape, South Africa",
+      "growth_type": "rosette",
+      "height_range": "0.1–0.2 m",
+      "care_difficulty": "very_easy",
+      "description": "A small clumping succulent with pointed green leaves decorated by raised white bands and spots."
+    }
+  }
+}

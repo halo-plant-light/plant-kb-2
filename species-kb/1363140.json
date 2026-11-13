@@ -1,0 +1,28 @@
+{
+  "id": "1363140",
+  "scientificName": "Ficus lyrata Warb.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363140",
+      "commonNames": [
+        "Fiddle leaf fig",
+        "Banjo fig",
+        "Fiddleleaf fig",
+        "Lyre leaf figtree",
+        "فیکوس لیراتا"
+      ],
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "scientificNameWithoutAuthor": "Ficus lyrata",
+      "scientificNameAuthorship": "Warb.",
+      "gbifId": 5361899,
+      "powoId": "853158-1",
+      "iucnCategory": "LC",
+      "origin": "Western and west-central tropical Africa",
+      "growth_type": "tree",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "moderate",
+      "description": "A tropical evergreen tree with oversized leathery violin-shaped leaves marked by prominent pale veins."
+    }
+  }
+}

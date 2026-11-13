@@ -1,0 +1,26 @@
+{
+  "id": "1406853",
+  "scientificName": "Philodendron tatei K.Krause",
+  "projects": {
+    "k-world-flora": {
+      "id": "1406853",
+      "commonNames": [
+        "Rojo Congo",
+        "Birkin",
+        "Philodendron ‘Birkin’"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron tatei",
+      "scientificNameAuthorship": "K.Krause",
+      "gbifId": 2871073,
+      "powoId": "193193-2",
+      "iucnCategory": null,
+      "origin": "Northern Brazil, Guyana, Venezuela and Peru",
+      "growth_type": "upright",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "A robust tropical philodendron with large elongated green leaves arranged around a compact upright stem."
+    }
+  }
+}

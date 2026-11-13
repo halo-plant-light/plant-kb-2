@@ -1,0 +1,26 @@
+{
+  "id": "1758855",
+  "scientificName": "Curio herreanus (Dinter) P.V.Heath",
+  "projects": {
+    "k-world-flora": {
+      "id": "1758855",
+      "commonNames": [
+        "String of watermelons",
+        "Gooseberry Plant",
+        "String of Dolphins"
+      ],
+      "genus": "Curio",
+      "family": "Asteraceae",
+      "scientificNameWithoutAuthor": "Curio herreanus",
+      "scientificNameAuthorship": "(Dinter) P.V.Heath",
+      "gbifId": 3149664,
+      "powoId": "1011407-1",
+      "iucnCategory": null,
+      "origin": "Namibia",
+      "growth_type": "trailing",
+      "height_range": "0.05–0.15 m",
+      "care_difficulty": "moderate",
+      "description": "A trailing succulent with plump, oval to teardrop-shaped leaves marked by translucent longitudinal windows."
+    }
+  }
+}

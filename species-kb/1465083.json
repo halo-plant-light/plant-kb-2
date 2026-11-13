@@ -1,0 +1,22 @@
+{
+  "id": "1465083",
+  "scientificName": "Anthurium superbum Madison",
+  "projects": {
+    "k-world-flora": {
+      "id": "1465083",
+      "commonNames": [],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium superbum",
+      "scientificNameAuthorship": "Madison",
+      "gbifId": 2872540,
+      "powoId": "15741-2",
+      "iucnCategory": "VU",
+      "origin": "Ecuador and Peru",
+      "growth_type": "rosette",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "moderate",
+      "description": "This bird's-nest anthurium forms an upright rosette of stiff, strongly corrugated leaves that often have purple-toned undersides."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1407797",
+  "scientificName": "Ceropegia woodii Schltr.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1407797",
+      "commonNames": [
+        "String Of Hearts",
+        "Hearts entangled",
+        "Hearts on a string",
+        "Rosary Vine",
+        "Sweetheart vine"
+      ],
+      "genus": "Ceropegia",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Ceropegia woodii",
+      "scientificNameAuthorship": "Schltr.",
+      "gbifId": 3572767,
+      "powoId": "95848-1",
+      "iucnCategory": null,
+      "origin": "Southern Africa",
+      "growth_type": "trailing",
+      "height_range": "0.05–0.1 m",
+      "care_difficulty": "easy",
+      "description": "A tuberous trailing succulent with pairs of silver-patterned heart-shaped leaves spaced along wiry stems."
+    }
+  }
+}

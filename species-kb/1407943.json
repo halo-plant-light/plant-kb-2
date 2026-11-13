@@ -1,0 +1,28 @@
+{
+  "id": "1407943",
+  "scientificName": "Aglaonema commutatum Schott",
+  "projects": {
+    "k-world-flora": {
+      "id": "1407943",
+      "commonNames": [
+        "Chinese evergreen",
+        "Philippine Evergreen",
+        "Silver queen aglaonema",
+        "گل آگلونما نخشید",
+        "Poison Dart Plant"
+      ],
+      "genus": "Aglaonema",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Aglaonema commutatum",
+      "scientificNameAuthorship": "Schott",
+      "gbifId": 2866467,
+      "powoId": "84050-1",
+      "iucnCategory": null,
+      "origin": "The Philippines and Sulawesi, Indonesia",
+      "growth_type": "upright",
+      "height_range": "0.3–0.9 m",
+      "care_difficulty": "very_easy",
+      "description": "A clumping tropical foliage plant with lance-shaped leaves often patterned with silver-green markings."
+    }
+  }
+}

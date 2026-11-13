@@ -1,0 +1,28 @@
+{
+  "id": "1400337",
+  "scientificName": "Polyscias scutellaria (Burm.f.) Fosberg",
+  "projects": {
+    "k-world-flora": {
+      "id": "1400337",
+      "commonNames": [
+        "Dinnerplate aralia",
+        "Shield Aralia",
+        "Plum aralia",
+        "Millonaria",
+        "Aralia Fabian"
+      ],
+      "genus": "Polyscias",
+      "family": "Araliaceae",
+      "scientificNameWithoutAuthor": "Polyscias scutellaria",
+      "scientificNameAuthorship": "(Burm.f.) Fosberg",
+      "gbifId": 3035778,
+      "powoId": "91817-1",
+      "iucnCategory": "LC",
+      "origin": "Cultigen; eastern Malesia–Pacific origin uncertain",
+      "growth_type": "shrub",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "A tropical evergreen shrub with rounded, shield-like leaves and a woody upright framework."
+    }
+  }
+}

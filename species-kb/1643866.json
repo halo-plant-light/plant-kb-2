@@ -1,0 +1,26 @@
+{
+  "id": "1643866",
+  "scientificName": "Peperomia polybotrya Kunth",
+  "projects": {
+    "k-world-flora": {
+      "id": "1643866",
+      "commonNames": [
+        "Raindrop peperomia",
+        "Money plant",
+        "Coin leaf peperomia"
+      ],
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "scientificNameWithoutAuthor": "Peperomia polybotrya",
+      "scientificNameAuthorship": "Kunth",
+      "gbifId": 4186205,
+      "powoId": "679474-1",
+      "iucnCategory": null,
+      "origin": "Colombia, Ecuador and Peru",
+      "growth_type": "upright",
+      "height_range": "0.25–0.4 m",
+      "care_difficulty": "easy",
+      "description": "A compact upright peperomia with glossy, raindrop-shaped leaves held on fleshy stems."
+    }
+  }
+}

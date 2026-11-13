@@ -1,0 +1,28 @@
+{
+  "id": "1407810",
+  "scientificName": "Chlorophytum comosum (Thunb.) Jacques",
+  "projects": {
+    "k-world-flora": {
+      "id": "1407810",
+      "commonNames": [
+        "Spider Plant",
+        "Spider ivy",
+        "Spiderplant",
+        "Ribbonplant",
+        "Hen And-Chickens"
+      ],
+      "genus": "Chlorophytum",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Chlorophytum comosum",
+      "scientificNameAuthorship": "(Thunb.) Jacques",
+      "gbifId": 2774846,
+      "powoId": "532810-1",
+      "iucnCategory": null,
+      "origin": "Western, eastern and southern Africa",
+      "growth_type": "rosette",
+      "height_range": "0.3–0.45 m",
+      "care_difficulty": "very_easy",
+      "description": "An adaptable rosette-forming plant with arching strap-shaped leaves and dangling runners that carry miniature plantlets."
+    }
+  }
+}

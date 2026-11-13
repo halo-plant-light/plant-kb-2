@@ -1,0 +1,28 @@
+{
+  "id": "1719982",
+  "scientificName": "Chrysanthemum × morifolium (Ramat.) Hemsl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1719982",
+      "commonNames": [
+        "Hardy Garden Mum",
+        "Common Chrysanthemum",
+        "Florist's daisy",
+        "Garden chrysanthemum",
+        "Hardy Mum"
+      ],
+      "genus": "Chrysanthemum",
+      "family": "Asteraceae",
+      "scientificNameWithoutAuthor": "Chrysanthemum × morifolium",
+      "scientificNameAuthorship": "(Ramat.) Hemsl.",
+      "gbifId": 3150767,
+      "powoId": "77111328-1",
+      "iucnCategory": null,
+      "origin": "Cultivated hybrid of East Asian ancestry",
+      "growth_type": "upright",
+      "height_range": "0.3–1 m",
+      "care_difficulty": "moderate",
+      "description": "A bushy perennial chrysanthemum cultivated for abundant, richly colored flower heads in many shapes and sizes."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1356421",
+  "scientificName": "Nephrolepis exaltata (L.) Schott",
+  "projects": {
+    "k-world-flora": {
+      "id": "1356421",
+      "commonNames": [
+        "Boston fern",
+        "Boston Swordfern",
+        "Sword fern",
+        "Boston sword fern",
+        "سرخس مخملی"
+      ],
+      "genus": "Nephrolepis",
+      "family": "Polypodiaceae",
+      "scientificNameWithoutAuthor": "Nephrolepis exaltata",
+      "scientificNameAuthorship": "(L.) Schott",
+      "gbifId": 2650927,
+      "powoId": "17160830-1",
+      "iucnCategory": "LC",
+      "origin": "Tropical and subtropical Americas",
+      "growth_type": "rosette",
+      "height_range": "0.4–0.9 m",
+      "care_difficulty": "moderate",
+      "description": "A tufted sword fern with long arching fronds divided into many small leaflets, the source of familiar Boston fern cultivars."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1861610",
+  "scientificName": "Goeppertia ornata (Lem.) Borchs. & S.Suárez",
+  "projects": {
+    "k-world-flora": {
+      "id": "1861610",
+      "commonNames": [
+        "Pin stripe calathea",
+        "Pin striped Calathea",
+        "Calathea ornata",
+        "Pin stripe Goeppertia",
+        "Pinstriped Calathea"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia ornata",
+      "scientificNameAuthorship": "(Lem.) Borchs. & S.Suárez",
+      "gbifId": 7977204,
+      "powoId": "60461169-2",
+      "iucnCategory": null,
+      "origin": "Southeastern Colombia to southwestern Venezuela",
+      "growth_type": "upright",
+      "height_range": "0.4–0.9 m",
+      "care_difficulty": "hard",
+      "description": "A tropical foliage plant with dark glossy leaves traced by fine pink to pale pinstripes and purple undersides."
+    }
+  }
+}

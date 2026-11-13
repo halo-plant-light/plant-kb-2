@@ -1,0 +1,28 @@
+{
+  "id": "1403870",
+  "scientificName": "Ficus elastica Roxb. ex Hornem.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1403870",
+      "commonNames": [
+        "Rubberplant",
+        "Indian rubberplant",
+        "Rubber Plant",
+        "Indian Rubber Tree",
+        "India rubber fig"
+      ],
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "scientificNameWithoutAuthor": "Ficus elastica",
+      "scientificNameAuthorship": "Roxb. ex Hornem.",
+      "gbifId": 5361903,
+      "powoId": "60458499-2",
+      "iucnCategory": "LC",
+      "origin": "Himalaya to southern China and western Malesia",
+      "growth_type": "tree",
+      "height_range": "0.6–3 m",
+      "care_difficulty": "easy",
+      "description": "An evergreen tree grown indoors for its large, thick, glossy leaves and conspicuous pointed stipules around new growth."
+    }
+  }
+}

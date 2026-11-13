@@ -1,0 +1,28 @@
+{
+  "id": "1363530",
+  "scientificName": "Cymbopogon citratus (DC.) Stapf",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363530",
+      "commonNames": [
+        "Lemongrass",
+        "Lemon Grass",
+        "West Indian lemongrass",
+        "West Indian lemon grass",
+        "Citronella"
+      ],
+      "genus": "Cymbopogon",
+      "family": "Poaceae",
+      "scientificNameWithoutAuthor": "Cymbopogon citratus",
+      "scientificNameAuthorship": "(DC.) Stapf",
+      "gbifId": 2705275,
+      "powoId": "396896-1",
+      "iucnCategory": null,
+      "origin": "Probably South Asia; origin uncertain",
+      "growth_type": "upright",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "easy",
+      "description": "A dense clumping grass with arching lemon-scented blades and swollen pale shoot bases used in Southeast Asian cooking."
+    }
+  }
+}

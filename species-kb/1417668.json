@@ -1,0 +1,27 @@
+{
+  "id": "1417668",
+  "scientificName": "Dracaena surculosa Lindl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1417668",
+      "commonNames": [
+        "Gold dust dracaena",
+        "Spotted dracaena",
+        "Bambu jepang",
+        "Florida Beauty"
+      ],
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Dracaena surculosa",
+      "scientificNameAuthorship": "Lindl.",
+      "gbifId": 5304547,
+      "powoId": "534384-1",
+      "iucnCategory": null,
+      "origin": "Western tropical Africa",
+      "growth_type": "shrub",
+      "height_range": "0.6–1 m",
+      "care_difficulty": "easy",
+      "description": "Gold dust dracaena is a branching cane-like shrub with broad green leaves sprinkled or blotched with cream and yellow."
+    }
+  }
+}

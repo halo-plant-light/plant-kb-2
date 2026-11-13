@@ -1,0 +1,26 @@
+{
+  "id": "1643341",
+  "scientificName": "Peperomia clusiifolia (Jacq.) Hook.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1643341",
+      "commonNames": [
+        "Baby rubberplant",
+        "Red edge peperomia",
+        "Tricolor peperomia"
+      ],
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "scientificNameWithoutAuthor": "Peperomia clusiifolia",
+      "scientificNameAuthorship": "(Jacq.) Hook.",
+      "gbifId": 4184364,
+      "powoId": "678280-1",
+      "iucnCategory": null,
+      "origin": "Jamaica",
+      "growth_type": "upright",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "easy",
+      "description": "A compact peperomia with thick, rounded, glossy leaves often edged in reddish tones."
+    }
+  }
+}

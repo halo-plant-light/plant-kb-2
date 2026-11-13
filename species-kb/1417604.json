@@ -1,0 +1,28 @@
+{
+  "id": "1417604",
+  "scientificName": "Howea forsteriana (F.Muell.) Becc.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1417604",
+      "commonNames": [
+        "Kentia palm",
+        "Sentrypalm",
+        "Thatch palm",
+        "Paradise palm",
+        "Sentry palm"
+      ],
+      "genus": "Howea",
+      "family": "Arecaceae",
+      "scientificNameWithoutAuthor": "Howea forsteriana",
+      "scientificNameAuthorship": "(F.Muell.) Becc.",
+      "gbifId": 7857942,
+      "powoId": "667434-1",
+      "iucnCategory": "VU",
+      "origin": "Lord Howe Island, Australia",
+      "growth_type": "tree",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "easy",
+      "description": "Kentia palm has a solitary slender trunk and elegant arching fronds with long, drooping leaflets."
+    }
+  }
+}

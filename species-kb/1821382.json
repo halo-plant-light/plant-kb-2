@@ -1,0 +1,26 @@
+{
+  "id": "1821382",
+  "scientificName": "Pachyphytum oviferum J.A.Purpus",
+  "projects": {
+    "k-world-flora": {
+      "id": "1821382",
+      "commonNames": [
+        "Moonstones",
+        "Sugared almond Plant",
+        "Moonstone Plant"
+      ],
+      "genus": "Pachyphytum",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Pachyphytum oviferum",
+      "scientificNameAuthorship": "J.A.Purpus",
+      "gbifId": 4202469,
+      "powoId": "179911-2",
+      "iucnCategory": null,
+      "origin": "San Luis Potosí, Mexico",
+      "growth_type": "rosette",
+      "height_range": "0.1–0.25 m",
+      "care_difficulty": "easy",
+      "description": "A compact succulent with plump, egg-shaped leaves coated in a pale, powdery blue to pink bloom."
+    }
+  }
+}

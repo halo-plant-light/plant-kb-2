@@ -1,0 +1,27 @@
+{
+  "id": "1730306",
+  "scientificName": "Ctenanthe burle-marxii H.Kenn.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1730306",
+      "commonNames": [
+        "Fishbone Prayer Plant",
+        "Prayer plant",
+        "Fish bone prayer plant",
+        "The Rosemary Bush"
+      ],
+      "genus": "Ctenanthe",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Ctenanthe burle-marxii",
+      "scientificNameAuthorship": "H.Kenn.",
+      "gbifId": 2762406,
+      "powoId": "71814-2",
+      "iucnCategory": null,
+      "origin": "Espírito Santo, southeastern Brazil",
+      "growth_type": "spreading",
+      "height_range": "0.2–0.4 m",
+      "care_difficulty": "moderate",
+      "description": "A low, spreading prayer plant with pale green leaves marked by a dark fishbone pattern and purple undersides."
+    }
+  }
+}

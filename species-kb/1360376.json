@@ -1,0 +1,28 @@
+{
+  "id": "1360376",
+  "scientificName": "Coffea arabica L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1360376",
+      "commonNames": [
+        "Arabian coffee",
+        "Coffee",
+        "Arabica coffee",
+        "Coffee tree",
+        "Coffeetree"
+      ],
+      "genus": "Coffea",
+      "family": "Rubiaceae",
+      "scientificNameWithoutAuthor": "Coffea arabica",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 2895345,
+      "powoId": "747038-1",
+      "iucnCategory": "EN",
+      "origin": "South Sudan, Ethiopia and northern Kenya",
+      "growth_type": "shrub",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "An evergreen coffee shrub with glossy rippled leaves, fragrant white flowers and red fruits containing the familiar coffee seeds."
+    }
+  }
+}

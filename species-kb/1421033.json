@@ -1,0 +1,22 @@
+{
+  "id": "1421033",
+  "scientificName": "Philodendron gloriosum André",
+  "projects": {
+    "k-world-flora": {
+      "id": "1421033",
+      "commonNames": [],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron gloriosum",
+      "scientificNameAuthorship": "André",
+      "gbifId": 2870786,
+      "powoId": "87777-1",
+      "iucnCategory": "VU",
+      "origin": "Colombia",
+      "growth_type": "spreading",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "moderate",
+      "description": "Philodendron gloriosum creeps along the ground and carries large velvety heart-shaped leaves marked by pale veins."
+    }
+  }
+}

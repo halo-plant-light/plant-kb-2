@@ -1,0 +1,28 @@
+{
+  "id": "1408217",
+  "scientificName": "Hypoestes phyllostachya Baker",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408217",
+      "commonNames": [
+        "Polka dot-plant",
+        "Polkadot plant",
+        "Flamingo plant",
+        "Polka dot plant",
+        "Freckle face"
+      ],
+      "genus": "Hypoestes",
+      "family": "Acanthaceae",
+      "scientificNameWithoutAuthor": "Hypoestes phyllostachya",
+      "scientificNameAuthorship": "Baker",
+      "gbifId": 3173196,
+      "powoId": "49962-1",
+      "iucnCategory": null,
+      "origin": "Madagascar",
+      "growth_type": "upright",
+      "height_range": "0.15–0.6 m",
+      "care_difficulty": "easy",
+      "description": "A soft-stemmed foliage plant with green leaves liberally splashed or speckled with pink, red or white in cultivated forms."
+    }
+  }
+}

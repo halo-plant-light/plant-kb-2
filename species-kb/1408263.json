@@ -1,0 +1,28 @@
+{
+  "id": "1408263",
+  "scientificName": "Kalanchoe tomentosa Baker",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408263",
+      "commonNames": [
+        "Panda Plant",
+        "Chocolate Soldier",
+        "Panda Ears",
+        "Cat Ears",
+        "Pussy ears"
+      ],
+      "genus": "Kalanchoe",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Kalanchoe tomentosa",
+      "scientificNameAuthorship": "Baker",
+      "gbifId": 4198346,
+      "powoId": "274502-1",
+      "iucnCategory": "LC",
+      "origin": "East-central Madagascar",
+      "growth_type": "shrub",
+      "height_range": "0.3–0.9 m",
+      "care_difficulty": "easy",
+      "description": "A slow-growing succulent with soft gray felted leaves edged by contrasting chocolate-brown markings."
+    }
+  }
+}

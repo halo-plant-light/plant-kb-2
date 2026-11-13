@@ -1,0 +1,28 @@
+{
+  "id": "1749793",
+  "scientificName": "Dracaena sanderiana Mast.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1749793",
+      "commonNames": [
+        "Lucky Bamboo",
+        "Belgian evergreen",
+        "Chinese water bamboo",
+        "Curly bamboo",
+        "Goddess of Mercy's plant"
+      ],
+      "genus": "Dracaena",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Dracaena sanderiana",
+      "scientificNameAuthorship": "Mast.",
+      "gbifId": 7431653,
+      "powoId": "60471006-2",
+      "iucnCategory": null,
+      "origin": "West-central tropical Africa to northeastern Angola",
+      "growth_type": "upright",
+      "height_range": "0.5–1.5 m",
+      "care_difficulty": "easy",
+      "description": "A slender, cane-forming tropical plant with narrow green leaves, commonly trained and sold as lucky bamboo."
+    }
+  }
+}

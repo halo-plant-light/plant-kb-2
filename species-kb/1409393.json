@@ -1,0 +1,28 @@
+{
+  "id": "1409393",
+  "scientificName": "Begonia maculata Raddi",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409393",
+      "commonNames": [
+        "Polka Dot Begonia",
+        "Angel Wings",
+        "Polka dot plant",
+        "Spotted Begonia",
+        "Cane Begonia"
+      ],
+      "genus": "Begonia",
+      "family": "Begoniaceae",
+      "scientificNameWithoutAuthor": "Begonia maculata",
+      "scientificNameAuthorship": "Raddi",
+      "gbifId": 7303475,
+      "powoId": "105130-1",
+      "iucnCategory": null,
+      "origin": "Southeastern Brazil, particularly Rio de Janeiro",
+      "growth_type": "upright",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "moderate",
+      "description": "Polka dot begonia carries elongated silver-spotted leaves with reddish undersides on upright cane-like stems."
+    }
+  }
+}

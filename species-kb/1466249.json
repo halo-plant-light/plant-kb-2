@@ -1,0 +1,22 @@
+{
+  "id": "1466249",
+  "scientificName": "Philodendron rugosum Bogner & G.S.Bunting",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466249",
+      "commonNames": [],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron rugosum",
+      "scientificNameAuthorship": "Bogner & G.S.Bunting",
+      "gbifId": 2870871,
+      "powoId": "193171-2",
+      "iucnCategory": "NT",
+      "origin": "Southern Colombia to Ecuador",
+      "growth_type": "climbing",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "A climbing philodendron with thick, puckered, leathery leaves often likened to textured pigskin."
+    }
+  }
+}

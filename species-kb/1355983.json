@@ -1,0 +1,28 @@
+{
+  "id": "1355983",
+  "scientificName": "Euphorbia lactea Haw.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1355983",
+      "commonNames": [
+        "Mottled spurge",
+        "Candelabra cactus",
+        "Dragon bones",
+        "False cactus",
+        "Candelabra spurge"
+      ],
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "scientificNameWithoutAuthor": "Euphorbia lactea",
+      "scientificNameAuthorship": "Haw.",
+      "gbifId": 3069859,
+      "powoId": "347035-1",
+      "iucnCategory": "DD",
+      "origin": "Sri Lanka",
+      "growth_type": "shrub",
+      "height_range": "0.6–2 m",
+      "care_difficulty": "easy",
+      "description": "An angular succulent shrub whose pale-mottled, winged stems carry paired spines along their wavy edges."
+    }
+  }
+}

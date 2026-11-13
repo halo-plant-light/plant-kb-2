@@ -1,0 +1,28 @@
+{
+  "id": "1460988",
+  "scientificName": "Hoya kerrii Craib",
+  "projects": {
+    "k-world-flora": {
+      "id": "1460988",
+      "commonNames": [
+        "Sweetheart Plant",
+        "Heart Hoya",
+        "Lucky heart",
+        "Heart leave",
+        "Hoya Heart"
+      ],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya kerrii",
+      "scientificNameAuthorship": "Craib",
+      "gbifId": 3573959,
+      "powoId": "98512-1",
+      "iucnCategory": null,
+      "origin": "Indochina to western Malesia",
+      "growth_type": "climbing",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "easy",
+      "description": "Sweetheart hoya is a slow-growing climbing succulent vine with thick, distinctly heart-shaped leaves and waxy flower clusters."
+    }
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "1426684",
+  "scientificName": "Syngonium wendlandii Schott",
+  "projects": {
+    "k-world-flora": {
+      "id": "1426684",
+      "commonNames": [
+        "Arrowhead Syngonium",
+        "Silver goosefoot",
+        "Silver arrowhead",
+        "Sapatinho de Nossa Senhora"
+      ],
+      "genus": "Syngonium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Syngonium wendlandii",
+      "scientificNameAuthorship": "Schott",
+      "gbifId": 2867865,
+      "powoId": "89164-1",
+      "iucnCategory": null,
+      "origin": "Costa Rica",
+      "growth_type": "climbing",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "This climbing aroid has velvety dark green arrow-shaped juvenile leaves with a prominent silvery central stripe."
+    }
+  }
+}

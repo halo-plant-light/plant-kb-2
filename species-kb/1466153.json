@@ -1,0 +1,22 @@
+{
+  "id": "1466153",
+  "scientificName": "Philodendron mexicanum Engl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466153",
+      "commonNames": [],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron mexicanum",
+      "scientificNameAuthorship": "Engl.",
+      "gbifId": 2871123,
+      "powoId": "87889-1",
+      "iucnCategory": null,
+      "origin": "Mexico to western Colombia",
+      "growth_type": "climbing",
+      "height_range": "1.5–2.5 m",
+      "care_difficulty": "moderate",
+      "description": "A tropical climber with elongated, three-lobed mature leaves and contrasting reddish-purple lower surfaces."
+    }
+  }
+}

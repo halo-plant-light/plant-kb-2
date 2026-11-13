@@ -1,0 +1,28 @@
+{
+  "id": "1409180",
+  "scientificName": "Ficus microcarpa L.f.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409180",
+      "commonNames": [
+        "Chinese Banyan",
+        "Indian Laurel",
+        "Laurel Fig",
+        "Malay banyan",
+        "Curtain fig"
+      ],
+      "genus": "Ficus",
+      "family": "Moraceae",
+      "scientificNameWithoutAuthor": "Ficus microcarpa",
+      "scientificNameAuthorship": "L.f.",
+      "gbifId": 7467639,
+      "powoId": "853217-1",
+      "iucnCategory": "LC",
+      "origin": "Tropical Asia to northern Australia and western Pacific",
+      "growth_type": "tree",
+      "height_range": "0.3–2 m",
+      "care_difficulty": "easy",
+      "description": "An evergreen fig with small glossy leaves, a dense branching crown and aerial roots that make it popular for bonsai."
+    }
+  }
+}

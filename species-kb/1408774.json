@@ -1,0 +1,28 @@
+{
+  "id": "1408774",
+  "scientificName": "Tradescantia pallida (Rose) D.R.Hunt",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408774",
+      "commonNames": [
+        "Purple Heart",
+        "Purple Queen",
+        "Wandering Jew",
+        "قلب ارغوانی",
+        "Purpleheart"
+      ],
+      "genus": "Tradescantia",
+      "family": "Commelinaceae",
+      "scientificNameWithoutAuthor": "Tradescantia pallida",
+      "scientificNameAuthorship": "(Rose) D.R.Hunt",
+      "gbifId": 2765221,
+      "powoId": "256037-2",
+      "iucnCategory": null,
+      "origin": "Mexico",
+      "growth_type": "spreading",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "very_easy",
+      "description": "A vigorous spreading plant widely grown in purple-leaved forms, with fleshy stems and small three-petalled pink flowers."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1420781",
+  "scientificName": "Alocasia micholitziana Sander",
+  "projects": {
+    "k-world-flora": {
+      "id": "1420781",
+      "commonNames": [
+        "Green velvet alocasia",
+        "Elephant's ear",
+        "Alocasia 'Frydek'",
+        "Wavy elephant ear",
+        "Veined Heart Aroid"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia micholitziana",
+      "scientificNameAuthorship": "Sander",
+      "gbifId": 5329899,
+      "powoId": "84208-1",
+      "iucnCategory": null,
+      "origin": "Luzon, Philippines",
+      "growth_type": "upright",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "hard",
+      "description": "Green velvet alocasia displays velvety, arrow-shaped green leaves sharply traced by pale contrasting veins."
+    }
+  }
+}

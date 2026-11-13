@@ -1,0 +1,28 @@
+{
+  "id": "1849985",
+  "scientificName": "Chrysalidocarpus lutescens H.Wendl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1849985",
+      "commonNames": [
+        "Bamboo palm",
+        "Areca Palm",
+        "Butterfly palm",
+        "Madagascar palm",
+        "Yellow Cane Palm"
+      ],
+      "genus": "Chrysalidocarpus",
+      "family": "Arecaceae",
+      "scientificNameWithoutAuthor": "Chrysalidocarpus lutescens",
+      "scientificNameAuthorship": "H.Wendl.",
+      "gbifId": 2735936,
+      "powoId": "665962-1",
+      "iucnCategory": null,
+      "origin": "Eastern Madagascar",
+      "growth_type": "tree",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "moderate",
+      "description": "A clustering palm with slender yellowish canes and arching, feather-like green fronds."
+    }
+  }
+}

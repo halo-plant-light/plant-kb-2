@@ -1,0 +1,28 @@
+{
+  "id": "1385973",
+  "scientificName": "Caladium bicolor (Aiton) Vent.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1385973",
+      "commonNames": [
+        "Heart of Jesus",
+        "Caladium",
+        "Angel wings",
+        "Elephant's ear",
+        "Heart of-Jesus"
+      ],
+      "genus": "Caladium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Caladium bicolor",
+      "scientificNameAuthorship": "(Aiton) Vent.",
+      "gbifId": 2868390,
+      "powoId": "30010088-2",
+      "iucnCategory": null,
+      "origin": "Tropical South America",
+      "growth_type": "upright",
+      "height_range": "0.3–0.7 m",
+      "care_difficulty": "moderate",
+      "description": "A tuberous tropical perennial grown for thin heart-shaped leaves patterned in vivid combinations of green, white, pink and red."
+    }
+  }
+}

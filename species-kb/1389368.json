@@ -1,0 +1,27 @@
+{
+  "id": "1389368",
+  "scientificName": "Adiantum raddianum C.Presl",
+  "projects": {
+    "k-world-flora": {
+      "id": "1389368",
+      "commonNames": [
+        "Delta Maidenhair fern",
+        "Delta Maidenhair",
+        "Fine Maidenhair Fern",
+        "Maidenhair Fern"
+      ],
+      "genus": "Adiantum",
+      "family": "Pteridaceae",
+      "scientificNameWithoutAuthor": "Adiantum raddianum",
+      "scientificNameAuthorship": "C.Presl",
+      "gbifId": 2651826,
+      "powoId": "17012580-1",
+      "iucnCategory": null,
+      "origin": "Mexico to South America and parts of the Caribbean",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "hard",
+      "description": "A delicate maidenhair fern with fine black stalks carrying airy fans of soft green leaflets."
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "id": "1789420",
+  "scientificName": "Hoya obovata Decne.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1789420",
+      "commonNames": [],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya obovata",
+      "scientificNameAuthorship": "Decne.",
+      "gbifId": 3573084,
+      "powoId": "98591-1",
+      "iucnCategory": null,
+      "origin": "Indochina, Sulawesi and the Maluku Islands",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "easy",
+      "description": "A climbing hoya with thick, rounded leaves, often silver-splashed, and rounded clusters of pinkish waxy flowers."
+    }
+  }
+}

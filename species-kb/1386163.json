@@ -1,0 +1,28 @@
+{
+  "id": "1386163",
+  "scientificName": "Asparagus densiflorus (Kunth) Jessop",
+  "projects": {
+    "k-world-flora": {
+      "id": "1386163",
+      "commonNames": [
+        "Asparagus fern",
+        "Sprenger's asparagus fern",
+        "Foxtail fern",
+        "Fox tail fern",
+        "Foxtail Asparagus"
+      ],
+      "genus": "Asparagus",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Asparagus densiflorus",
+      "scientificNameAuthorship": "(Kunth) Jessop",
+      "gbifId": 2768503,
+      "powoId": "531072-1",
+      "iucnCategory": null,
+      "origin": "Southern Africa, especially eastern South Africa",
+      "growth_type": "spreading",
+      "height_range": "0.3–0.8 m",
+      "care_difficulty": "easy",
+      "description": "A tuber-rooted evergreen asparagus with dense needle-like branchlets, arching shoots and small red berries on mature plants."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1408496",
+  "scientificName": "Philodendron erubescens K.Koch & Augustin",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408496",
+      "commonNames": [
+        "Blushing philodendron",
+        "Pink Princess",
+        "Red leaf philodendron",
+        "Philodendron Prince of Orange",
+        "Philodendron"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron erubescens",
+      "scientificNameAuthorship": "K.Koch & Augustin",
+      "gbifId": 2871297,
+      "powoId": "87759-1",
+      "iucnCategory": null,
+      "origin": "Colombia",
+      "growth_type": "climbing",
+      "height_range": "0.9–2 m",
+      "care_difficulty": "easy",
+      "description": "A climbing philodendron with elongated heart-shaped leaves, reddish petioles and a coppery or red blush on young growth."
+    }
+  }
+}

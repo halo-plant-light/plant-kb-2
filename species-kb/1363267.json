@@ -1,0 +1,28 @@
+{
+  "id": "1363267",
+  "scientificName": "Asparagus setaceus (Kunth) Jessop",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363267",
+      "commonNames": [
+        "Common asparagus fern",
+        "Asparagus fern",
+        "Lace Fern",
+        "Emerald asparagus fern",
+        "Common Asparagus"
+      ],
+      "genus": "Asparagus",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Asparagus setaceus",
+      "scientificNameAuthorship": "(Kunth) Jessop",
+      "gbifId": 2768686,
+      "powoId": "531312-1",
+      "iucnCategory": null,
+      "origin": "Eastern and southern Africa",
+      "growth_type": "climbing",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "easy",
+      "description": "A scrambling evergreen asparagus with fine feathery sprays of flattened branchlets that resemble delicate fern fronds."
+    }
+  }
+}

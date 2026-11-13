@@ -1,0 +1,28 @@
+{
+  "id": "1409220",
+  "scientificName": "Gardenia jasminoides J.Ellis",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409220",
+      "commonNames": [
+        "Gardenia",
+        "Cape Jasmine",
+        "Cape jessamine",
+        "Jasmin",
+        "Common gardenia"
+      ],
+      "genus": "Gardenia",
+      "family": "Rubiaceae",
+      "scientificNameWithoutAuthor": "Gardenia jasminoides",
+      "scientificNameAuthorship": "J.Ellis",
+      "gbifId": 5335125,
+      "powoId": "751073-1",
+      "iucnCategory": "LC",
+      "origin": "Eastern Himalaya to Indochina, China, Taiwan and Japan",
+      "growth_type": "shrub",
+      "height_range": "0.5–1.2 m",
+      "care_difficulty": "hard",
+      "description": "Gardenia is a glossy-leaved evergreen shrub prized for intensely fragrant white flowers that age to cream."
+    }
+  }
+}

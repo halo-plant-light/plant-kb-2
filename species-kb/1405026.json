@@ -1,0 +1,24 @@
+{
+  "id": "1405026",
+  "scientificName": "Philodendron billietiae Croat",
+  "projects": {
+    "k-world-flora": {
+      "id": "1405026",
+      "commonNames": [
+        "Billiet Philodendron"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron billietiae",
+      "scientificNameAuthorship": "Croat",
+      "gbifId": 2870818,
+      "powoId": "982462-1",
+      "iucnCategory": null,
+      "origin": "Guyana, French Guiana and northern Brazil",
+      "growth_type": "climbing",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "A climbing philodendron with long, narrow, leathery leaves held on striking yellow-orange petioles."
+    }
+  }
+}

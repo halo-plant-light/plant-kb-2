@@ -1,0 +1,28 @@
+{
+  "id": "1409193",
+  "scientificName": "Epiphyllum oxypetalum (DC.) Haw.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409193",
+      "commonNames": [
+        "Dutchman's pipe cactus",
+        "Queen of the night",
+        "Lady of the night.",
+        "Night blooming cereus",
+        "ब्रह्मकमल"
+      ],
+      "genus": "Epiphyllum",
+      "family": "Cactaceae",
+      "scientificNameWithoutAuthor": "Epiphyllum oxypetalum",
+      "scientificNameAuthorship": "(DC.) Haw.",
+      "gbifId": 5384031,
+      "powoId": "132938-1",
+      "iucnCategory": "LC",
+      "origin": "Central Mexico to Nicaragua",
+      "growth_type": "epiphytic",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "moderate",
+      "description": "This forest cactus produces flattened green stems and enormous fragrant white flowers that open at night."
+    }
+  }
+}

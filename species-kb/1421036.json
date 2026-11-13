@@ -1,0 +1,25 @@
+{
+  "id": "1421036",
+  "scientificName": "Philodendron melanochrysum Linden & André",
+  "projects": {
+    "k-world-flora": {
+      "id": "1421036",
+      "commonNames": [
+        "Black gold philodendron",
+        "Philodendron"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron melanochrysum",
+      "scientificNameAuthorship": "Linden & André",
+      "gbifId": 2871241,
+      "powoId": "87882-1",
+      "iucnCategory": null,
+      "origin": "Colombia",
+      "growth_type": "climbing",
+      "height_range": "2.5–4 m",
+      "care_difficulty": "hard",
+      "description": "Black gold philodendron climbs by aerial roots and develops long, velvety dark leaves highlighted by golden-green veins."
+    }
+  }
+}

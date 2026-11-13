@@ -1,0 +1,26 @@
+{
+  "id": "1409185",
+  "scientificName": "Aphelandra squarrosa Nees",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409185",
+      "commonNames": [
+        "Zebraplant",
+        "Saffron spike",
+        "Zebra plant"
+      ],
+      "genus": "Aphelandra",
+      "family": "Acanthaceae",
+      "scientificNameWithoutAuthor": "Aphelandra squarrosa",
+      "scientificNameAuthorship": "Nees",
+      "gbifId": 7263987,
+      "powoId": "315544-2",
+      "iucnCategory": null,
+      "origin": "Northeastern and southeastern Brazil",
+      "growth_type": "shrub",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "hard",
+      "description": "This tropical evergreen shrub pairs glossy, white-veined leaves with conspicuous spikes of yellow bracts."
+    }
+  }
+}

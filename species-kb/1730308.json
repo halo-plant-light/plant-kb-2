@@ -1,0 +1,24 @@
+{
+  "id": "1730308",
+  "scientificName": "Ctenanthe lubbersiana (É.Morren) Eichler ex Petersen",
+  "projects": {
+    "k-world-flora": {
+      "id": "1730308",
+      "commonNames": [
+        "Never Never Plant"
+      ],
+      "genus": "Ctenanthe",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Ctenanthe lubbersiana",
+      "scientificNameAuthorship": "(É.Morren) Eichler ex Petersen",
+      "gbifId": 2762435,
+      "powoId": "71821-2",
+      "iucnCategory": null,
+      "origin": "Brazil, including Minas Gerais and Santa Catarina",
+      "growth_type": "upright",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "moderate",
+      "description": "An upright, branching prayer plant commonly grown for elongated green leaves irregularly splashed with creamy yellow."
+    }
+  }
+}

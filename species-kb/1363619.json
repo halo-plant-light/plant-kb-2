@@ -1,0 +1,28 @@
+{
+  "id": "1363619",
+  "scientificName": "Crassula muscosa L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363619",
+      "commonNames": [
+        "Watch chain",
+        "Toy cypress",
+        "Rattail Crassula",
+        "Clubmoss Crassula",
+        "African Grass"
+      ],
+      "genus": "Crassula",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Crassula muscosa",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 7396425,
+      "powoId": "273320-1",
+      "iucnCategory": null,
+      "origin": "Namibia and South Africa",
+      "growth_type": "shrub",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "easy",
+      "description": "A miniature succulent shrub whose tightly overlapping scale-like leaves turn slender branching shoots into green watch-chain cords."
+    }
+  }
+}

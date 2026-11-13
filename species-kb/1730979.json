@@ -1,0 +1,26 @@
+{
+  "id": "1730979",
+  "scientificName": "Goeppertia crocata (É.Morren & Joriss.) Borchs. & S.Suárez",
+  "projects": {
+    "k-world-flora": {
+      "id": "1730979",
+      "commonNames": [
+        "Saffron coloured calathea",
+        "Eternal Flame",
+        "Bromeliad"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia crocata",
+      "scientificNameAuthorship": "(É.Morren & Joriss.) Borchs. & S.Suárez",
+      "gbifId": 7401775,
+      "powoId": "60459270-2",
+      "iucnCategory": null,
+      "origin": "Bahia and Espírito Santo, Brazil",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "hard",
+      "description": "A compact prayer plant with dark, purple-backed leaves and conspicuous upright clusters of orange bracts."
+    }
+  }
+}

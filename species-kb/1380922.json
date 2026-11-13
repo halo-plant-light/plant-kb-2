@@ -1,0 +1,26 @@
+{
+  "id": "1380922",
+  "scientificName": "Polyscias fruticosa (L.) Harms",
+  "projects": {
+    "k-world-flora": {
+      "id": "1380922",
+      "commonNames": [
+        "Ming aralia",
+        "Teatree",
+        "Kalipay"
+      ],
+      "genus": "Polyscias",
+      "family": "Araliaceae",
+      "scientificNameWithoutAuthor": "Polyscias fruticosa",
+      "scientificNameAuthorship": "(L.) Harms",
+      "gbifId": 3035652,
+      "powoId": "847351-1",
+      "iucnCategory": null,
+      "origin": "Central Malesia to southwestern Pacific; origin uncertain",
+      "growth_type": "shrub",
+      "height_range": "1–2.4 m",
+      "care_difficulty": "moderate",
+      "description": "An upright evergreen shrub with intricately divided fern-like foliage and slender woody branches that give it a miniature-tree appearance."
+    }
+  }
+}

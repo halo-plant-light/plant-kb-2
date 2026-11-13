@@ -1,0 +1,28 @@
+{
+  "id": "1426352",
+  "scientificName": "Oxalis triangularis A.St.-Hil.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1426352",
+      "commonNames": [
+        "Purple shamrock",
+        "Wood sorrel",
+        "Butterfly plant",
+        "False shamrock",
+        "Butterfly Sorrel"
+      ],
+      "genus": "Oxalis",
+      "family": "Oxalidaceae",
+      "scientificNameWithoutAuthor": "Oxalis triangularis",
+      "scientificNameAuthorship": "A.St.-Hil.",
+      "gbifId": 7156971,
+      "powoId": "375478-1",
+      "iucnCategory": null,
+      "origin": "Brazil, Bolivia, Paraguay and northern Argentina",
+      "growth_type": "upright",
+      "height_range": "0.15–0.45 m",
+      "care_difficulty": "easy",
+      "description": "False shamrock carries three triangular leaflets that fold at night and delicate sprays of pale pink or white flowers."
+    }
+  }
+}

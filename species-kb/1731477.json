@@ -1,0 +1,27 @@
+{
+  "id": "1731477",
+  "scientificName": "Goeppertia rufibarba (Fenzl) Borchs. & S.Suárez",
+  "projects": {
+    "k-world-flora": {
+      "id": "1731477",
+      "commonNames": [
+        "Furry feather calathea",
+        "Fuzzy feather calathea",
+        "Wave Away",
+        "Undulations"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia rufibarba",
+      "scientificNameAuthorship": "(Fenzl) Borchs. & S.Suárez",
+      "gbifId": 8260770,
+      "powoId": "60461321-2",
+      "iucnCategory": null,
+      "origin": "Bahia, northeastern Brazil",
+      "growth_type": "upright",
+      "height_range": "0.6–1 m",
+      "care_difficulty": "moderate",
+      "description": "A clumping prayer plant with narrow, wavy-edged green leaves and softly hairy burgundy undersides."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1748164",
+  "scientificName": "Heptapleurum actinophyllum (Endl.) Lowry & G.M.Plunkett",
+  "projects": {
+    "k-world-flora": {
+      "id": "1748164",
+      "commonNames": [
+        "Queensland umbrella tree",
+        "Schefflera",
+        "Octopus tree",
+        "Umbrella tree",
+        "Australian Umbrella Tree"
+      ],
+      "genus": "Heptapleurum",
+      "family": "Araliaceae",
+      "scientificNameWithoutAuthor": "Heptapleurum actinophyllum",
+      "scientificNameAuthorship": "(Endl.) Lowry & G.M.Plunkett",
+      "gbifId": 11008739,
+      "powoId": "77213393-1",
+      "iucnCategory": "LC",
+      "origin": "New Guinea, Java and northeastern Australia",
+      "growth_type": "tree",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "easy",
+      "description": "A tropical umbrella tree with large, glossy leaflets radiating from the ends of long leaf stalks."
+    }
+  }
+}

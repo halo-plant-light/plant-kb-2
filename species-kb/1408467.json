@@ -1,0 +1,22 @@
+{
+  "id": "1408467",
+  "scientificName": "Anthurium magnificum Linden",
+  "projects": {
+    "k-world-flora": {
+      "id": "1408467",
+      "commonNames": [],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium magnificum",
+      "scientificNameAuthorship": "Linden",
+      "gbifId": 2872520,
+      "powoId": "85054-1",
+      "iucnCategory": "NT",
+      "origin": "Colombia, particularly Andean and Magdalena-valley regions",
+      "growth_type": "upright",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "hard",
+      "description": "A large foliage anthurium with velvety heart-shaped leaves, striking pale veins and distinctly angular petioles."
+    }
+  }
+}

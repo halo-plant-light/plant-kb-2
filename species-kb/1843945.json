@@ -1,0 +1,28 @@
+{
+  "id": "1843945",
+  "scientificName": "Citrus × microcarpa Bunge",
+  "projects": {
+    "k-world-flora": {
+      "id": "1843945",
+      "commonNames": [
+        "Philippine Lime",
+        "Calamansi",
+        "Calamondin",
+        "Philippine Lemon",
+        "Calamandarin"
+      ],
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "scientificNameWithoutAuthor": "Citrus × microcarpa",
+      "scientificNameAuthorship": "Bunge",
+      "gbifId": 3831218,
+      "powoId": "927792-1",
+      "iucnCategory": null,
+      "origin": "Cultivated hybrid of Chinese ancestry",
+      "growth_type": "tree",
+      "height_range": "0.6–2 m",
+      "care_difficulty": "moderate",
+      "description": "A compact citrus hybrid with fragrant white flowers and small orange fruits containing sharply acidic juice."
+    }
+  }
+}

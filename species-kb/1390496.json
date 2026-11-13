@@ -1,0 +1,28 @@
+{
+  "id": "1390496",
+  "scientificName": "Asplenium nidus L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1390496",
+      "commonNames": [
+        "Bird's nest fern",
+        "Hawai'I birdnest fern",
+        "Nest fern",
+        "‘ēkaha",
+        "Bird nest Fern"
+      ],
+      "genus": "Asplenium",
+      "family": "Aspleniaceae",
+      "scientificNameWithoutAuthor": "Asplenium nidus",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 2650676,
+      "powoId": "17048040-1",
+      "iucnCategory": null,
+      "origin": "Malesia to northeastern Australia and western Pacific",
+      "growth_type": "rosette",
+      "height_range": "0.5–1.2 m",
+      "care_difficulty": "moderate",
+      "description": "A bird's-nest fern whose broad, glossy strap-shaped fronds unfurl from a central nest-like crown."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1732451",
+  "scientificName": "Goeppertia kegeljanii (É.Morren) Saka",
+  "projects": {
+    "k-world-flora": {
+      "id": "1732451",
+      "commonNames": [
+        "Calathea musaica",
+        "Mosaic plant",
+        "Calathea mosaica",
+        "Calathea Network",
+        "Mosaic Calathea"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia kegeljanii",
+      "scientificNameAuthorship": "(É.Morren) Saka",
+      "gbifId": 9503637,
+      "powoId": "77174971-1",
+      "iucnCategory": null,
+      "origin": "Espírito Santo, southeastern Brazil",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "moderate",
+      "description": "A tropical foliage plant whose light green leaves carry a delicate, mosaic-like network of darker veins."
+    }
+  }
+}

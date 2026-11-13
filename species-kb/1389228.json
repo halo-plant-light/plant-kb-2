@@ -1,0 +1,28 @@
+{
+  "id": "1389228",
+  "scientificName": "Graptopetalum paraguayense (N.E.Br.) E.Walther",
+  "projects": {
+    "k-world-flora": {
+      "id": "1389228",
+      "commonNames": [
+        "Ghostplant",
+        "Mother of-pearl-plant",
+        "Ghost plant",
+        "Mother of-pearl plant",
+        "Rainbow Mandala Stonecrop"
+      ],
+      "genus": "Graptopetalum",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Graptopetalum paraguayense",
+      "scientificNameAuthorship": "(N.E.Br.) E.Walther",
+      "gbifId": 7334731,
+      "powoId": "113312-2",
+      "iucnCategory": null,
+      "origin": "Northeastern Mexico",
+      "growth_type": "rosette",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "very_easy",
+      "description": "A succulent with powdery gray rosettes that blush pink in strong light and eventually arch over the edge of a pot."
+    }
+  }
+}

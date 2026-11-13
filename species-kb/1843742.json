@@ -1,0 +1,25 @@
+{
+  "id": "1843742",
+  "scientificName": "Begonia × hiemalis Fotsch",
+  "projects": {
+    "k-world-flora": {
+      "id": "1843742",
+      "commonNames": [
+        "Elatior begonia",
+        "Winter flowering begonia"
+      ],
+      "genus": "Begonia",
+      "family": "Begoniaceae",
+      "scientificNameWithoutAuthor": "Begonia × hiemalis",
+      "scientificNameAuthorship": "Fotsch",
+      "gbifId": 4156960,
+      "powoId": "104845-1",
+      "iucnCategory": null,
+      "origin": "Cultivated hybrid of Socotran and Andean ancestry",
+      "growth_type": "upright",
+      "height_range": "0.2–0.4 m",
+      "care_difficulty": "moderate",
+      "description": "A compact flowering begonia hybrid with glossy foliage and abundant clusters of showy single or double blooms."
+    }
+  }
+}

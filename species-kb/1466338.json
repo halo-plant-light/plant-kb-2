@@ -1,0 +1,28 @@
+{
+  "id": "1466338",
+  "scientificName": "Philodendron xanadu Croat, Mayo & J.Boos",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466338",
+      "commonNames": [
+        "Philodendron Winterbourn",
+        "Xanadu",
+        "فیلوندرون برگ انجیری",
+        "Winterbourn",
+        "Zigzag plant"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron xanadu",
+      "scientificNameAuthorship": "Croat, Mayo & J.Boos",
+      "gbifId": 2870723,
+      "powoId": "20011461-1",
+      "iucnCategory": null,
+      "origin": "Southern Brazil and Paraguay",
+      "growth_type": "upright",
+      "height_range": "0.6–1.5 m",
+      "care_difficulty": "easy",
+      "description": "A dense, self-heading philodendron forming a rounded clump of glossy leaves divided into many rounded lobes."
+    }
+  }
+}

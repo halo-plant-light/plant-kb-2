@@ -1,0 +1,27 @@
+{
+  "id": "1409207",
+  "scientificName": "Episcia cupreata (Hook.) Hanst.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409207",
+      "commonNames": [
+        "Flame violet",
+        "Carpet plant",
+        "Strawberry begonia",
+        "Copper leaved Episcia"
+      ],
+      "genus": "Episcia",
+      "family": "Gesneriaceae",
+      "scientificNameWithoutAuthor": "Episcia cupreata",
+      "scientificNameAuthorship": "(Hook.) Hanst.",
+      "gbifId": 3172881,
+      "powoId": "380772-1",
+      "iucnCategory": null,
+      "origin": "Nicaragua through northwestern South America to northern Brazil",
+      "growth_type": "spreading",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "moderate",
+      "description": "Flame violet forms soft mats of metallic bronze-green foliage accented by bright tubular red flowers."
+    }
+  }
+}

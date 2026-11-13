@@ -1,0 +1,28 @@
+{
+  "id": "1387289",
+  "scientificName": "Strelitzia reginae Banks",
+  "projects": {
+    "k-world-flora": {
+      "id": "1387289",
+      "commonNames": [
+        "Bird of paradise",
+        "Bird Of-Paradise",
+        "Crane flower",
+        "Craneflower",
+        "Bird of paradise plant"
+      ],
+      "genus": "Strelitzia",
+      "family": "Strelitziaceae",
+      "scientificNameWithoutAuthor": "Strelitzia reginae",
+      "scientificNameAuthorship": "Banks",
+      "gbifId": 2763116,
+      "powoId": "798194-1",
+      "iucnCategory": null,
+      "origin": "Eastern and southeastern South Africa",
+      "growth_type": "upright",
+      "height_range": "0.9–1.8 m",
+      "care_difficulty": "moderate",
+      "description": "A clump-forming perennial with stiff paddle-shaped leaves and orange-and-blue flowers resembling exotic birds above horizontal bracts."
+    }
+  }
+}

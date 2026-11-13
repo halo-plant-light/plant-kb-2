@@ -1,0 +1,26 @@
+{
+  "id": "1753624",
+  "scientificName": "Kalanchoe luciae Raym.-Hamet",
+  "projects": {
+    "k-world-flora": {
+      "id": "1753624",
+      "commonNames": [
+        "Millot kalanchoe",
+        "Paddle plant",
+        "Flap Jacks"
+      ],
+      "genus": "Kalanchoe",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Kalanchoe luciae",
+      "scientificNameAuthorship": "Raym.-Hamet",
+      "gbifId": 7334254,
+      "powoId": "274396-1",
+      "iucnCategory": null,
+      "origin": "Zimbabwe and Mozambique to northeastern South Africa",
+      "growth_type": "rosette",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "easy",
+      "description": "A paddle-leaved succulent whose broad, powdery leaves develop vivid red margins in strong light."
+    }
+  }
+}

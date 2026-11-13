@@ -1,0 +1,28 @@
+{
+  "id": "1390580",
+  "scientificName": "Dionaea muscipula J.Ellis",
+  "projects": {
+    "k-world-flora": {
+      "id": "1390580",
+      "commonNames": [
+        "Venus fly trap",
+        "Venus Flytrap",
+        "Venus fly-trap",
+        "Venus' flytrap",
+        "Venus's flytrap"
+      ],
+      "genus": "Dionaea",
+      "family": "Droseraceae",
+      "scientificNameWithoutAuthor": "Dionaea muscipula",
+      "scientificNameAuthorship": "J.Ellis",
+      "gbifId": 5421410,
+      "powoId": "275898-2",
+      "iucnCategory": "VU",
+      "origin": "Coastal North and South Carolina, USA",
+      "growth_type": "rosette",
+      "height_range": "0.05–0.15 m",
+      "care_difficulty": "hard",
+      "description": "A small carnivorous rosette with hinged, bristly traps that snap shut around suitable insect prey."
+    }
+  }
+}

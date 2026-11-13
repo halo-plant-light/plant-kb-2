@@ -1,0 +1,28 @@
+{
+  "id": "1409941",
+  "scientificName": "Plectranthus verticillatus (L.f.) Druce",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409941",
+      "commonNames": [
+        "Swedish ivy",
+        "Whorled Plectranthus",
+        "Swedish begonia",
+        "Creeping charlie",
+        "Gossip Spurflower"
+      ],
+      "genus": "Plectranthus",
+      "family": "Lamiaceae",
+      "scientificNameWithoutAuthor": "Plectranthus verticillatus",
+      "scientificNameAuthorship": "(L.f.) Druce",
+      "gbifId": 2926638,
+      "powoId": "454770-1",
+      "iucnCategory": null,
+      "origin": "Southern Africa, including South Africa and neighboring regions",
+      "growth_type": "trailing",
+      "height_range": "0.1–0.25 m",
+      "care_difficulty": "very_easy",
+      "description": "Swedish ivy has rounded, glossy scalloped leaves on soft stems that arch and cascade from hanging containers."
+    }
+  }
+}

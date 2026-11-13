@@ -1,0 +1,28 @@
+{
+  "id": "1356435",
+  "scientificName": "Pteris cretica L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1356435",
+      "commonNames": [
+        "Ribbon fern",
+        "Cretan brake",
+        "Avery fern",
+        "Cretan bracken",
+        "Cretan brake fern"
+      ],
+      "genus": "Pteris",
+      "family": "Pteridaceae",
+      "scientificNameWithoutAuthor": "Pteris cretica",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 5275404,
+      "powoId": "17211870-1",
+      "iucnCategory": null,
+      "origin": "Mediterranean, Africa and Asia",
+      "growth_type": "rosette",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "moderate",
+      "description": "An elegant brake fern with slender stalks and widely spaced ribbon-like pinnae, often sold with a creamy stripe down each leaflet."
+    }
+  }
+}

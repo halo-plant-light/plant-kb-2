@@ -1,0 +1,28 @@
+{
+  "id": "1723037",
+  "scientificName": "Maranta leuconeura É.Morren",
+  "projects": {
+    "k-world-flora": {
+      "id": "1723037",
+      "commonNames": [
+        "Prayerplant",
+        "Ten commandments",
+        "Prayer plant",
+        "Banded arrowroot",
+        "Herring bone plant"
+      ],
+      "genus": "Maranta",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Maranta leuconeura",
+      "scientificNameAuthorship": "É.Morren",
+      "gbifId": 2761337,
+      "powoId": "797361-1",
+      "iucnCategory": null,
+      "origin": "Central and eastern Brazil",
+      "growth_type": "spreading",
+      "height_range": "0.2–0.4 m",
+      "care_difficulty": "moderate",
+      "description": "A low-growing prayer plant with patterned oval leaves that fold upward at night."
+    }
+  }
+}

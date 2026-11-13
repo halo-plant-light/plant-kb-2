@@ -1,0 +1,22 @@
+{
+  "id": "1465940",
+  "scientificName": "Philodendron atabapoense G.S.Bunting",
+  "projects": {
+    "k-world-flora": {
+      "id": "1465940",
+      "commonNames": [],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron atabapoense",
+      "scientificNameAuthorship": "G.S.Bunting",
+      "gbifId": 2871146,
+      "powoId": "192970-2",
+      "iucnCategory": null,
+      "origin": "Amazonas, Venezuela",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "moderate",
+      "description": "A climbing philodendron distinguished by long, narrow leaves with conspicuous burgundy undersides."
+    }
+  }
+}

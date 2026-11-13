@@ -1,0 +1,28 @@
+{
+  "id": "1392253",
+  "scientificName": "Fatsia japonica (Thunb.) Decne. & Planch.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1392253",
+      "commonNames": [
+        "Japanese fatsia",
+        "Fatsia",
+        "Paperplant",
+        "Japanese Aralia",
+        "Fatsi"
+      ],
+      "genus": "Fatsia",
+      "family": "Araliaceae",
+      "scientificNameWithoutAuthor": "Fatsia japonica",
+      "scientificNameAuthorship": "(Thunb.) Decne. & Planch.",
+      "gbifId": 3039046,
+      "powoId": "90496-1",
+      "iucnCategory": null,
+      "origin": "Japan, including the Ryukyu Islands, and southern Korea",
+      "growth_type": "shrub",
+      "height_range": "1–2 m",
+      "care_difficulty": "easy",
+      "description": "An evergreen shrub with large, glossy, hand-shaped leaves that lend a bold architectural texture to shaded spaces."
+    }
+  }
+}

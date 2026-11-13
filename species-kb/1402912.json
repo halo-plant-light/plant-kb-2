@@ -1,0 +1,28 @@
+{
+  "id": "1402912",
+  "scientificName": "Syngonium podophyllum Schott",
+  "projects": {
+    "k-world-flora": {
+      "id": "1402912",
+      "commonNames": [
+        "Arrowhead vine",
+        "American evergreen",
+        "Nephthytis",
+        "African evergreen",
+        "Goosefoot"
+      ],
+      "genus": "Syngonium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Syngonium podophyllum",
+      "scientificNameAuthorship": "Schott",
+      "gbifId": 2867866,
+      "powoId": "89152-1",
+      "iucnCategory": null,
+      "origin": "Mexico to tropical South America; Trinidad and Tobago",
+      "growth_type": "climbing",
+      "height_range": "0.6–1.8 m",
+      "care_difficulty": "very_easy",
+      "description": "An adaptable tropical vine with arrow-shaped juvenile leaves that become more deeply divided as the plant matures."
+    }
+  }
+}

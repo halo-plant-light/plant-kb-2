@@ -1,0 +1,28 @@
+{
+  "id": "1466699",
+  "scientificName": "Scindapsus pictus Hassk.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466699",
+      "commonNames": [
+        "Satin pothos",
+        "Silver pothos",
+        "Pothos",
+        "Jade Satin",
+        "Exotica"
+      ],
+      "genus": "Scindapsus",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Scindapsus pictus",
+      "scientificNameAuthorship": "Hassk.",
+      "gbifId": 2873745,
+      "powoId": "88905-1",
+      "iucnCategory": null,
+      "origin": "Southeastern Bangladesh to Malesia and Philippines",
+      "growth_type": "climbing",
+      "height_range": "0.5–1 m",
+      "care_difficulty": "easy",
+      "description": "A climbing or cascading aroid with matte green, heart-shaped leaves splashed and edged with silver."
+    }
+  }
+}

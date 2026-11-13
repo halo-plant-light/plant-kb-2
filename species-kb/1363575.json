@@ -1,0 +1,28 @@
+{
+  "id": "1363575",
+  "scientificName": "Hedera helix L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363575",
+      "commonNames": [
+        "English ivy",
+        "Common Ivy",
+        "Ivy",
+        "Bind Wood",
+        "European Ivy"
+      ],
+      "genus": "Hedera",
+      "family": "Araliaceae",
+      "scientificNameWithoutAuthor": "Hedera helix",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 8351737,
+      "powoId": "90723-1",
+      "iucnCategory": null,
+      "origin": "Europe, the Mediterranean region and western Asia",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "moderate",
+      "description": "A self-clinging evergreen vine with lobed juvenile leaves and unlobed adult foliage on flowering shoots."
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1464580",
+  "scientificName": "Anthurium forgetii N.E.Br.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1464580",
+      "commonNames": [
+        "Shield leaf"
+      ],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium forgetii",
+      "scientificNameAuthorship": "N.E.Br.",
+      "gbifId": 2873656,
+      "powoId": "15285-2",
+      "iucnCategory": null,
+      "origin": "Colombia",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "hard",
+      "description": "Anthurium forgetii has velvety oval-to-teardrop leaves with a closed leaf-base sinus and often prominent pale veins."
+    }
+  }
+}

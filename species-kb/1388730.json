@@ -1,0 +1,28 @@
+{
+  "id": "1388730",
+  "scientificName": "Radermachera sinica (Hance) Hemsl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1388730",
+      "commonNames": [
+        "China Doll Plant",
+        "China doll",
+        "Emerald Tree",
+        "China Doll Tree",
+        "Radermachera"
+      ],
+      "genus": "Radermachera",
+      "family": "Bignoniaceae",
+      "scientificNameWithoutAuthor": "Radermachera sinica",
+      "scientificNameAuthorship": "(Hance) Hemsl.",
+      "gbifId": 4092178,
+      "powoId": "110522-1",
+      "iucnCategory": "LC",
+      "origin": "Eastern Himalaya to southern China, Vietnam and Taiwan",
+      "growth_type": "tree",
+      "height_range": "1–2 m",
+      "care_difficulty": "moderate",
+      "description": "A subtropical tree with glossy, finely divided compound leaves that form a dense canopy on compact indoor specimens."
+    }
+  }
+}

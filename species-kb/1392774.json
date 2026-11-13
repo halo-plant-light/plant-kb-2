@@ -1,0 +1,28 @@
+{
+  "id": "1392774",
+  "scientificName": "Allium schoenoprasum L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1392774",
+      "commonNames": [
+        "Chives",
+        "Wild chives",
+        "Giant garlic",
+        "Chive",
+        "Cives"
+      ],
+      "genus": "Allium",
+      "family": "Amaryllidaceae",
+      "scientificNameWithoutAuthor": "Allium schoenoprasum",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 2855860,
+      "powoId": "528823-1",
+      "iucnCategory": "LC",
+      "origin": "Temperate and boreal regions of Europe, Asia and North America",
+      "growth_type": "upright",
+      "height_range": "0.2–0.5 m",
+      "care_difficulty": "very_easy",
+      "description": "A clump-forming edible perennial with slender hollow leaves and rounded heads of mauve-purple flowers."
+    }
+  }
+}

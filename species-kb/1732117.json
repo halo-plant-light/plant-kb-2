@@ -1,0 +1,28 @@
+{
+  "id": "1732117",
+  "scientificName": "Goeppertia insignis (W.Bull ex W.E.Marshall) J.M.A.Braga, L.J.T.Cardoso & R.Couto",
+  "projects": {
+    "k-world-flora": {
+      "id": "1732117",
+      "commonNames": [
+        "Rattlesnake plant",
+        "Prayer plant",
+        "Distinguished Goeppertia",
+        "Lance leaf Calathea",
+        "Lance leaf Goeppertia"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia insignis",
+      "scientificNameAuthorship": "(W.Bull ex W.E.Marshall) J.M.A.Braga, L.J.T.Cardoso & R.Couto",
+      "gbifId": 11035519,
+      "powoId": "77174285-1",
+      "iucnCategory": null,
+      "origin": "Rio de Janeiro, southeastern Brazil",
+      "growth_type": "upright",
+      "height_range": "0.45–0.75 m",
+      "care_difficulty": "moderate",
+      "description": "The rattlesnake plant has long, wavy leaves marked with alternating dark oval spots above purple undersides."
+    }
+  }
+}

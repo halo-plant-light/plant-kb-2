@@ -1,0 +1,25 @@
+{
+  "id": "1460992",
+  "scientificName": "Hoya linearis Wall. ex D.Don",
+  "projects": {
+    "k-world-flora": {
+      "id": "1460992",
+      "commonNames": [
+        "Cupped Wax Plant",
+        "Hanging Wax plant"
+      ],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya linearis",
+      "scientificNameAuthorship": "Wall. ex D.Don",
+      "gbifId": 7410932,
+      "powoId": "98540-1",
+      "iucnCategory": null,
+      "origin": "Himalaya to southwestern China and Indochina",
+      "growth_type": "trailing",
+      "height_range": "0.1–0.2 m",
+      "care_difficulty": "moderate",
+      "description": "Hoya linearis hangs in soft curtains of narrow, lightly hairy leaves and bears small clusters of fragrant creamy-white flowers."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1752284",
+  "scientificName": "Zamioculcas zamiifolia (G.Lodd.) Engl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1752284",
+      "commonNames": [
+        "ZZ Plant",
+        "Zanzibar gem",
+        "Zeezee plant",
+        "Black Raven",
+        "Zamia"
+      ],
+      "genus": "Zamioculcas",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Zamioculcas zamiifolia",
+      "scientificNameAuthorship": "(G.Lodd.) Engl.",
+      "gbifId": 2869014,
+      "powoId": "89402-1",
+      "iucnCategory": null,
+      "origin": "Eastern tropical Africa south to northeastern South Africa",
+      "growth_type": "upright",
+      "height_range": "0.6–1 m",
+      "care_difficulty": "very_easy",
+      "description": "A resilient foliage plant with glossy, pinnate leaves rising from thick, water-storing underground rhizomes."
+    }
+  }
+}

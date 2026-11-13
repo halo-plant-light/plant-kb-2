@@ -1,0 +1,26 @@
+{
+  "id": "1464086",
+  "scientificName": "Alocasia wentii Engl. & K.Krause",
+  "projects": {
+    "k-world-flora": {
+      "id": "1464086",
+      "commonNames": [
+        "Alocasia Elephant Ears",
+        "Hardy elephant ear",
+        "Regal Shields"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia wentii",
+      "scientificNameAuthorship": "Engl. & K.Krause",
+      "gbifId": 5329957,
+      "powoId": "84267-1",
+      "iucnCategory": null,
+      "origin": "New Guinea",
+      "growth_type": "upright",
+      "height_range": "0.9–1.5 m",
+      "care_difficulty": "moderate",
+      "description": "Alocasia wentii produces broad, glossy green shield-shaped leaves with contrasting bronze-purple undersides."
+    }
+  }
+}

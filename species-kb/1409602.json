@@ -1,0 +1,28 @@
+{
+  "id": "1409602",
+  "scientificName": "Epipremnum aureum (Linden & André) G.S.Bunting",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409602",
+      "commonNames": [
+        "Golden pothos",
+        "Money Plant",
+        "Devil's Ivy",
+        "پیتوس ابلق",
+        "Variegated philodendron"
+      ],
+      "genus": "Epipremnum",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Epipremnum aureum",
+      "scientificNameAuthorship": "(Linden & André) G.S.Bunting",
+      "gbifId": 2868323,
+      "powoId": "87014-1",
+      "iucnCategory": null,
+      "origin": "Society Islands, French Polynesia",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "very_easy",
+      "description": "Golden pothos is a vigorous aerial-rooting vine with glossy heart-shaped leaves often marbled in yellow or cream."
+    }
+  }
+}

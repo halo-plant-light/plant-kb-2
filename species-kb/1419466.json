@@ -1,0 +1,28 @@
+{
+  "id": "1419466",
+  "scientificName": "Stromanthe thalia (Vell.) J.M.A.Braga",
+  "projects": {
+    "k-world-flora": {
+      "id": "1419466",
+      "commonNames": [
+        "Stromanthe Triostar",
+        "Maranta",
+        "Never never plant",
+        "Indian Feather",
+        "Tricoloour stromanthe"
+      ],
+      "genus": "Stromanthe",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Stromanthe thalia",
+      "scientificNameAuthorship": "(Vell.) J.M.A.Braga",
+      "gbifId": 2761259,
+      "powoId": "1211666-2",
+      "iucnCategory": null,
+      "origin": "Brazil",
+      "growth_type": "upright",
+      "height_range": "0.6–1 m",
+      "care_difficulty": "hard",
+      "description": "This rhizomatous tropical foliage plant bears elongated leaves with rich reddish-purple undersides and an upright, layered habit."
+    }
+  }
+}

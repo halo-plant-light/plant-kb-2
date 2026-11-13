@@ -1,0 +1,28 @@
+{
+  "id": "1403436",
+  "scientificName": "Citrus × limon (L.) Osbeck",
+  "projects": {
+    "k-world-flora": {
+      "id": "1403436",
+      "commonNames": [
+        "Lemon",
+        "Mandarin lime",
+        "Lemon tree",
+        "Lemandarin",
+        "Rangpur Lime"
+      ],
+      "genus": "Citrus",
+      "family": "Rutaceae",
+      "scientificNameWithoutAuthor": "Citrus × limon",
+      "scientificNameAuthorship": "(L.) Osbeck",
+      "gbifId": 7647136,
+      "powoId": "60454758-2",
+      "iucnCategory": null,
+      "origin": "Cultivated hybrid; probably Asian origin",
+      "growth_type": "tree",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "moderate",
+      "description": "An evergreen citrus tree with fragrant white flowers and aromatic yellow fruits with sharply acidic juice."
+    }
+  }
+}

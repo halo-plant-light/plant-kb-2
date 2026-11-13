@@ -1,0 +1,28 @@
+{
+  "id": "1409198",
+  "scientificName": "Codiaeum variegatum (L.) Rumph. ex A.Juss.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409198",
+      "commonNames": [
+        "Variegated Croton",
+        "Croton",
+        "Garden croton",
+        "کروتون",
+        "Sloppy painter"
+      ],
+      "genus": "Codiaeum",
+      "family": "Euphorbiaceae",
+      "scientificNameWithoutAuthor": "Codiaeum variegatum",
+      "scientificNameAuthorship": "(L.) Rumph. ex A.Juss.",
+      "gbifId": 3071476,
+      "powoId": "85073-3",
+      "iucnCategory": "LC",
+      "origin": "Malesia to northeastern Australia and southwestern Pacific",
+      "growth_type": "shrub",
+      "height_range": "0.6–1.2 m",
+      "care_difficulty": "moderate",
+      "description": "Croton is a woody tropical shrub grown for leathery leaves patterned in vivid combinations of green, yellow, orange and red."
+    }
+  }
+}

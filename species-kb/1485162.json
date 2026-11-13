@@ -1,0 +1,26 @@
+{
+  "id": "1485162",
+  "scientificName": "Tillandsia xerographica Rohweder",
+  "projects": {
+    "k-world-flora": {
+      "id": "1485162",
+      "commonNames": [
+        "Giant Tillandsia",
+        "Shirley Temple Airplant",
+        "Xerographic Tillandsia"
+      ],
+      "genus": "Tillandsia",
+      "family": "Bromeliaceae",
+      "scientificNameWithoutAuthor": "Tillandsia xerographica",
+      "scientificNameAuthorship": "Rohweder",
+      "gbifId": 2695364,
+      "powoId": "254442-2",
+      "iucnCategory": null,
+      "origin": "Southern Mexico, Guatemala and El Salvador",
+      "growth_type": "epiphytic",
+      "height_range": "0.15–0.4 m",
+      "care_difficulty": "moderate",
+      "description": "A sculptural air plant forming a broad silver rosette of curling, drought-adapted leaves."
+    }
+  }
+}

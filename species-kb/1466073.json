@@ -1,0 +1,24 @@
+{
+  "id": "1466073",
+  "scientificName": "Philodendron hastatum K.Koch & Sello",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466073",
+      "commonNames": [
+        "Silver sword"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron hastatum",
+      "scientificNameAuthorship": "K.Koch & Sello",
+      "gbifId": 2871100,
+      "powoId": "87792-1",
+      "iucnCategory": "LC",
+      "origin": "Southeastern Brazil",
+      "growth_type": "climbing",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "easy",
+      "description": "The silver sword philodendron produces metallic blue-green leaves that become strongly arrow-shaped with maturity."
+    }
+  }
+}

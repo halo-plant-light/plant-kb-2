@@ -1,0 +1,28 @@
+{
+  "id": "1402019",
+  "scientificName": "Cordyline fruticosa (L.) A.Chev.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1402019",
+      "commonNames": [
+        "Broadleaf palm lily",
+        "Ti Plant",
+        "Palm Lily",
+        "Good luck-plant",
+        "Ti"
+      ],
+      "genus": "Cordyline",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Cordyline fruticosa",
+      "scientificNameAuthorship": "(L.) A.Chev.",
+      "gbifId": 2766278,
+      "powoId": "533580-1",
+      "iucnCategory": "LC",
+      "origin": "Papuasia to Australia and western Pacific; origin uncertain",
+      "growth_type": "shrub",
+      "height_range": "0.6–2 m",
+      "care_difficulty": "moderate",
+      "description": "A cane-forming tropical shrub with broad, arching leaves that are often vividly colored in cultivated selections."
+    }
+  }
+}

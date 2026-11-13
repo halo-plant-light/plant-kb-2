@@ -1,0 +1,28 @@
+{
+  "id": "1778783",
+  "scientificName": "Heptapleurum arboricola Hayata",
+  "projects": {
+    "k-world-flora": {
+      "id": "1778783",
+      "commonNames": [
+        "Dwarf umbrella tree",
+        "Miniature Schefflera",
+        "Miniature umbrella tree",
+        "شفلرا آربوریکا،",
+        "Hawaiian elf"
+      ],
+      "genus": "Heptapleurum",
+      "family": "Araliaceae",
+      "scientificNameWithoutAuthor": "Heptapleurum arboricola",
+      "scientificNameAuthorship": "Hayata",
+      "gbifId": 3038724,
+      "powoId": "90845-1",
+      "iucnCategory": null,
+      "origin": "Hainan and Taiwan",
+      "growth_type": "shrub",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "easy",
+      "description": "A bushy evergreen with glossy, palmately arranged leaflets that resemble miniature umbrellas."
+    }
+  }
+}

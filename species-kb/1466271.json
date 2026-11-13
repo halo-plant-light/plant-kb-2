@@ -1,0 +1,22 @@
+{
+  "id": "1466271",
+  "scientificName": "Philodendron spiritus-sancti G.S.Bunting",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466271",
+      "commonNames": [],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron spiritus-sancti",
+      "scientificNameAuthorship": "G.S.Bunting",
+      "gbifId": 2870790,
+      "powoId": "282667-2",
+      "iucnCategory": null,
+      "origin": "Espírito Santo, southeastern Brazil",
+      "growth_type": "climbing",
+      "height_range": "1–2 m",
+      "care_difficulty": "hard",
+      "description": "A rare Brazilian philodendron with exceptionally long, narrow, pendent arrow-shaped leaves."
+    }
+  }
+}

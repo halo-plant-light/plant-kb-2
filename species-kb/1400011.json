@@ -1,0 +1,28 @@
+{
+  "id": "1400011",
+  "scientificName": "Aloe vera (L.) Burm.f.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1400011",
+      "commonNames": [
+        "Aloe vera",
+        "Aloe",
+        "Barbados Aloe",
+        "Medicinal aloe",
+        "آلوورا"
+      ],
+      "genus": "Aloe",
+      "family": "Asphodelaceae",
+      "scientificNameWithoutAuthor": "Aloe vera",
+      "scientificNameAuthorship": "(L.) Burm.f.",
+      "gbifId": 2777724,
+      "powoId": "530017-1",
+      "iucnCategory": null,
+      "origin": "Northern Oman, particularly the Hajar Mountains",
+      "growth_type": "rosette",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "very_easy",
+      "description": "A rosette-forming succulent with thick, toothed, gel-filled leaves and upright spikes of tubular yellow flowers."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1393221",
+  "scientificName": "Hyacinthus orientalis L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1393221",
+      "commonNames": [
+        "Hyacinth",
+        "Garden hyacinth",
+        "Common Hyacint",
+        "Dutch Hyacint",
+        "Common Hyacinth"
+      ],
+      "genus": "Hyacinthus",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Hyacinthus orientalis",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 2772666,
+      "powoId": "536789-1",
+      "iucnCategory": null,
+      "origin": "Türkiye, the Levant and Iraq",
+      "growth_type": "upright",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "moderate",
+      "description": "A spring-flowering bulb with fleshy strap-shaped leaves and a dense spike of intensely fragrant flowers."
+    }
+  }
+}

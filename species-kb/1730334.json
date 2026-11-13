@@ -1,0 +1,27 @@
+{
+  "id": "1730334",
+  "scientificName": "Goeppertia zebrina (Sims) Nees",
+  "projects": {
+    "k-world-flora": {
+      "id": "1730334",
+      "commonNames": [
+        "Zebra plant",
+        "Zebraplant",
+        "Zebra calathea",
+        "Prayer plant"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia zebrina",
+      "scientificNameAuthorship": "(Sims) Nees",
+      "gbifId": 5302914,
+      "powoId": "796810-1",
+      "iucnCategory": null,
+      "origin": "Brazil, from Bahia south to Santa Catarina",
+      "growth_type": "upright",
+      "height_range": "0.6–1 m",
+      "care_difficulty": "hard",
+      "description": "A clumping prayer plant with large, velvety light-green leaves crossed by bold dark-green zebra stripes."
+    }
+  }
+}

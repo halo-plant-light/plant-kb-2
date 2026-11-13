@@ -1,0 +1,28 @@
+{
+  "id": "1369960",
+  "scientificName": "Tradescantia spathacea Sw.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1369960",
+      "commonNames": [
+        "Moses in-the-cradle",
+        "Boat lily",
+        "Boatlily",
+        "Oysterplant",
+        "Oyster plant"
+      ],
+      "genus": "Tradescantia",
+      "family": "Commelinaceae",
+      "scientificNameWithoutAuthor": "Tradescantia spathacea",
+      "scientificNameAuthorship": "Sw.",
+      "gbifId": 2765230,
+      "powoId": "173471-1",
+      "iucnCategory": null,
+      "origin": "Southern Mexico through Guatemala",
+      "growth_type": "rosette",
+      "height_range": "0.2–0.5 m",
+      "care_difficulty": "easy",
+      "description": "A short-stemmed perennial with stiff sword-shaped leaves, purple undersides and tiny white flowers nestled inside boat-shaped bracts."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1387288",
+  "scientificName": "Strelitzia nicolai Regel & Körn.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1387288",
+      "commonNames": [
+        "Bird of-paradise tree",
+        "Natal Wild Banana",
+        "White bird of-paradise",
+        "White bird of-paradise tree",
+        "Bird of-paradise -tree"
+      ],
+      "genus": "Strelitzia",
+      "family": "Strelitziaceae",
+      "scientificNameWithoutAuthor": "Strelitzia nicolai",
+      "scientificNameAuthorship": "Regel & Körn.",
+      "gbifId": 2763112,
+      "powoId": "798185-1",
+      "iucnCategory": null,
+      "origin": "Southern Mozambique and eastern South Africa",
+      "growth_type": "tree",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "moderate",
+      "description": "A giant banana-like perennial with paddle-shaped leaves arranged in fans and white flowers emerging from dark boat-shaped bracts."
+    }
+  }
+}

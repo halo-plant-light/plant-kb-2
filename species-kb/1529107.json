@@ -1,0 +1,28 @@
+{
+  "id": "1529107",
+  "scientificName": "Sedum burrito Moran",
+  "projects": {
+    "k-world-flora": {
+      "id": "1529107",
+      "commonNames": [
+        "Burro's Tail",
+        "Baby Burro's Tail",
+        "Burro’s tail (donkey tail plant)",
+        "Donkey's tail",
+        "Jelly bean"
+      ],
+      "genus": "Sedum",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Sedum burrito",
+      "scientificNameAuthorship": "Moran",
+      "gbifId": 5690519,
+      "powoId": "231663-2",
+      "iucnCategory": null,
+      "origin": "Veracruz, Mexico",
+      "growth_type": "trailing",
+      "height_range": "0.1–0.2 m",
+      "care_difficulty": "easy",
+      "description": "A trailing succulent with tightly packed, rounded blue-green leaves forming thick, bead-like hanging stems."
+    }
+  }
+}

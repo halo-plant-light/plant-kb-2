@@ -1,0 +1,28 @@
+{
+  "id": "1400653",
+  "scientificName": "Phlebodium aureum (L.) J.Sm.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1400653",
+      "commonNames": [
+        "Gold foot Fern",
+        "Golden Polypody",
+        "Blue star Fern",
+        "Cabbage Palm Fern",
+        "Hare foot Fern"
+      ],
+      "genus": "Phlebodium",
+      "family": "Polypodiaceae",
+      "scientificNameWithoutAuthor": "Phlebodium aureum",
+      "scientificNameAuthorship": "(L.) J.Sm.",
+      "gbifId": 2650479,
+      "powoId": "17175390-1",
+      "iucnCategory": null,
+      "origin": "Southeastern USA, Caribbean and South America",
+      "growth_type": "epiphytic",
+      "height_range": "0.3–0.9 m",
+      "care_difficulty": "easy",
+      "description": "A fern with lobed blue-green to green fronds rising from creeping rhizomes covered in golden-brown scales."
+    }
+  }
+}

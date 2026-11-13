@@ -1,0 +1,28 @@
+{
+  "id": "1464023",
+  "scientificName": "Alocasia baginda Kurniawan & P.C.Boyce",
+  "projects": {
+    "k-world-flora": {
+      "id": "1464023",
+      "commonNames": [
+        "Alocasia dragon scale",
+        "Alocasia silver dragon",
+        "Dragon scale plant",
+        "Alocasia ‘Dragon Scale’ cv",
+        "Alocasia pink dragon"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia baginda",
+      "scientificNameAuthorship": "Kurniawan & P.C.Boyce",
+      "gbifId": 8316200,
+      "powoId": "60456116-2",
+      "iucnCategory": null,
+      "origin": "Borneo, specifically eastern Kalimantan, Indonesia",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "hard",
+      "description": "This compact jewel alocasia bears thick, strongly textured shield-shaped leaves with dark veins and a dragon-scale appearance."
+    }
+  }
+}

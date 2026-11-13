@@ -1,0 +1,26 @@
+{
+  "id": "1466840",
+  "scientificName": "Syngonium erythrophyllum Birdsey ex G.S.Bunting",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466840",
+      "commonNames": [
+        "Arrowhead vine",
+        "Red Arrow",
+        "Arrowhead Ivy"
+      ],
+      "genus": "Syngonium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Syngonium erythrophyllum",
+      "scientificNameAuthorship": "Birdsey ex G.S.Bunting",
+      "gbifId": 2867864,
+      "powoId": "248438-2",
+      "iucnCategory": null,
+      "origin": "Panama; possibly Pacific Colombia",
+      "growth_type": "climbing",
+      "height_range": "0.6–1.5 m",
+      "care_difficulty": "moderate",
+      "description": "A slender climbing syngonium with dark arrow-shaped juvenile leaves and rich reddish-purple undersides."
+    }
+  }
+}

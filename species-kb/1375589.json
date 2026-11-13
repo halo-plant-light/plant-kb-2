@@ -1,0 +1,28 @@
+{
+  "id": "1375589",
+  "scientificName": "Euphorbia trigona Mill.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1375589",
+      "commonNames": [
+        "African milktree",
+        "African milk tree",
+        "African milk weed",
+        "Triangular spurge",
+        "African milk bush"
+      ],
+      "genus": "Euphorbia",
+      "family": "Euphorbiaceae",
+      "scientificNameWithoutAuthor": "Euphorbia trigona",
+      "scientificNameAuthorship": "Mill.",
+      "gbifId": 3067098,
+      "powoId": "348565-1",
+      "iucnCategory": "DD",
+      "origin": "West-central to southeastern tropical Africa",
+      "growth_type": "upright",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "easy",
+      "description": "A candelabra-shaped succulent with three-angled green stems, paired marginal spines and small teardrop leaves along the ridges."
+    }
+  }
+}

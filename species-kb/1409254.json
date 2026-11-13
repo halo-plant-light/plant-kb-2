@@ -1,0 +1,28 @@
+{
+  "id": "1409254",
+  "scientificName": "Callisia repens (Jacq.) L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409254",
+      "commonNames": [
+        "Turtle Vine",
+        "Creeping Inchplant",
+        "Creeping Inch Plant",
+        "Pink Panther",
+        "Turtlevine"
+      ],
+      "genus": "Callisia",
+      "family": "Commelinaceae",
+      "scientificNameWithoutAuthor": "Callisia repens",
+      "scientificNameAuthorship": "(Jacq.) L.",
+      "gbifId": 5303420,
+      "powoId": "171826-1",
+      "iucnCategory": null,
+      "origin": "Southeastern Texas, Caribbean and tropical Americas",
+      "growth_type": "groundcover",
+      "height_range": "0.05–0.15 m",
+      "care_difficulty": "very_easy",
+      "description": "Turtle vine forms dense carpets of tiny overlapping leaves on fine creeping stems that spill readily over a pot rim."
+    }
+  }
+}

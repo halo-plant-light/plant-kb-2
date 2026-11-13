@@ -1,0 +1,25 @@
+{
+  "id": "1820527",
+  "scientificName": "Disocactus anguliger (Lem.) M.Á.Cruz & S.Arias",
+  "projects": {
+    "k-world-flora": {
+      "id": "1820527",
+      "commonNames": [
+        "Fishbone cactus",
+        "Ric Rac Cactus"
+      ],
+      "genus": "Disocactus",
+      "family": "Cactaceae",
+      "scientificNameWithoutAuthor": "Disocactus anguliger",
+      "scientificNameAuthorship": "(Lem.) M.Á.Cruz & S.Arias",
+      "gbifId": 10771315,
+      "powoId": "77155391-1",
+      "iucnCategory": null,
+      "origin": "Southwestern Mexico",
+      "growth_type": "epiphytic",
+      "height_range": "0.2–0.4 m",
+      "care_difficulty": "easy",
+      "description": "An epiphytic cactus with flattened, deeply zigzagged stems and large, fragrant, pale night-opening flowers."
+    }
+  }
+}

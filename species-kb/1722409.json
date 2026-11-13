@@ -1,0 +1,28 @@
+{
+  "id": "1722409",
+  "scientificName": "Salvia rosmarinus Spenn.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1722409",
+      "commonNames": [
+        "Rosemary",
+        "Garden rosemary",
+        "Anthos",
+        "Kitchen Rosemary",
+        "Moorwort"
+      ],
+      "genus": "Salvia",
+      "family": "Lamiaceae",
+      "scientificNameWithoutAuthor": "Salvia rosmarinus",
+      "scientificNameAuthorship": "Spenn.",
+      "gbifId": 10902460,
+      "powoId": "457138-1",
+      "iucnCategory": null,
+      "origin": "Mediterranean region",
+      "growth_type": "shrub",
+      "height_range": "0.5–1.5 m",
+      "care_difficulty": "moderate",
+      "description": "An aromatic evergreen shrub with narrow, needle-like leaves and small blue to lilac flowers."
+    }
+  }
+}

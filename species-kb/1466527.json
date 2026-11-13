@@ -1,0 +1,28 @@
+{
+  "id": "1466527",
+  "scientificName": "Rhaphidophora tetrasperma Hook.f.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466527",
+      "commonNames": [
+        "Mini monstera",
+        "Swiss Cheese plant",
+        "برگ انجیری",
+        "False monstera",
+        "Monstera deliciosa"
+      ],
+      "genus": "Rhaphidophora",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Rhaphidophora tetrasperma",
+      "scientificNameAuthorship": "Hook.f.",
+      "gbifId": 5329745,
+      "powoId": "88594-1",
+      "iucnCategory": null,
+      "origin": "Peninsular Thailand and Peninsular Malaysia",
+      "growth_type": "climbing",
+      "height_range": "1.5–3 m",
+      "care_difficulty": "easy",
+      "description": "A fast-growing tropical climber with small, glossy leaves cut into bold lobes reminiscent of a miniature monstera."
+    }
+  }
+}

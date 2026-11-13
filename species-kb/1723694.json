@@ -1,0 +1,28 @@
+{
+  "id": "1723694",
+  "scientificName": "Goeppertia roseopicta (Linden ex Lem.) Borchs. & S.Suárez",
+  "projects": {
+    "k-world-flora": {
+      "id": "1723694",
+      "commonNames": [
+        "Medallion prayer plant",
+        "Calathea",
+        "Prayer plant",
+        "Calathea Josh’s frog",
+        "Hallelujah plant"
+      ],
+      "genus": "Goeppertia",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Goeppertia roseopicta",
+      "scientificNameAuthorship": "(Linden ex Lem.) Borchs. & S.Suárez",
+      "gbifId": 8023661,
+      "powoId": "60461319-2",
+      "iucnCategory": null,
+      "origin": "Western South America to western Brazil",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "hard",
+      "description": "A clumping prayer plant with broad oval leaves typically marked by a contrasting central pattern and purplish undersides."
+    }
+  }
+}

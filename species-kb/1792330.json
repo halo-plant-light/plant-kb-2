@@ -1,0 +1,28 @@
+{
+  "id": "1792330",
+  "scientificName": "Hoya australis R.Br. ex J.Traill",
+  "projects": {
+    "k-world-flora": {
+      "id": "1792330",
+      "commonNames": [
+        "Common waxflower",
+        "Hoya",
+        "Native hoya",
+        "Porcelain flower",
+        "Samoan waxplant"
+      ],
+      "genus": "Hoya",
+      "family": "Apocynaceae",
+      "scientificNameWithoutAuthor": "Hoya australis",
+      "scientificNameAuthorship": "R.Br. ex J.Traill",
+      "gbifId": 7150750,
+      "powoId": "98382-1",
+      "iucnCategory": null,
+      "origin": "Borneo to Australia and southwestern Pacific",
+      "growth_type": "climbing",
+      "height_range": "1.5–4 m",
+      "care_difficulty": "easy",
+      "description": "A vigorous evergreen climber with thick oval leaves and fragrant white flowers marked by reddish centers."
+    }
+  }
+}

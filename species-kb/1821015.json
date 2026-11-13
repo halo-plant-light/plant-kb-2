@@ -1,0 +1,28 @@
+{
+  "id": "1821015",
+  "scientificName": "Beaucarnea recurvata (K.Koch & Fintelm.) Lem.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1821015",
+      "commonNames": [
+        "Ponytail",
+        "Bottle palm",
+        "Ponytail Palm",
+        "Stripy Ponytail",
+        "Elephant foot-tree"
+      ],
+      "genus": "Beaucarnea",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Beaucarnea recurvata",
+      "scientificNameAuthorship": "(K.Koch & Fintelm.) Lem.",
+      "gbifId": 2768035,
+      "powoId": "531735-1",
+      "iucnCategory": "CR",
+      "origin": "Eastern Mexico",
+      "growth_type": "tree",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "very_easy",
+      "description": "A slow-growing succulent tree with a swollen water-storing trunk and a fountain of long, curling leaves."
+    }
+  }
+}

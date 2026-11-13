@@ -1,0 +1,28 @@
+{
+  "id": "1409275",
+  "scientificName": "Aspidistra elatior Blume",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409275",
+      "commonNames": [
+        "Cast iron-plant",
+        "Cast Iron Plant",
+        "Barroomplant",
+        "Parlor palm",
+        "Variegated Cast Iron Plant"
+      ],
+      "genus": "Aspidistra",
+      "family": "Asparagaceae",
+      "scientificNameWithoutAuthor": "Aspidistra elatior",
+      "scientificNameAuthorship": "Blume",
+      "gbifId": 2769937,
+      "powoId": "531586-1",
+      "iucnCategory": null,
+      "origin": "Southern Japanese islands",
+      "growth_type": "upright",
+      "height_range": "0.45–0.9 m",
+      "care_difficulty": "very_easy",
+      "description": "Cast iron plant produces broad, leathery dark green leaves directly from a slowly spreading underground rhizome."
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "id": "1404456",
+  "scientificName": "Rhipsalis baccifera (J.S.Muell.) Stearn",
+  "projects": {
+    "k-world-flora": {
+      "id": "1404456",
+      "commonNames": [
+        "Mistletoe Cactus",
+        "Crows foot",
+        "Fruit bearing Rhipsalis"
+      ],
+      "genus": "Rhipsalis",
+      "family": "Cactaceae",
+      "scientificNameWithoutAuthor": "Rhipsalis baccifera",
+      "scientificNameAuthorship": "(J.S.Muell.) Stearn",
+      "gbifId": 3084036,
+      "powoId": "219250-2",
+      "iucnCategory": "LC",
+      "origin": "Tropical Americas, Africa and Indian Ocean region",
+      "growth_type": "epiphytic",
+      "height_range": "1–1.8 m",
+      "care_difficulty": "easy",
+      "description": "An epiphytic cactus with slender, branching, nearly spineless green stems and small pale berries."
+    }
+  }
+}

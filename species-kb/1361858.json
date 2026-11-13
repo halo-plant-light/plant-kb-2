@@ -1,0 +1,28 @@
+{
+  "id": "1361858",
+  "scientificName": "Cyclamen persicum Mill.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1361858",
+      "commonNames": [
+        "Florist's cyclamen",
+        "Persian Cyclamen",
+        "Cyclamen",
+        "Tangara rastrojera",
+        "Common Cyclamen"
+      ],
+      "genus": "Cyclamen",
+      "family": "Primulaceae",
+      "scientificNameWithoutAuthor": "Cyclamen persicum",
+      "scientificNameAuthorship": "Mill.",
+      "gbifId": 3169317,
+      "powoId": "700765-1",
+      "iucnCategory": null,
+      "origin": "Eastern Mediterranean",
+      "growth_type": "rosette",
+      "height_range": "0.15–0.35 m",
+      "care_difficulty": "moderate",
+      "description": "A tuberous perennial with silver-marbled heart-shaped leaves and swept-back pink, red, purple or white petals held above the foliage."
+    }
+  }
+}

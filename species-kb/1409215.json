@@ -1,0 +1,28 @@
+{
+  "id": "1409215",
+  "scientificName": "Peperomia caperata Yunck.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409215",
+      "commonNames": [
+        "Emerald ripple pepper",
+        "Green ripple pepper",
+        "Little fantasy pepper",
+        "Peperomia Rosso",
+        "Emerald Ripple Peperomia"
+      ],
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "scientificNameWithoutAuthor": "Peperomia caperata",
+      "scientificNameAuthorship": "Yunck.",
+      "gbifId": 4186167,
+      "powoId": "678190-1",
+      "iucnCategory": null,
+      "origin": "Southeastern Brazil",
+      "growth_type": "rosette",
+      "height_range": "0.15–0.25 m",
+      "care_difficulty": "easy",
+      "description": "Emerald ripple peperomia is a compact plant with deeply corrugated, heart-shaped leaves and slender pale flower spikes."
+    }
+  }
+}

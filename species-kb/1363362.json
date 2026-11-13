@@ -1,0 +1,28 @@
+{
+  "id": "1363362",
+  "scientificName": "Laurus nobilis L.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1363362",
+      "commonNames": [
+        "Sweet bay",
+        "Bay laurel",
+        "Sweet laurel",
+        "Bay Tree",
+        "Bay"
+      ],
+      "genus": "Laurus",
+      "family": "Lauraceae",
+      "scientificNameWithoutAuthor": "Laurus nobilis",
+      "scientificNameAuthorship": "L.",
+      "gbifId": 3034015,
+      "powoId": "465049-1",
+      "iucnCategory": "LC",
+      "origin": "The Mediterranean region",
+      "growth_type": "tree",
+      "height_range": "1–3 m",
+      "care_difficulty": "easy",
+      "description": "An evergreen small tree with glossy, leathery aromatic leaves used as culinary bay and small yellowish spring flowers."
+    }
+  }
+}

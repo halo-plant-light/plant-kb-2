@@ -1,0 +1,28 @@
+{
+  "id": "1718411",
+  "scientificName": "Licuala grandis (T.Moore) H.Wendl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1718411",
+      "commonNames": [
+        "Ruffled Fan Palm",
+        "Ruffled Lantan Palm",
+        "Vanuatu Fan Palm",
+        "Round leaved Licuala Palm",
+        "Ruffed Fan Palm"
+      ],
+      "genus": "Licuala",
+      "family": "Arecaceae",
+      "scientificNameWithoutAuthor": "Licuala grandis",
+      "scientificNameAuthorship": "(T.Moore) H.Wendl.",
+      "gbifId": 8008690,
+      "powoId": "667880-1",
+      "iucnCategory": null,
+      "origin": "The Santa Cruz Islands and Vanuatu",
+      "growth_type": "tree",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "hard",
+      "description": "A slow-growing fan palm with nearly circular, pleated leaves held like large green parasols."
+    }
+  }
+}

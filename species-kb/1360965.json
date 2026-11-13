@@ -1,0 +1,28 @@
+{
+  "id": "1360965",
+  "scientificName": "Narcissus papyraceus Ker Gawl.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1360965",
+      "commonNames": [
+        "Paper white daffodil",
+        "Paperwhite narcissus",
+        "Paper white narcissus",
+        "Paperwhite",
+        "Běła narcisa"
+      ],
+      "genus": "Narcissus",
+      "family": "Amaryllidaceae",
+      "scientificNameWithoutAuthor": "Narcissus papyraceus",
+      "scientificNameAuthorship": "Ker Gawl.",
+      "gbifId": 2858739,
+      "powoId": "66149-1",
+      "iucnCategory": null,
+      "origin": "Mediterranean region",
+      "growth_type": "upright",
+      "height_range": "0.3–0.5 m",
+      "care_difficulty": "easy",
+      "description": "A winter-flowering bulb with strap-shaped leaves and clusters of intensely fragrant all-white daffodil flowers."
+    }
+  }
+}

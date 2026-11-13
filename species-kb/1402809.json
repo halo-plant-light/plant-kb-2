@@ -1,0 +1,25 @@
+{
+  "id": "1402809",
+  "scientificName": "Philodendron squamiferum Poepp.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1402809",
+      "commonNames": [
+        "Brezilian Chemagadda",
+        "Brazilian Chemagadda"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron squamiferum",
+      "scientificNameAuthorship": "Poepp.",
+      "gbifId": 2870698,
+      "powoId": "88023-1",
+      "iucnCategory": null,
+      "origin": "French Guiana, Suriname and northern Brazil",
+      "growth_type": "climbing",
+      "height_range": "1–2.5 m",
+      "care_difficulty": "moderate",
+      "description": "A tropical climbing philodendron distinguished by deeply lobed leaves and conspicuously bristly reddish petioles."
+    }
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": "1418321",
+  "scientificName": "Schlumbergera truncata (Haw.) Moran",
+  "projects": {
+    "k-world-flora": {
+      "id": "1418321",
+      "commonNames": [
+        "Christmas cactus",
+        "Thanksgiving cactus",
+        "False Christmas cactus",
+        "Crab cactus",
+        "Linkleaf"
+      ],
+      "genus": "Schlumbergera",
+      "family": "Cactaceae",
+      "scientificNameWithoutAuthor": "Schlumbergera truncata",
+      "scientificNameAuthorship": "(Haw.) Moran",
+      "gbifId": 5383983,
+      "powoId": "229597-2",
+      "iucnCategory": "VU",
+      "origin": "Atlantic rainforest of southeastern Brazil",
+      "growth_type": "epiphytic",
+      "height_range": "0.2–0.3 m",
+      "care_difficulty": "easy",
+      "description": "Thanksgiving cactus has flattened stem segments with pointed teeth and produces showy tubular flowers near the ends of its arching branches."
+    }
+  }
+}

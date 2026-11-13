@@ -1,0 +1,28 @@
+{
+  "id": "1361824",
+  "scientificName": "Lavandula angustifolia Mill.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1361824",
+      "commonNames": [
+        "English lavender",
+        "Lavender",
+        "Common Lavender",
+        "True Lavender",
+        "Dutch Lavender"
+      ],
+      "genus": "Lavandula",
+      "family": "Lamiaceae",
+      "scientificNameWithoutAuthor": "Lavandula angustifolia",
+      "scientificNameAuthorship": "Mill.",
+      "gbifId": 2927305,
+      "powoId": "449008-1",
+      "iucnCategory": "LC",
+      "origin": "Western and central Mediterranean",
+      "growth_type": "shrub",
+      "height_range": "0.4–0.9 m",
+      "care_difficulty": "moderate",
+      "description": "A fragrant evergreen subshrub with narrow silvery leaves and slender stems topped by dense violet-blue flower spikes."
+    }
+  }
+}

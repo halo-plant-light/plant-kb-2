@@ -1,0 +1,28 @@
+{
+  "id": "1409179",
+  "scientificName": "Kalanchoe blossfeldiana Poelln.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409179",
+      "commonNames": [
+        "Flaming katy",
+        "Madagascar widow's thrill",
+        "Kalanchoe",
+        "Christmas kalanchoe",
+        "Florist Kalanchoe"
+      ],
+      "genus": "Kalanchoe",
+      "family": "Crassulaceae",
+      "scientificNameWithoutAuthor": "Kalanchoe blossfeldiana",
+      "scientificNameAuthorship": "Poelln.",
+      "gbifId": 2985944,
+      "powoId": "274279-1",
+      "iucnCategory": null,
+      "origin": "Northeastern Madagascar",
+      "growth_type": "upright",
+      "height_range": "0.15–0.45 m",
+      "care_difficulty": "easy",
+      "description": "A compact flowering succulent with glossy scalloped leaves and dense clusters of long-lasting brightly colored flowers."
+    }
+  }
+}

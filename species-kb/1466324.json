@@ -1,0 +1,25 @@
+{
+  "id": "1466324",
+  "scientificName": "Philodendron verrucosum L.Mathieu ex Schott",
+  "projects": {
+    "k-world-flora": {
+      "id": "1466324",
+      "commonNames": [
+        "Ecuador philodendron",
+        "Warty philodendron"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron verrucosum",
+      "scientificNameAuthorship": "L.Mathieu ex Schott",
+      "gbifId": 2871089,
+      "powoId": "314474-2",
+      "iucnCategory": null,
+      "origin": "Costa Rica and Panama through Colombia and Ecuador to Peru",
+      "growth_type": "climbing",
+      "height_range": "1–2 m",
+      "care_difficulty": "hard",
+      "description": "A velvety-leaved climbing philodendron with bright contrasting veins and conspicuously bristly petioles."
+    }
+  }
+}

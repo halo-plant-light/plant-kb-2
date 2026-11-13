@@ -1,0 +1,28 @@
+{
+  "id": "1730309",
+  "scientificName": "Ctenanthe oppenheimiana (É.Morren) K.Schum.",
+  "projects": {
+    "k-world-flora": {
+      "id": "1730309",
+      "commonNames": [
+        "Never never plant",
+        "Never never-plant",
+        "Pilosa",
+        "Prayer Plant",
+        "Tiger stripe"
+      ],
+      "genus": "Ctenanthe",
+      "family": "Marantaceae",
+      "scientificNameWithoutAuthor": "Ctenanthe oppenheimiana",
+      "scientificNameAuthorship": "(É.Morren) K.Schum.",
+      "gbifId": 2762437,
+      "powoId": "71824-2",
+      "iucnCategory": null,
+      "origin": "Bahia, Brazil",
+      "growth_type": "upright",
+      "height_range": "0.8–1.5 m",
+      "care_difficulty": "moderate",
+      "description": "A tall prayer plant with lance-shaped leaves patterned in pale green and darker bands above purple undersides."
+    }
+  }
+}

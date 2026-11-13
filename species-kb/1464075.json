@@ -1,0 +1,26 @@
+{
+  "id": "1464075",
+  "scientificName": "Alocasia reginula A.Hay",
+  "projects": {
+    "k-world-flora": {
+      "id": "1464075",
+      "commonNames": [
+        "Alocasia Black Velvet",
+        "Black Velvet",
+        "Black Velvet Alocasia"
+      ],
+      "genus": "Alocasia",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Alocasia reginula",
+      "scientificNameAuthorship": "A.Hay",
+      "gbifId": 5329895,
+      "powoId": "1006568-1",
+      "iucnCategory": null,
+      "origin": "Probably Borneo; exact origin uncertain",
+      "growth_type": "upright",
+      "height_range": "0.2–0.35 m",
+      "care_difficulty": "hard",
+      "description": "Black velvet alocasia forms a compact clump of thick, nearly black velvety leaves crossed by bright silvery veins."
+    }
+  }
+}

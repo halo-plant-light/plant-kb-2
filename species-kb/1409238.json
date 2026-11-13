@@ -1,0 +1,28 @@
+{
+  "id": "1409238",
+  "scientificName": "Anthurium andraeanum Linden ex André",
+  "projects": {
+    "k-world-flora": {
+      "id": "1409238",
+      "commonNames": [
+        "Flamingo lily",
+        "Anthurium",
+        "Flamingo flower",
+        "Oilcloth flower",
+        "Painter's palette"
+      ],
+      "genus": "Anthurium",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Anthurium andraeanum",
+      "scientificNameAuthorship": "Linden ex André",
+      "gbifId": 2872695,
+      "powoId": "84549-1",
+      "iucnCategory": null,
+      "origin": "Colombia to Ecuador",
+      "growth_type": "upright",
+      "height_range": "0.3–0.6 m",
+      "care_difficulty": "moderate",
+      "description": "This tropical anthurium bears glossy heart-shaped leaves and long-lasting, brightly colored spathes surrounding an upright spadix."
+    }
+  }
+}

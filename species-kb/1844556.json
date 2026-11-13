@@ -1,0 +1,24 @@
+{
+  "id": "1844556",
+  "scientificName": "Philodendron × domesticum G.S.Bunting",
+  "projects": {
+    "k-world-flora": {
+      "id": "1844556",
+      "commonNames": [
+        "Spade leaf philodendron"
+      ],
+      "genus": "Philodendron",
+      "family": "Araceae",
+      "scientificNameWithoutAuthor": "Philodendron × domesticum",
+      "scientificNameAuthorship": "G.S.Bunting",
+      "gbifId": 3604671,
+      "powoId": "193021-2",
+      "iucnCategory": null,
+      "origin": "Cultivated hybrid; parentage uncertain",
+      "growth_type": "climbing",
+      "height_range": "1–3 m",
+      "care_difficulty": "easy",
+      "description": "A climbing philodendron hybrid with large, glossy, elongated arrow-shaped leaves."
+    }
+  }
+}

@@ -1,0 +1,24 @@
+{
+  "id": "1861632",
+  "scientificName": "Peperomia argyraea W.Bull",
+  "projects": {
+    "k-world-flora": {
+      "id": "1861632",
+      "commonNames": [
+        "Watermelon Peperomia"
+      ],
+      "genus": "Peperomia",
+      "family": "Piperaceae",
+      "scientificNameWithoutAuthor": "Peperomia argyraea",
+      "scientificNameAuthorship": "W.Bull",
+      "gbifId": 12251984,
+      "powoId": "678020-1",
+      "iucnCategory": null,
+      "origin": "Tropical South America, including Venezuela, Bolivia and Brazil",
+      "growth_type": "upright",
+      "height_range": "0.15–0.3 m",
+      "care_difficulty": "easy",
+      "description": "A compact peperomia with rounded, shield-like leaves striped silver and green like miniature watermelons."
+    }
+  }
+}
